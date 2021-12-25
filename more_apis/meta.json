@@ -1,0 +1,27 @@
+{
+  "id": "more_apis",
+  "name": "More APIs",
+  "version": "2.2.0-dev",
+  "repository": "https://github.com/HuajiMUR233/MoreAPIs",
+  "labels": [
+    "api"
+  ],
+  "authors": [
+    "Huaji_MUR233"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.1.4"
+  },
+  "requirements": [
+    "ruamel.yaml>=0.16.12",
+    "javaproperties>=0.8.0",
+    "mcdreforged>=2.1.0",
+    "dnspython>=2.1.0",
+    "mcstatus>=6.5.0",
+    "parse>=1.18.0"
+  ],
+  "description": {
+    "en_us": "Add some api for MCDReforged",
+    "zh_cn": "给 MCDReforged 添加了一些 API"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "cpu_temp",
+  "latest_version": "3.0.2",
+  "etag": "\"b865eb7dda1669be4b9d155206b8b26a3a63178b6e3fec9467e2d65a39e7542a\"",
+  "releases": [
+    {
+      "url": "https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2",
+      "name": "cpu_temp v3.0",
+      "tag_name": "v3.0.2",
+      "created_at": "2021-10-26T07:20:43Z",
+      "assets": [
+        {
+          "name": "cpu_temp-3.0.2.mcdr",
+          "size": 8621,
+          "download_count": 24,
+          "created_at": "2021-10-26T07:30:51Z",
+          "browser_download_url": "https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr"
+        }
+      ],
+      "description": "# News & Changes\r\nSupport for [MCDR2.0](https://github.com/Fallen-Breath/MCDReforged)\r\n# BUGFIX\r\nFix bugs\r\n# Patches versions\r\n## v3.0.1\r\nBUGFIX\r\n## v3.0.2\r\nBUGFIX",
+      "prerelease": false,
+      "parsed_version": "3.0.2"
+    }
+  ]
+}

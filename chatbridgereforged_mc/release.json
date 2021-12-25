@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "chatbridgereforged_mc",
+  "latest_version": "0.0.1",
+  "etag": "\"96d0509550ada8bf29f82b24a00e3fcc61f78102d761d47ee2b0a3bea1398115\"",
+  "releases": [
+    {
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.1",
+      "name": "0.0.1-release",
+      "tag_name": "0.0.1",
+      "created_at": "2021-12-24T08:53:08Z",
+      "assets": [
+        {
+          "name": "ChatBridgeReforged.zip",
+          "size": 33085,
+          "download_count": 0,
+          "created_at": "2021-12-24T09:15:11Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged.zip"
+        },
+        {
+          "name": "ChatBridgeReforged_cqhttp.py",
+          "size": 28192,
+          "download_count": 0,
+          "created_at": "2021-12-24T09:00:16Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_cqhttp.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.py",
+          "size": 28282,
+          "download_count": 0,
+          "created_at": "2021-12-24T09:00:18Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_MC.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.pyz",
+          "size": 44370,
+          "download_count": 0,
+          "created_at": "2021-12-24T09:00:12Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_MC.pyz"
+        }
+      ],
+      "description": "## Description\r\nFinally, I have done it.\r\n## Change between beta and release\r\n- not compatible anymore with CB and CBR beta\r\n- merge client_MC and client_MC0.9\r\n- change from GPL to LGPL",
+      "prerelease": false,
+      "parsed_version": "0.0.1"
+    }
+  ]
+}
