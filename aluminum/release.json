@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "aluminum",
   "latest_version": "0.1.3",
-  "etag": "\"96ff5c9016cdc45c8937fa0dff6cd16a387fc7add019e051dfb012af290febb8\"",
+  "etag": "\"e1ecf2b3df7a4919e30eca13b633a05d75eb340e5ad858bf5dd7556cd608a4f4\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3",
@@ -13,7 +13,7 @@
         {
           "name": "Aluminum-v0.1.3.mcdr",
           "size": 7089,
-          "download_count": 99,
+          "download_count": 100,
           "created_at": "2021-10-23T13:47:40Z",
           "browser_download_url": "https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr"
         }

@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "faster_transfer",
   "latest_version": "0.1",
-  "etag": "\"202b7b7523cbb0eee7dda1139f95493cbc01c3207a2baf2b8534dff5ffec41c5\"",
+  "etag": "\"e2b33db8a28cbf7c934fcebf46edfb759b982eb32dc7fbd5a22ea3fcac9fafd0\"",
   "releases": [
     {
       "url": "https://github.com/alex3236/FasterTransfer/releases/tag/v0.1",
@@ -13,7 +13,7 @@
         {
           "name": "FasterTransfer-v0.1.0.mcdr",
           "size": 935,
-          "download_count": 38,
+          "download_count": 40,
           "created_at": "2021-10-04T07:59:17Z",
           "browser_download_url": "https://github.com/alex3236/FasterTransfer/releases/download/v0.1/FasterTransfer-v0.1.0.mcdr"
         }
