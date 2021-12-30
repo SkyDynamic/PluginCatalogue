@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mcd_seen",
   "latest_version": "1.1.1",
-  "etag": "\"e3b4c44a15518a2f75e0e0206005407df467601a57cd1e3f3f1ac7b7bd28a56e\"",
+  "etag": "\"9442b40ad4081a7d8f80ce06db652a240eca48f4a640701a8d076d5e78ac7578\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Seen/releases/tag/1.1.1",
@@ -13,7 +13,7 @@
         {
           "name": "Seen-v1.1.1.mcdr",
           "size": 10016,
-          "download_count": 1343,
+          "download_count": 1344,
           "created_at": "2021-08-27T06:13:23Z",
           "browser_download_url": "https://github.com/TISUnion/Seen/releases/download/1.1.1/Seen-v1.1.1.mcdr"
         }
