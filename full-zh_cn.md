@@ -211,7 +211,7 @@
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 120
+- 总下载量: 121
 - 作者: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - 仓库: https://github.com/Harry-zklcdc/MCDR-Cato
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -246,7 +246,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Cato-v1.1.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0) | 1.1.0 | 2021/10/31 08:31:03 | 2.9KB | 94 | [下载](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr) |
+| [Cato-v1.1.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0) | 1.1.0 | 2021/10/31 08:31:03 | 2.9KB | 95 | [下载](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr) |
 | [Cato-v1.0.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0) | 1.0.0 | 2021/10/14 12:15:08 | 2.93KB | 26 | [下载](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.0.0/Cato-v1.0.0.mcdr) |
 
 ## chatbridge
@@ -390,7 +390,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 3.0.2
   - 元数据版本: 3.0.2
   - 发布版本: 3.0.2
-- 总下载量: 28
+- 总下载量: 29
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/cpu_temp
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -418,7 +418,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [cpu_temp-3.0.2.mcdr](https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2) | 3.0.2 | 2021/10/26 07:30:51 | 8.42KB | 28 | [下载](https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr) |
+| [cpu_temp-3.0.2.mcdr](https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2) | 3.0.2 | 2021/10/26 07:30:51 | 8.42KB | 29 | [下载](https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr) |
 
 ## crash_restart
 
@@ -615,7 +615,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.2.2
   - 元数据版本: 1.2.2
   - 发布版本: 1.2.2
-- 总下载量: 5645
+- 总下载量: 5646
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Here
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -639,7 +639,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 158 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 159 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1488 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1319 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -652,7 +652,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 0.0.2
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
-- 总下载量: 1464
+- 总下载量: 1465
 - 作者: [zhang_anzhi](https://github.com/zhang-anzhi)
 - 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -707,7 +707,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1464 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
+| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1465 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
 
 ## join_motd
 
@@ -880,7 +880,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.3.1
   - 元数据版本: 1.3.1
   - 发布版本: 1.3.1
-- 总下载量: 1465
+- 总下载量: 1466
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - 仓库: https://github.com/TISUnion/LocationMarker
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -906,7 +906,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1465 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1466 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## mc_uuid
 
@@ -992,7 +992,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 2.1.0
   - 元数据版本: 2.1.0
   - 发布版本: 2.1.0
-- 总下载量: 2688
+- 总下载量: 2689
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1017,7 +1017,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Task-v2.1.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.1.0) | 2.1.0 | 2021/12/05 05:14:26 | 14.58KB | 16 | [下载](https://github.com/TISUnion/Task/releases/download/2.1.0/Task-v2.1.0.mcdr) |
+| [Task-v2.1.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.1.0) | 2.1.0 | 2021/12/05 05:14:26 | 14.58KB | 17 | [下载](https://github.com/TISUnion/Task/releases/download/2.1.0/Task-v2.1.0.mcdr) |
 | [Task-v2.0.1.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 02:49:35 | 14.2KB | 1352 | [下载](https://github.com/TISUnion/Task/releases/download/2.0.1/Task-v2.0.1.mcdr) |
 | [Task-v2.0.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.0) | 2.0.0 | 2021/08/17 09:09:20 | 14.2KB | 1320 | [下载](https://github.com/TISUnion/Task/releases/download/2.0.0/Task-v2.0.0.mcdr) |
 
@@ -1105,7 +1105,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.4.1
   - 元数据版本: 1.4.1
   - 发布版本: 1.4.1
-- 总下载量: 1657
+- 总下载量: 1658
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MinecraftDataAPI
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
@@ -1133,7 +1133,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 1657 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 1658 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## more_apis
 
@@ -1188,7 +1188,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 1184
+- 总下载量: 1185
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/MultiRconAPI
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
@@ -1214,7 +1214,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1184 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
+| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1185 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
 ## multi_whitelist
 
@@ -1225,7 +1225,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 3.0.0
   - 元数据版本: 3.0.0
   - 发布版本: 3.0.0
-- 总下载量: 22
+- 总下载量: 23
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/multi_whitelist
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1251,7 +1251,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [multi_whitelist-3.0.0.mcdr](https://github.com/R1ckyH/multi_whitelist/releases/tag/v3.0.0) | 3.0.0 | 2021/10/26 16:12:21 | 16.99KB | 22 | [下载](https://github.com/R1ckyH/multi_whitelist/releases/download/v3.0.0/multi_whitelist-3.0.0.mcdr) |
+| [multi_whitelist-3.0.0.mcdr](https://github.com/R1ckyH/multi_whitelist/releases/tag/v3.0.0) | 3.0.0 | 2021/10/26 16:12:21 | 16.99KB | 23 | [下载](https://github.com/R1ckyH/multi_whitelist/releases/download/v3.0.0/multi_whitelist-3.0.0.mcdr) |
 
 ## onebot_api
 
@@ -1340,7 +1340,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.0.3
   - 元数据版本: 1.0.3
   - 发布版本: 1.0.3
-- 总下载量: 4025
+- 总下载量: 4026
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/PermanentBackup
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1365,7 +1365,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 1419 | [下载](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
+| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 1420 | [下载](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
 | [PermanentBackup-v1.0.2.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2) | 1.0.2 | 2021/08/17 05:34:54 | 15.54KB | 1303 | [下载](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr) |
 | [PermanentBackup-v1.0.1.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:05:01 | 15.5KB | 1303 | [下载](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr) |
 
@@ -1378,7 +1378,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.5.0
   - 元数据版本: 1.5.0
   - 发布版本: 1.5.0
-- 总下载量: 5873
+- 总下载量: 5875
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1411,7 +1411,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 52 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
+| [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 54 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 | [QuickBackupM-v1.4.4.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4) | 1.4.4 | 2021/12/09 08:06:09 | 21.63KB | 49 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.4/QuickBackupM-v1.4.4.mcdr) |
 | [QuickBackupM-v1.4.3.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.3) | 1.4.3 | 2021/10/30 06:12:46 | 21.63KB | 176 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.3/QuickBackupM-v1.4.3.mcdr) |
 
@@ -1535,7 +1535,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 1354
+- 总下载量: 1356
 - 作者: [FlyingShuriken](https://github.com/FlyingShuriken)
 - 仓库: https://github.com/FlyingShuriken/MCDR-plugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1558,7 +1558,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1354 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1356 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## simple_calculator
 
@@ -1785,7 +1785,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 7.3.1
   - 元数据版本: 7.3.1
   - 发布版本: 7.3.1
-- 总下载量: 5519
+- 总下载量: 5520
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/StatsHelper
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md)
@@ -1811,7 +1811,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.3.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.3.1) | 7.3.1 | 2021/10/03 16:53:26 | 22.96KB | 182 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.3.1/StatsHelper-v7.3.1.mcdr) |
+| [StatsHelper-v7.3.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.3.1) | 7.3.1 | 2021/10/03 16:53:26 | 22.96KB | 183 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.3.1/StatsHelper-v7.3.1.mcdr) |
 | [StatsHelper-v7.2.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.2.0) | 7.2.0 | 2021/08/26 13:47:17 | 22.62KB | 1367 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.2.0/StatsHelper-v7.2.0.mcdr) |
 | [StatsHelper-v7.1.3.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.3) | 7.1.3 | 2021/08/16 17:11:23 | 22.43KB | 1341 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.1.3/StatsHelper-v7.1.3.mcdr) |
 
