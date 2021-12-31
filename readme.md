@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 47
+Plugin Amount: 48
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -63,5 +63,6 @@ Plugin Amount: 47
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi) | Start and stop server helper | 2021/08/23 | [`Management`](/labels/management/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2021/10/03 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2021/08/16 | [`Management`](/labels/management/readme.md) |
+| [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Query other players' coordinates | 2021/12/31 | [`Information`](/labels/information/readme.md) |
 | [Wiki Request](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | 2021/08/26 | [`Information`](/labels/information/readme.md) |
 

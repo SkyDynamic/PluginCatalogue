@@ -1850,6 +1850,44 @@ Worried about infrequent backups leading to serious progress losses due to the w
 | --- | --- | --- | --- | --- | --- |
 | [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1553 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
+## where_is
+
+### Basic Information
+
+- Plugin ID: `where_is`
+- Plugin Name: Where Is
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
+- Total downloads: 0
+- Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
+- Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
+- Labels: [`Information`](/labels/information/readme.md)
+- Description: Query other players' coordinates
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+
+### Introduction
+
+*None*
+
+### Download
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [WhereIs-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.0.0) | 1.0.0 | 2021/12/31 17:44:56 | 17.84KB | 0 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.0.0/WhereIs-v1.0.0.mcdr) |
+
 ## wiki_request
 
 ### Basic Information
