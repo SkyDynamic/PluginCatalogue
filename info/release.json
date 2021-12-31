@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "info",
   "latest_version": "0.0.2",
-  "etag": "\"e1ad121a656cc42c77a09ccda8e82f652377ae6e160b210320e641fc326946f8\"",
+  "etag": "\"aa8db9e86abc8c74670b530a76733bc8f1e9025eb3ebdc23e7ea3ac16d712cad\"",
   "releases": [
     {
       "url": "https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2",
