@@ -1185,7 +1185,7 @@ Add some api for MCDReforged
 - Plugin ID: `multi_rcon_api`
 - Plugin Name: MultiRconAPI
 - Version: 1.0.0
-  - Metadata version: 1.0.0
+  - Metadata version: 1.1.0-beta1
   - Release version: 1.0.0
 - Total downloads: 1187
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)

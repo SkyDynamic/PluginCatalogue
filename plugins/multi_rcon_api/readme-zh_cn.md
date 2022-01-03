@@ -9,7 +9,7 @@
 - 插件 ID: `multi_rcon_api`
 - 插件名: MultiRconAPI
 - 版本: 1.0.0
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.1.0-beta1
   - 发布版本: 1.0.0
 - 总下载量: 1187
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
