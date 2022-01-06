@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "colored_chat",
   "latest_version": "0.0.2",
-  "etag": "\"e8b45db1f20b2f1fd4b318437dae3cd4aa4b1f86bda7592c7b02c543809169d2\"",
+  "etag": "\"590c22cbcd1b8b9c71091aac34f19017ca04674aa701c34201991fefabb0dabb\"",
   "releases": [
     {
       "url": "https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.2",
