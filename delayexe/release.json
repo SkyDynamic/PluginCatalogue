@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "id": "delayexe",
+  "etag": "\"29e1bd493a0428581cc5fd5fd815c86983d973c5dc01ec832e9856068e7d065a\"",
+  "releases": [
+    {
+      "url": "https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.1",
+      "name": "v1.0.1",
+      "tag_name": "v1.0.1",
+      "created_at": "2022-01-05T23:36:40Z",
+      "assets": [
+        {
+          "name": "DelayExe-v1.0.1.mcdr",
+          "size": 3447,
+          "download_count": 0,
+          "created_at": "2022-01-05T23:36:47Z",
+          "browser_download_url": "https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.1/DelayExe-v1.0.1.mcdr"
+        }
+      ],
+      "description": "",
+      "prerelease": false,
+      "parsed_version": "1.0.1"
+    },
+    {
+      "url": "https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.0",
+      "name": "v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2022-01-05T22:42:22Z",
+      "assets": [
+        {
+          "name": "DelayExe-v1.0.0.mcdr",
+          "size": 3397,
+          "download_count": 0,
+          "created_at": "2022-01-05T22:42:57Z",
+          "browser_download_url": "https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.0/DelayExe-v1.0.0.mcdr"
+        }
+      ],
+      "description": "",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ],
+  "latest_version": "1.0.1"
+}
