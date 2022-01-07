@@ -1,7 +1,7 @@
 {
   "id": "delayexe",
   "name": "Delay Exe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "https://github.com/kmcsr/delayexe_mcdr",
   "labels": [
     "tool"
