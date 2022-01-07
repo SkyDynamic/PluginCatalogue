@@ -534,6 +534,43 @@ Show time in Minecraft
 | --- | --- | --- | --- | --- | --- |
 | [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1407 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 
+## delayexe
+
+### Basic Information
+
+- Plugin ID: `delayexe`
+- Plugin Name: Delay Exe
+- Version: 1.0.1
+  - Metadata version: 1.0.1
+  - Release version: 1.0.1
+- Total downloads: 0
+- Authors: [zyxkad](https://github.com/zyxkad)
+- Repository: https://github.com/kmcsr/delayexe_mcdr
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: Delay execute command when all player was leave
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+*None*
+
+### Download
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [DelayExe-v1.0.1.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.1) | 1.0.1 | 2022/01/05 23:36:47 | 3.37KB | 0 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.1/DelayExe-v1.0.1.mcdr) |
+| [DelayExe-v1.0.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.0) | 1.0.0 | 2022/01/05 22:42:57 | 3.32KB | 0 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.0/DelayExe-v1.0.0.mcdr) |
+
 ## diamond_calc
 
 ### Basic Information
@@ -1707,6 +1744,42 @@ testing basic server problem.
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [simple_test-3.0.0.mcdr](https://github.com/R1ckyH/simple_test/releases/tag/v3.0.0) | 3.0.0 | 2021/10/25 09:03:07 | 6.45KB | 39 | [Download](https://github.com/R1ckyH/simple_test/releases/download/v3.0.0/simple_test-3.0.0.mcdr) |
+
+## smart_backup
+
+### Basic Information
+
+- Plugin ID: `smart_backup`
+- Plugin Name: SmartBackup
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
+- Total downloads: 0
+- Authors: [zyxkad](https://github.com/zyxkad)
+- Repository: https://github.com/kmcsr/smart_backup_mcdr
+- Labels: [`Management`](/labels/management/readme.md)
+- Description: A Minecraft Backup Plugin
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+*None*
+
+### Download
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [SmartBackup-v1.0.0.mcdr](https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.0.0) | 1.0.0 | 2022/01/06 21:35:45 | 8.63KB | 0 | [Download](https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.0.0/SmartBackup-v1.0.0.mcdr) |
 
 ## start_stop_helper_r
 
