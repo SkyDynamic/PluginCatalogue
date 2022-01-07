@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "smart_backup",
-  "latest_version": "1.1.0",
-  "etag": "\"97ee6de9319a39370c77beac2b491b84c59f7a6c5bcf7c83a27e99387f04df1d\"",
+  "latest_version": "1.1.1",
+  "etag": "\"0a34195791b144029321dad3a61091f09e66e615911bbb771b80caa69f7c6d4f\"",
   "releases": [
+    {
+      "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.1.1",
+      "name": "v1.1.1",
+      "tag_name": "v1.1.1",
+      "created_at": "2022-01-07T15:54:21Z",
+      "assets": [
+        {
+          "name": "SmartBackup-v1.1.1.mcdr",
+          "size": 10374,
+          "download_count": 0,
+          "created_at": "2022-01-07T15:54:28Z",
+          "browser_download_url": "https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.1.1/SmartBackup-v1.1.1.mcdr"
+        }
+      ],
+      "description": "",
+      "prerelease": false,
+      "parsed_version": "1.1.1"
+    },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.1.0",
       "name": "v1.1.0",
