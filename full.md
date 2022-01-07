@@ -15,7 +15,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Version: 0.1.3
   - Metadata version: 0.1.3
   - Release version: 0.1.3
-- Total downloads: 125
+- Total downloads: 127
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/Aluminum
 - Labels: [`Management`](/labels/management/readme.md)
@@ -44,7 +44,7 @@ A MCDR plugin manager.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Aluminum-v0.1.3.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3) | 0.1.3 | 2021/10/23 13:47:40 | 6.92KB | 122 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr) |
+| [Aluminum-v0.1.3.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3) | 0.1.3 | 2021/10/23 13:47:40 | 6.92KB | 124 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr) |
 | [Aluminum-v0.1.2.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.2) | 0.1.2 | 2021/10/23 13:21:36 | 6.91KB | 1 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.2/Aluminum-v0.1.2.mcdr) |
 | [Aluminum-v0.1.1.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.1) | 0.1.1 | 2021/10/23 10:23:29 | 6.94KB | 1 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.1/Aluminum-v0.1.1.mcdr) |
 
@@ -97,7 +97,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 2841
+- Total downloads: 2842
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -122,7 +122,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 1523 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 1524 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1318 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## carpet_bot_manager
@@ -464,7 +464,7 @@ A plugin to check cpu temp regularly.
 - Version: 2.1.1
   - Metadata version: 2.1.1
   - Release version: 2.1.1
-- Total downloads: 3889
+- Total downloads: 3890
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
@@ -494,7 +494,7 @@ Feature:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.1.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1.1) | 2.1.1 | 2021/11/08 14:26:50 | 1.33KB | 118 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1.1/DayCountNBT-v2.1.1.mcdr) |
+| [DayCountNBT-v2.1.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1.1) | 2.1.1 | 2021/11/08 14:26:50 | 1.33KB | 119 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1.1/DayCountNBT-v2.1.1.mcdr) |
 | [DayCountNBT-v2.1.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1) | 2.1 | 2021/10/01 06:12:46 | 1.31KB | 142 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1/DayCountNBT-v2.1.0.mcdr) |
 | [DayCountNBT-v2.0.2.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.2) | 2.0.2 | 2021/09/10 09:31:21 | 1.32KB | 983 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.0.2/DayCountNBT-v2.0.2.mcdr) |
 
@@ -653,7 +653,7 @@ Make file transfers faster!
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
-- Total downloads: 5666
+- Total downloads: 5667
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Labels: [`Information`](/labels/information/readme.md)
@@ -677,7 +677,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 179 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 180 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1488 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1319 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -791,7 +791,7 @@ Make file transfers faster!
 - Version: 3.1
   - Metadata version: 3.1.0
   - Release version: 3.1
-- Total downloads: 2749
+- Total downloads: 2750
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
@@ -825,7 +825,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.1.0.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1) | 3.1 | 2021/10/01 06:07:38 | 4.09KB | 208 | [Download](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1/join_motd_plus_3.1.0.mcdr) |
+| [join_motd_plus_3.1.0.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1) | 3.1 | 2021/10/01 06:07:38 | 4.09KB | 209 | [Download](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1/join_motd_plus_3.1.0.mcdr) |
 | [join_motd_plus_3.0.1.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.1) | 3.0.1 | 2021/09/18 09:20:41 | 4.09KB | 604 | [Download](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.1/join_motd_plus_3.0.1.mcdr) |
 | [join_motd_plus_3.0.0.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 1345 | [Download](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
@@ -1142,7 +1142,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 1694
+- Total downloads: 1695
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -1170,7 +1170,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 1694 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 1695 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## more_apis
 
@@ -1415,7 +1415,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.5.0
   - Metadata version: 1.5.0
   - Release version: 1.5.0
-- Total downloads: 5918
+- Total downloads: 5919
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1448,7 +1448,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 97 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
+| [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 98 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 | [QuickBackupM-v1.4.4.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4) | 1.4.4 | 2021/12/09 08:06:09 | 21.63KB | 49 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.4/QuickBackupM-v1.4.4.mcdr) |
 | [QuickBackupM-v1.4.3.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.3) | 1.4.3 | 2021/10/30 06:12:46 | 21.63KB | 176 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.3/QuickBackupM-v1.4.3.mcdr) |
 
@@ -1606,7 +1606,7 @@ Let player run whitelisted vanilla command
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 2776
+- Total downloads: 2777
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1632,7 +1632,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 1453 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
+| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 1454 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
 | [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 1323 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## simple_op
@@ -1933,7 +1933,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 12
+- Total downloads: 13
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1960,7 +1960,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.0.0) | 1.0.0 | 2021/12/31 17:44:56 | 17.84KB | 12 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.0.0/WhereIs-v1.0.0.mcdr) |
+| [WhereIs-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.0.0) | 1.0.0 | 2021/12/31 17:44:56 | 17.84KB | 13 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.0.0/WhereIs-v1.0.0.mcdr) |
 
 ## wiki_request
 
