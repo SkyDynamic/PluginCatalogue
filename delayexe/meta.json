@@ -1,7 +1,7 @@
 {
   "id": "delayexe",
   "name": "Delay Exe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/kmcsr/delayexe_mcdr",
   "labels": [
     "tool"
@@ -14,6 +14,7 @@
   },
   "requirements": [],
   "description": {
-    "en_us": "Delay execute command when all player was leave"
+    "en_us": "Delay execute command until all player have left",
+    "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
   }
 }

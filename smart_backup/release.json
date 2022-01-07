@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "smart_backup",
+  "latest_version": "1.0.0",
   "etag": "\"fead540edba928fb10b5f97bf62fab65d186023ef9b4db850e6dc6920870b56a\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
