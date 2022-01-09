@@ -11,7 +11,7 @@
 - 版本: 0.0.1
   - 元数据版本: 0.0.1-dev021
   - 发布版本: 0.0.1
-- 总下载量: 3
+- 总下载量: 4
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/ChatBridgeReforged
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -38,5 +38,5 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.1) | 0.0.1 | 2021/12/24 09:00:12 | 43.33KB | 3 | [下载](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_MC.pyz) |
+| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.1) | 0.0.1 | 2021/12/24 09:00:12 | 43.33KB | 4 | [下载](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_MC.pyz) |
 
