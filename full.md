@@ -97,7 +97,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 2846
+- Total downloads: 2847
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -122,7 +122,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 1528 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 1529 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1318 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## carpet_bot_manager
@@ -211,7 +211,7 @@ Help you manage your carpet fake player
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 148
+- Total downloads: 149
 - Authors: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - Repository: https://github.com/Harry-zklcdc/MCDR-Cato
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -246,7 +246,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Cato-v1.1.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0) | 1.1.0 | 2021/10/31 08:31:03 | 2.9KB | 122 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr) |
+| [Cato-v1.1.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0) | 1.1.0 | 2021/10/31 08:31:03 | 2.9KB | 123 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr) |
 | [Cato-v1.0.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0) | 1.0.0 | 2021/10/14 12:15:08 | 2.93KB | 26 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.0.0/Cato-v1.0.0.mcdr) |
 
 ## chatbridge
@@ -918,7 +918,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.1
   - Metadata version: 1.3.1
   - Release version: 1.3.1
-- Total downloads: 1483
+- Total downloads: 1484
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Labels: [`Information`](/labels/information/readme.md)
@@ -944,7 +944,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1483 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1484 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## mc_uuid
 
