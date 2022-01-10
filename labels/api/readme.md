@@ -10,7 +10,7 @@ Plugin Amount: 8
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
-| [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2021/11/08 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
+| [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2022/01/10 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [MCDR Plugin Panel](/plugins/mcdr_plugin_panel/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | A panel for MCDR plugin | N/A | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
