@@ -1,47 +1,47 @@
 {
   "schema_version": 2,
   "id": "chatbridgereforged_mc",
-  "latest_version": "0.0.1",
-  "etag": "\"8eea8a2c7fab7f180a16ff4d12fd50b79961c097b503e1450ed3cd147e69b577\"",
+  "latest_version": "0.0.2",
+  "etag": "\"017c07a4883868e2c60cc8d70bb53a274169782b551d9c707566a985a247ecb2\"",
   "releases": [
     {
-      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.1",
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2",
       "name": "0.0.2-release",
-      "tag_name": "0.0.1",
-      "created_at": "2021-12-24T08:53:08Z",
+      "tag_name": "0.0.2",
+      "created_at": "2022-01-09T16:38:58Z",
       "assets": [
         {
           "name": "ChatBridgeReforged_cqhttp.py",
           "size": 28222,
           "download_count": 0,
           "created_at": "2022-01-09T16:45:21Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_cqhttp.py"
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_cqhttp.py"
         },
         {
           "name": "ChatBridgeReforged_MC.py",
           "size": 28323,
           "download_count": 0,
           "created_at": "2022-01-09T16:45:13Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_MC.py"
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.py"
         },
         {
           "name": "ChatBridgeReforged_MC.pyz",
           "size": 46014,
           "download_count": 0,
           "created_at": "2022-01-09T16:46:39Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_MC.pyz"
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.pyz"
         },
         {
           "name": "ChatBridgeReforged_Server.zip",
           "size": 33185,
           "download_count": 0,
           "created_at": "2022-01-09T16:45:01Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.1/ChatBridgeReforged_Server.zip"
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_Server.zip"
         }
       ],
-      "description": "# 0.0.1\r\n## Description\r\nFinally, I have done it.\r\n## Change between beta and release\r\n- not compatible anymore with CB and CBR beta\r\n- merge client_MC and client_MC0.9\r\n- change from GPL to LGPL\\\r\n# 0.0.2\r\n#### BUGFIX\r\n- restart spam when cli spam\r\n- plugin duplicate plugin id still keep load",
+      "description": "# 0.0.1\r\n## Description\r\nFinally, I have done it.\r\n## Change between beta and release\r\n- not compatible anymore with CB and CBR beta\r\n- merge client_MC and client_MC0.9\r\n- change from GPL to LGPL\r\n# 0.0.2\r\n#### BUGFIX\r\n- restart spam when cli spam\r\n- plugin duplicate plugin id still keep load",
       "prerelease": false,
-      "parsed_version": "0.0.1"
+      "parsed_version": "0.0.2"
     }
   ]
 }
