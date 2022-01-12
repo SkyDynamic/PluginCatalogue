@@ -8,9 +8,9 @@
 
 - Plugin ID: `multi_rcon_api`
 - Plugin Name: MultiRconAPI
-- Version: 1.0.0
+- Version: 1.2.0
   - Metadata version: 1.2.0
-  - Release version: 1.0.0
+  - Release version: 1.2.0
 - Total downloads: 1194
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
@@ -37,5 +37,6 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [MultiRconAPI-V1.2.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/1.2.0) | 1.2.0 | 2022/01/12 16:59:17 | 4.04KB | 0 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/1.2.0/MultiRconAPI-V1.2.0.pyz) |
 | [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1194 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 

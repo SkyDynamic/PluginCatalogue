@@ -1223,9 +1223,9 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 - 插件 ID: `multi_rcon_api`
 - 插件名: MultiRconAPI
-- 版本: 1.0.0
+- 版本: 1.2.0
   - 元数据版本: 1.2.0
-  - 发布版本: 1.0.0
+  - 发布版本: 1.2.0
 - 总下载量: 1194
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/MultiRconAPI
@@ -1252,6 +1252,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [MultiRconAPI-V1.2.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/1.2.0) | 1.2.0 | 2022/01/12 16:59:17 | 4.04KB | 0 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/1.2.0/MultiRconAPI-V1.2.0.pyz) |
 | [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1194 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
 ## multi_whitelist
