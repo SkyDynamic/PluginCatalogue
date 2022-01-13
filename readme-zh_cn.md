@@ -47,7 +47,7 @@
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个用获得玩家信息等数据的的 API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [More APIs](/plugins/more_apis/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 给 MCDReforged 添加了一些 API | 2021/09/29 | [`API`](/labels/api/readme-zh_cn.md) |
-| [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2022/01/12 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2021/09/05 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 基于minecraft的白名单功能。 | 2021/10/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [OneBot API](/plugins/onebot_api/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2021/09/06 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Online](/plugins/online/readme-zh_cn.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服 | 2021/09/07 | [`信息`](/labels/information/readme-zh_cn.md) |
