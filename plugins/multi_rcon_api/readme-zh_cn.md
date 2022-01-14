@@ -11,7 +11,7 @@
 - 版本: 1.0.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.0.0
-- 总下载量: 1195
+- 总下载量: 1196
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/MultiRconAPI
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
@@ -37,5 +37,5 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1195 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
+| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1196 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
