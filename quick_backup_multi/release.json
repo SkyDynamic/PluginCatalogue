@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "quick_backup_multi",
   "latest_version": "1.5.0",
-  "etag": "\"8c6531e1e9f033d6b9a9baad56aa3d33a93ddad1590039d33b3f5508282620cc\"",
+  "etag": "\"43a6da8266dc66ba56f0f3aca72eb3bc7bc09e65f62010228552d5d9bfff45bb\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0",
