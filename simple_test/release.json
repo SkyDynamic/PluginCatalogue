@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "simple_test",
   "latest_version": "3.0.0",
-  "etag": "\"f405f6ae391b03ec9233d51fe3c4a6e574b21744e29e6f67ab2d6fb152702c3c\"",
+  "etag": "\"3e8360756a90a0a2fb778e34a79a269239532bbcab44e8b5eac7436090ea375b\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/simple_test/releases/tag/v3.0.0",
