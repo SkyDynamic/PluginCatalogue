@@ -14,7 +14,7 @@
   },
   "requirements": [
     "mcdreforged",
-    "pycryptodome"
+    "pycryptodomex"
   ],
   "description": {
     "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",

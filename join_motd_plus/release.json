@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "join_motd_plus",
   "latest_version": "3.1",
-  "etag": "\"1a9be664cee184622fc15f870d30189f8169ef7384331dc31d57f30e3001277a\"",
+  "etag": "\"d6eca1bcbf4508bb2fb86e46380b28f201cd749c9c2cc5a44e8ee48d8d91f55f\"",
   "releases": [
     {
       "url": "https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1",
