@@ -27,7 +27,7 @@
 | [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | 2021/12/05 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDR Plugin Panel](/plugins/mcdr_plugin_panel/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 一个供 MCDR 插件使用的面板 | N/A | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2021/09/05 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2022/01/20 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 一个快速运行自定义脚本的插件。 | 2021/12/24 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme-zh_cn.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | 讓普通玩家執行已被加入白名單的原版指令 | 2021/08/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
