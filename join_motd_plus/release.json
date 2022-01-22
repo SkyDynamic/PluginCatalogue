@@ -1,26 +1,33 @@
 {
   "schema_version": 2,
   "id": "join_motd_plus",
-  "latest_version": "3.1",
-  "etag": "\"dcdadd638ff93f8d85b60ee01748dbd3446ae386c711ede5aa9c995ecffb22a6\"",
+  "latest_version": "3.1.1",
+  "etag": "\"5118c9347a7990f01548f45d483954c7cf8518e994392e403ef14cb0211ecbdb\"",
   "releases": [
     {
-      "url": "https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1",
+      "url": "https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1.1",
       "name": "3.1",
-      "tag_name": "v3.1",
-      "created_at": "2021-10-01T06:05:23Z",
+      "tag_name": "v3.1.1",
+      "created_at": "2022-01-22T00:41:25Z",
       "assets": [
         {
           "name": "join_motd_plus_3.1.0.mcdr",
           "size": 4190,
           "download_count": 251,
           "created_at": "2021-10-01T06:07:38Z",
-          "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1/join_motd_plus_3.1.0.mcdr"
+          "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.1/join_motd_plus_3.1.0.mcdr"
+        },
+        {
+          "name": "join_motd_plus_3.1.1.mcdr",
+          "size": 4194,
+          "download_count": 0,
+          "created_at": "2022-01-22T00:43:04Z",
+          "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.1/join_motd_plus_3.1.1.mcdr"
         }
       ],
-      "description": "## 🔨 问题修复\r\n- MCDR 至少升级至 2.2.0，避免文件编码导致的配置文件问题",
+      "description": "## 🔨 问题修复\r\n- MCDR 至少升级至 2.2.0，避免文件编码导致的配置文件问题\r\n\r\n## 补丁版本\r\n### v2.3.1\r\n- 修复 Json 解析异常处理",
       "prerelease": false,
-      "parsed_version": "3.1"
+      "parsed_version": "3.1.1"
     },
     {
       "url": "https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.1",
