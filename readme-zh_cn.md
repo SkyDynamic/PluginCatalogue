@@ -36,7 +36,7 @@
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 显示坐标并高亮玩家 | 2021/11/05 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Info](/plugins/info/readme-zh_cn.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | 获取服务器信息 | 2021/08/22 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Join MOTD](/plugins/join_motd/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 当玩家加入游戏时向其发送欢迎信息 | 2021/08/22 | [`信息`](/labels/information/readme-zh_cn.md) |
-| [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 在玩家进入服务器时展示内容。（特色功能++） | 2021/10/01 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 在玩家进入服务器时展示内容。（特色功能++） | 2022/01/22 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Lazy Teleport](/plugins/lazytp/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 维度间的快速折跃通道 | 2021/08/27 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | 2021/08/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Location Marker](/plugins/location_marker/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | 一个服务端共享路标点管理器 | 2021/08/16 | [`信息`](/labels/information/readme-zh_cn.md) |
