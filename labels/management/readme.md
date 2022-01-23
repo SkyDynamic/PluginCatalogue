@@ -6,13 +6,14 @@
 
 Plugin Index with label `Management`
 
-Plugin Amount: 10
+Plugin Amount: 11
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
 | [Aluminum](/plugins/aluminum/readme.md) | [Alex3236](https://github.com/alex3236) | A MCDReforged plugin manager. | 2021/10/23 | [`Management`](/labels/management/readme.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/10/01 | [`Management`](/labels/management/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
+| [Mount](/plugins/mount/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | Mount different minecraft server into a mcdr server, with overwritten properties! | 2022/01/20 | [`Management`](/labels/management/readme.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin can control whitelist with multi servers. | 2021/10/26 | [`Management`](/labels/management/readme.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A plugin for creating permanent zip world backups | 2021/08/17 | [`Management`](/labels/management/readme.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | 2021/12/20 | [`Management`](/labels/management/readme.md) |
