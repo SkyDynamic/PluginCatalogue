@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "mount",
+  "latest_version": "0.1.0-beta1",
   "etag": "\"8c7b667f782d9dda2b3b757dc4ea00f275d159d58ad96e542855c05f610dc40b\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "0.1.0-beta1"
     }
-  ],
-  "latest_version": "0.1.0-beta1"
+  ]
 }
