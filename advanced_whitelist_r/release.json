@@ -1,7 +1,26 @@
 {
   "schema_version": 2,
   "id": "advanced_whitelist_r",
-  "etag": "\"35354aad65fb109d2f4acc0132bbc8f44f0d2f9f4b6402f7d7cc33614fb7735a\"",
-  "releases": [],
-  "latest_version": "N/A"
+  "latest_version": "1.0.1",
+  "etag": "\"762347da213f9702d51ec9e508102954f6ee84ed474d5792e5c607a083797f4f\"",
+  "releases": [
+    {
+      "url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.1",
+      "name": "1.0.1",
+      "tag_name": "1.0.1",
+      "created_at": "2022-01-24T10:22:20Z",
+      "assets": [
+        {
+          "name": "AdvancedWhitelistR-v1.0.1.mcdr",
+          "size": 3586,
+          "download_count": 0,
+          "created_at": "2022-01-24T11:46:47Z",
+          "browser_download_url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.1/AdvancedWhitelistR-v1.0.1.mcdr"
+        }
+      ],
+      "description": "离线白名单改用uuid生成+原生白名单结合方式实现\r\n\r\n新增bot白名单功能",
+      "prerelease": false,
+      "parsed_version": "1.0.1"
+    }
+  ]
 }
