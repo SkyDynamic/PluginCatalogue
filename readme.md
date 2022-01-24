@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 51
+Plugin Amount: 52
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@ Plugin Amount: 51
 | [MCDR Plugin Panel](/plugins/mcdr_plugin_panel/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | A panel for MCDR plugin | N/A | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | 2021/08/16 | [`API`](/labels/api/readme.md) |
+| [*Data fetching failed*](/plugins/mirror_server_reforged/readme.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | *Data fetching failed* | 2022/01/24 | [`Management`](/labels/management/readme.md) |
 | [More APIs](/plugins/more_apis/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Add some api for MCDReforged | 2021/09/29 | [`API`](/labels/api/readme.md) |
 | [Mount](/plugins/mount/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | Mount different minecraft server into a mcdr server, with overwritten properties! | 2022/01/20 | [`Management`](/labels/management/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | 2022/01/20 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
