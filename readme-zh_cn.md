@@ -47,7 +47,7 @@
 | [MCDR Plugin Panel](/plugins/mcdr_plugin_panel/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 一个供 MCDR 插件使用的面板 | N/A | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个用获得玩家信息等数据的的 API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
-| [MirrorServerReforged](/plugins/mirror_server_reforged/readme-zh_cn.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件 | 2022/01/24 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [MirrorServerReforged](/plugins/mirror_server_reforged/readme-zh_cn.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件 | 2022/01/25 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [More APIs](/plugins/more_apis/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 给 MCDReforged 添加了一些 API | 2021/09/29 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Mount](/plugins/mount/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置! | 2022/01/20 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2022/01/20 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
