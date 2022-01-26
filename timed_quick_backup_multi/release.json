@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "timed_quick_backup_multi",
   "latest_version": "1.0.1",
-  "etag": "\"f0578bdb43f2b0010b437d1607ebd5932a6e5e1475b9d9c3ab21d823ceab9565\"",
+  "etag": "\"1899457d8b4ed0575082734881335ca80e45abee72f1c13e3c3219eb97ea2fc9\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1",
@@ -13,7 +13,7 @@
         {
           "name": "TimedQBM-v1.0.1.mcdr",
           "size": 16435,
-          "download_count": 1631,
+          "download_count": 1632,
           "created_at": "2021-08-16T17:10:01Z",
           "browser_download_url": "https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr"
         }
