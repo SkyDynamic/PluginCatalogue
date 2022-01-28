@@ -9,7 +9,7 @@
 - Plugin ID: `chatbridgereforged_mc`
 - Plugin Name: ChatBridgeReforged_MC
 - Version: 0.0.2
-  - Metadata version: 0.0.2-dev022
+  - Metadata version: 0.1.0-dev023
   - Release version: 0.0.2
 - Total downloads: 7
 - Authors: [Ricky](https://github.com/R1ckyH)
