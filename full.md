@@ -295,7 +295,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Version: 2.1.0
   - Metadata version: 2.0.5
   - Release version: 2.1.0
-- Total downloads: 323
+- Total downloads: 324
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -323,7 +323,7 @@ Chatbridge v2
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0) | 2.1.0 | 2021/11/16 11:27:38 | 39.88KB | 127 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0) | 2.1.0 | 2021/11/16 11:27:38 | 39.88KB | 128 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.4) | 2.0.4 | 2021/11/12 15:26:35 | 39.78KB | 9 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.0.4/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.3) | 2.0.3 | 2021/11/12 13:47:48 | 39.57KB | 3 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.0.3/ChatBridge.pyz) |
 
@@ -501,7 +501,7 @@ A plugin to check cpu temp regularly.
 - Version: 2.2.0
   - Metadata version: 2.2.0
   - Release version: 2.2.0
-- Total downloads: 3992
+- Total downloads: 3993
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
@@ -531,7 +531,7 @@ Feature:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.2.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.0) | 2.2.0 | 2022/01/10 04:14:00 | 1.58KB | 86 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.2.0/DayCountNBT-v2.2.0.mcdr) |
+| [DayCountNBT-v2.2.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.0) | 2.2.0 | 2022/01/10 04:14:00 | 1.58KB | 87 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.2.0/DayCountNBT-v2.2.0.mcdr) |
 | [DayCountNBT-v2.1.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1.1) | 2.1.1 | 2021/11/08 14:26:50 | 1.33KB | 131 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1.1/DayCountNBT-v2.1.1.mcdr) |
 | [DayCountNBT-v2.1.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1) | 2.1 | 2021/10/01 06:12:46 | 1.31KB | 144 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1/DayCountNBT-v2.1.0.mcdr) |
 
@@ -828,7 +828,7 @@ Make file transfers faster!
 - Version: 3.1.1
   - Metadata version: 3.1.1
   - Release version: 3.1.1
-- Total downloads: 2820
+- Total downloads: 2821
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1312,7 +1312,7 @@ Now, I'll introduce the content of the config file:
 - Version: 2.1.2
   - Metadata version: 2.2.0-dev
   - Release version: 2.1.2
-- Total downloads: 2772
+- Total downloads: 2773
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MoreAPIs
 - Labels: [`API`](/labels/api/readme.md)
@@ -1343,7 +1343,7 @@ Add some api for MCDReforged
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MoreAPIs-v2.1.2.mcdr](https://github.com/HuajiMURsMC/MoreAPIs/releases/tag/2.1.2) | 2.1.2 | 2021/09/29 09:25:07 | 17.29KB | 168 | [Download](https://github.com/HuajiMURsMC/MoreAPIs/releases/download/2.1.2/MoreAPIs-v2.1.2.mcdr) |
+| [MoreAPIs-v2.1.2.mcdr](https://github.com/HuajiMURsMC/MoreAPIs/releases/tag/2.1.2) | 2.1.2 | 2021/09/29 09:25:07 | 17.29KB | 169 | [Download](https://github.com/HuajiMURsMC/MoreAPIs/releases/download/2.1.2/MoreAPIs-v2.1.2.mcdr) |
 | [MoreAPIs-v2.1.1.mcdr](https://github.com/HuajiMURsMC/MoreAPIs/releases/tag/2.1.1) | 2.1.1 | 2021/09/02 14:35:15 | 18.36KB | 1303 | [Download](https://github.com/HuajiMURsMC/MoreAPIs/releases/download/2.1.1/MoreAPIs-v2.1.1.mcdr) |
 | [MoreAPIs-v2.1.0.mcdr](https://github.com/HuajiMURsMC/MoreAPIs/releases/tag/2.1.0) | 2.1.0 | 2021/08/28 03:31:52 | 18.39KB | 1301 | [Download](https://github.com/HuajiMURsMC/MoreAPIs/releases/download/2.1.0/MoreAPIs-v2.1.0.mcdr) |
 
