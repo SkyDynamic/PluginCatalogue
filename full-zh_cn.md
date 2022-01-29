@@ -728,7 +728,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 0.0.2
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
-- 总下载量: 1526
+- 总下载量: 1527
 - 作者: [zhang_anzhi](https://github.com/zhang-anzhi)
 - 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -783,7 +783,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1526 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
+| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1527 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
 
 ## join_motd
 
@@ -1068,7 +1068,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 2.1.0
   - 元数据版本: 2.1.0
   - 发布版本: 2.1.0
-- 总下载量: 2723
+- 总下载量: 2724
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1093,7 +1093,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Task-v2.1.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.1.0) | 2.1.0 | 2021/12/05 05:14:26 | 14.58KB | 51 | [下载](https://github.com/TISUnion/Task/releases/download/2.1.0/Task-v2.1.0.mcdr) |
+| [Task-v2.1.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.1.0) | 2.1.0 | 2021/12/05 05:14:26 | 14.58KB | 52 | [下载](https://github.com/TISUnion/Task/releases/download/2.1.0/Task-v2.1.0.mcdr) |
 | [Task-v2.0.1.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 02:49:35 | 14.2KB | 1352 | [下载](https://github.com/TISUnion/Task/releases/download/2.0.1/Task-v2.0.1.mcdr) |
 | [Task-v2.0.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.0) | 2.0.0 | 2021/08/17 09:09:20 | 14.2KB | 1320 | [下载](https://github.com/TISUnion/Task/releases/download/2.0.0/Task-v2.0.0.mcdr) |
 
@@ -1864,7 +1864,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 2667
+- 总下载量: 2668
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/SimpleOPModified
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1888,7 +1888,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleOPModified-v1.1.0.mcdr](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0) | 1.1.0 | 2021/08/23 06:23:11 | 5.57KB | 1366 | [下载](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.1.0/SimpleOPModified-v1.1.0.mcdr) |
+| [SimpleOPModified-v1.1.0.mcdr](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0) | 1.1.0 | 2021/08/23 06:23:11 | 5.57KB | 1367 | [下载](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.1.0/SimpleOPModified-v1.1.0.mcdr) |
 | [SimpleOPModified-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.0.0) | 1.0.0 | 2021/08/19 09:22:07 | 5.7KB | 1301 | [下载](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.0.0/SimpleOPModified-v1.0.0.mcdr) |
 
 ## simple_test
