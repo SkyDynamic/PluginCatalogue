@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mirror_server_reforged",
   "latest_version": "1.0.1",
-  "etag": "\"b93a400556d3657d8d9d4f3b38a720167bb01c1c67f2f3a2fb5bd07396f65b76\"",
+  "etag": "\"5b02014e0fa387a1fc41c84055bdeed423af9f68d579b3a13592b28ee43d73f8\"",
   "releases": [
     {
       "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.1",
@@ -29,11 +29,11 @@
       "created_at": "2022-01-24T08:06:21Z",
       "assets": [
         {
-          "name": "mirror_server_reforged.mcdr",
+          "name": "MirrorServerReforged-v1.0.0.mcdr",
           "size": 8583,
           "download_count": 3,
           "created_at": "2022-01-24T10:55:37Z",
-          "browser_download_url": "https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.0/mirror_server_reforged.mcdr"
+          "browser_download_url": "https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.0/MirrorServerReforged-v1.0.0.mcdr"
         }
       ],
       "description": "",
