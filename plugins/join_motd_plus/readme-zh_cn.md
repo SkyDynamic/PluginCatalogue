@@ -11,7 +11,7 @@
 - 版本: 3.1.1
   - 元数据版本: 3.1.1
   - 发布版本: 3.1.1
-- 总下载量: 2830
+- 总下载量: 2831
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/alex3236/joinMOTD_Plus
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)

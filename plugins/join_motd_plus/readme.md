@@ -11,7 +11,7 @@
 - Version: 3.1.1
   - Metadata version: 3.1.1
   - Release version: 3.1.1
-- Total downloads: 2830
+- Total downloads: 2831
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/joinMOTD_Plus
 - Labels: [`Information`](/labels/information/readme.md)
