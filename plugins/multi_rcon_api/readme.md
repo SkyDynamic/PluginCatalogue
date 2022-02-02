@@ -9,7 +9,7 @@
 - Plugin ID: `multi_rcon_api`
 - Plugin Name: MultiRconAPI
 - Version: 2.0.0
-  - Metadata version: 2.0.0
+  - Metadata version: 2.0.1
   - Release version: 2.0.0
 - Total downloads: 1219
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
