@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "simple_calculator",
   "latest_version": "1.2.0",
-  "etag": "\"ec5b3c769674b9496affd5e9e1496641df6f28e81fcb3afb1c46f9220dc78dd8\"",
+  "etag": "\"7c247d95e8698ff71eb8eb303fae1fe0ced783991f230b566b54c60a59861f72\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Calculator/releases/tag/v1.2.0",
