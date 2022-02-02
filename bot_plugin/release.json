@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "bot_plugin",
+  "latest_version": "1.0.0",
   "etag": "\"505fabbf68a1bc97bc948624d65a8010b85ace5dd5ea2e371611e57b56ea27ba\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
