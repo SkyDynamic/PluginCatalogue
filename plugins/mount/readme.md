@@ -9,7 +9,7 @@
 - Plugin ID: `mount`
 - Plugin Name: Mount
 - Version: 0.1.0-beta1
-  - Metadata version: 0.1.0-beta1
+  - Metadata version: 0.1.0-beta2
   - Release version: 0.1.0-beta1
 - Total downloads: 2
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
