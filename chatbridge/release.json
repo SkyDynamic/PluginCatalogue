@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "chatbridge",
   "latest_version": "2.1.0",
-  "etag": "\"32ea4df54e82bb2db16b22acdda7663f68fd165454858d73430b4eb808e289da\"",
+  "etag": "\"553b5ef340b21a7f3e07e3148baad6b4d9c0658967f037671eaf706f2d50e472\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0",
