@@ -766,7 +766,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 0.0.2
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
-- 总下载量: 1533
+- 总下载量: 1534
 - 作者: [zhang_anzhi](https://github.com/zhang-anzhi)
 - 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -821,7 +821,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1533 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
+| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1534 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
 
 ## join_motd
 
@@ -2121,7 +2121,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.0.1
   - 元数据版本: 1.0.1
   - 发布版本: 1.0.1
-- 总下载量: 1665
+- 总下载量: 1666
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -2146,7 +2146,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1665 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
+| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1666 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## where_is
 

@@ -766,7 +766,7 @@ Make file transfers faster!
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 1533
+- Total downloads: 1534
 - Authors: [zhang_anzhi](https://github.com/zhang-anzhi)
 - Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - Labels: [`Information`](/labels/information/readme.md)
@@ -821,7 +821,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1533 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
+| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1534 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
 
 ## join_motd
 
@@ -2120,7 +2120,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Total downloads: 1665
+- Total downloads: 1666
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2145,7 +2145,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1665 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
+| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1666 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## where_is
 
