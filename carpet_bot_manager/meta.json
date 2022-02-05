@@ -18,6 +18,6 @@
   ],
   "description": {
     "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
-    "zh_cn": "一个地毯端bot管理插件，可以点击召唤bot并让其执行系列动作"
+    "zh_cn": "一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作"
   }
 }
