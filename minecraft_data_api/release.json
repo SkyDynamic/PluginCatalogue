@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "minecraft_data_api",
   "latest_version": "1.4.1",
-  "etag": "\"8bd22877e8894482b5609edd8908f01a203b65eee95894501939e1b05bb91d9f\"",
+  "etag": "\"a959d54fe69c55774f073922095df9a573063c20d2abe57a2fba5d897058b6f2\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1",
@@ -13,7 +13,7 @@
         {
           "name": "MinecraftDataAPI-v1.4.1.mcdr",
           "size": 17831,
-          "download_count": 1891,
+          "download_count": 1892,
           "created_at": "2021-08-16T17:14:55Z",
           "browser_download_url": "https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr"
         }
