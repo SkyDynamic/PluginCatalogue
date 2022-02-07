@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "start_stop_helper_r",
   "latest_version": "0.0.2",
-  "etag": "\"0097944a79769713a5133929acaba6989fcaf58a1570e8e2d8c4c527faf9da48\"",
+  "etag": "\"563f798f4e32c85c4087040582110420b309e194bb5f46120df0683498f984a0\"",
   "releases": [
     {
       "url": "https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2",
