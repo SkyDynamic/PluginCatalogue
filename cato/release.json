@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "cato",
   "latest_version": "1.1.0",
-  "etag": "\"3c4d0843bfc5d614a17d5a3a22bea6aed99588e51d213744723bb779e2aaf090\"",
+  "etag": "\"325ff89b5ec23ce710f6755b61a19177a3b16c6cbe92b4a9cf182da55c6cbc9f\"",
   "releases": [
     {
       "url": "https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "Cato-v1.1.0.mcdr",
           "size": 2969,
-          "download_count": 211,
+          "download_count": 212,
           "created_at": "2021-10-31T08:31:03Z",
           "browser_download_url": "https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr"
         }
@@ -31,7 +31,7 @@
         {
           "name": "Cato-v1.0.0.mcdr",
           "size": 3005,
-          "download_count": 27,
+          "download_count": 28,
           "created_at": "2021-10-14T12:15:08Z",
           "browser_download_url": "https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.0.0/Cato-v1.0.0.mcdr"
         }
