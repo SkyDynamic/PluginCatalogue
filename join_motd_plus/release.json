@@ -1,33 +1,40 @@
 {
   "schema_version": 2,
   "id": "join_motd_plus",
-  "latest_version": "3.1.1",
-  "etag": "\"486f53ccd198e1d5ce4ec20b21864966c9cf7a1e94643a39db700fc0d2586119\"",
+  "latest_version": "3.1.2",
+  "etag": "\"8d660c115553aaa0009794aeb4073844736f0ab8d3c7c84d1ccff169abd096cb\"",
   "releases": [
     {
-      "url": "https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1.1",
+      "url": "https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1.2",
       "name": "3.1",
-      "tag_name": "v3.1.1",
-      "created_at": "2022-01-22T00:41:25Z",
+      "tag_name": "v3.1.2",
+      "created_at": "2022-02-09T08:59:38Z",
       "assets": [
         {
           "name": "join_motd_plus_3.1.0.mcdr",
           "size": 4190,
           "download_count": 290,
           "created_at": "2021-10-01T06:07:38Z",
-          "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.1/join_motd_plus_3.1.0.mcdr"
+          "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.2/join_motd_plus_3.1.0.mcdr"
         },
         {
           "name": "join_motd_plus_3.1.1.mcdr",
           "size": 4194,
           "download_count": 22,
           "created_at": "2022-01-22T00:43:04Z",
-          "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.1/join_motd_plus_3.1.1.mcdr"
+          "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.2/join_motd_plus_3.1.1.mcdr"
+        },
+        {
+          "name": "join_motd_plus_3.1.2.mcdr",
+          "size": 4250,
+          "download_count": 1,
+          "created_at": "2022-02-09T09:02:13Z",
+          "browser_download_url": "https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.2/join_motd_plus_3.1.2.mcdr"
         }
       ],
-      "description": "## 🔨 问题修复\r\n- MCDR 至少升级至 2.2.0，避免文件编码导致的配置文件问题\r\n\r\n## 补丁版本\r\n### v2.3.1\r\n- 修复 Json 解析异常处理",
+      "description": "## 🔨 问题修复\r\n- MCDR 至少升级至 2.2.0，避免文件编码导致的配置文件问题\r\n\r\n## 🩹 补丁版本\r\n### v3.1.1\r\n- 修复 Json 解析异常处理\r\n\r\n### v3.1.2\r\n- 修复 Json 列表问题\r\n- 修复 Console 命令运行问题\r\n- 修复 命令重复问题",
       "prerelease": false,
-      "parsed_version": "3.1.1"
+      "parsed_version": "3.1.2"
     },
     {
       "url": "https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.1",

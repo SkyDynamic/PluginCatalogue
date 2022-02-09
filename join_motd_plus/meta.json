@@ -1,7 +1,7 @@
 {
   "id": "join_motd_plus",
   "name": "joinMOTD++",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "repository": "https://github.com/alex3236/joinMOTD_Plus",
   "labels": [
     "information"
@@ -17,7 +17,7 @@
     "requests"
   ],
   "description": {
-    "en_us": ":rocket: Display content when players join the server. (with many useful features)",
-    "zh_cn": ":rocket: 在玩家进入服务器时展示内容。（特色功能++）"
+    "en_us": "Display content when players join the server. (with many useful features)",
+    "zh_cn": "在玩家进入服务器时展示内容。（特色功能++）"
   }
 }
