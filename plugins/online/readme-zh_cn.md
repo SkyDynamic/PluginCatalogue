@@ -9,7 +9,7 @@
 - 插件 ID: `online`
 - 插件名: Online
 - 版本: 1.4.0
-  - 元数据版本: 1.4.0
+  - 元数据版本: 1.4.1-alpha1
   - 发布版本: 1.4.0
 - 总下载量: 3551
 - 作者: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
@@ -29,6 +29,7 @@
 | Python 包 | 依赖需求 |
 | --- | --- |
 | [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### 介绍
 

@@ -9,7 +9,7 @@
 - Plugin ID: `online`
 - Plugin Name: Online
 - Version: 1.4.0
-  - Metadata version: 1.4.0
+  - Metadata version: 1.4.1-alpha1
   - Release version: 1.4.0
 - Total downloads: 3551
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
@@ -29,6 +29,7 @@
 | Python package | Requirement |
 | --- | --- |
 | [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### Introduction
 
