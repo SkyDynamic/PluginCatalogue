@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 54
+Plugin Amount: 55
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -56,6 +56,7 @@ Plugin Amount: 54
 | [OneBot API](/plugins/onebot_api/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2021/09/06 | [`API`](/labels/api/readme.md) |
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | 2021/09/07 | [`Information`](/labels/information/readme.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A plugin for creating permanent zip world backups | 2021/08/17 | [`Management`](/labels/management/readme.md) |
+| [QQrobot](/plugins/qq_robot/readme.md) | [ShiinaRikka](https://github.com/lky1433223) | A QQrobot to send message in qq group | 2022/02/10 | [`Tool`](/labels/tool/readme.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | 2021/12/20 | [`Management`](/labels/management/readme.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin for run command quickly. | 2021/12/24 | [`Tool`](/labels/tool/readme.md) |
 | [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | 2021/09/26 | [`Management`](/labels/management/readme.md) |
