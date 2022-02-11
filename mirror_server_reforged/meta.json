@@ -1,7 +1,7 @@
 {
   "id": "mirror_server_reforged",
   "name": "MirrorServerReforged",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "https://github.com/EMUnion/MirrorServerReforged",
   "labels": [
     "management"
