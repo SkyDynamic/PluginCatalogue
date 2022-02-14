@@ -52,7 +52,7 @@ Offline server whitelist management
 - Version: 0.1.3
   - Metadata version: 0.1.3
   - Release version: 0.1.3
-- Total downloads: 206
+- Total downloads: 207
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/Aluminum
 - Labels: [`Management`](/labels/management/readme.md)
@@ -81,7 +81,7 @@ A MCDR plugin manager.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Aluminum-v0.1.3.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3) | 0.1.3 | 2021/10/23 13:47:40 | 6.92KB | 202 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr) |
+| [Aluminum-v0.1.3.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3) | 0.1.3 | 2021/10/23 13:47:40 | 6.92KB | 203 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr) |
 | [Aluminum-v0.1.2.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.2) | 0.1.2 | 2021/10/23 13:21:36 | 6.91KB | 2 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.2/Aluminum-v0.1.2.mcdr) |
 | [Aluminum-v0.1.1.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.1) | 0.1.1 | 2021/10/23 10:23:29 | 6.94KB | 1 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.1/Aluminum-v0.1.1.mcdr) |
 
@@ -171,7 +171,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 29
+- Total downloads: 30
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
 - Labels: [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md)
@@ -198,7 +198,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 29 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
+| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 30 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
 
 ## carpet_bot_manager
 
@@ -1218,7 +1218,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 1944
+- Total downloads: 1945
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -1246,7 +1246,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 1944 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 1945 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## mirror_server_reforged
 
@@ -1257,7 +1257,7 @@ A MCDReforged api plugin to get player data information and more
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 35
+- Total downloads: 36
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1339,7 +1339,7 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerReforged-v1.0.3.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3) | 1.0.3 | 2022/02/11 13:32:32 | 8.22KB | 5 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr) |
+| [MirrorServerReforged-v1.0.3.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3) | 1.0.3 | 2022/02/11 13:32:32 | 8.22KB | 6 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr) |
 | [MirrorServerReforged-v1.0.2.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2) | 1.0.2 | 2022/02/05 07:17:57 | 8.16KB | 8 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.2/MirrorServerReforged-v1.0.2.mcdr) |
 | [MirrorServerReforged-v1.0.1.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.1) | 1.0.1 | 2022/01/25 01:25:31 | 8.13KB | 19 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.1/MirrorServerReforged-v1.0.1.mcdr) |
 
@@ -2194,7 +2194,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 137
+- Total downloads: 138
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Labels: [`Information`](/labels/information/readme.md)
@@ -2221,7 +2221,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.0.0) | 1.0.0 | 2021/12/31 17:44:56 | 17.84KB | 137 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.0.0/WhereIs-v1.0.0.mcdr) |
+| [WhereIs-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.0.0) | 1.0.0 | 2021/12/31 17:44:56 | 17.84KB | 138 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.0.0/WhereIs-v1.0.0.mcdr) |
 
 ## wiki_request
 
