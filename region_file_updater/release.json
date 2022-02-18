@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "region_file_updater",
   "latest_version": "1.5.1",
-  "etag": "\"fffc9b8fcd7da6fb40a86866d28a949fb3aeaa769f5124e7c9123be8ab4b7ed3\"",
+  "etag": "\"daac98ed8543681786caf6f0a317200f3bfa28feaeec2aa6af37266a6ef1487b\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.1",
@@ -13,7 +13,7 @@
         {
           "name": "RegionfileUpdater-v1.5.1.mcdr",
           "size": 15962,
-          "download_count": 68,
+          "download_count": 69,
           "created_at": "2021-11-02T15:03:27Z",
           "browser_download_url": "https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.1/RegionfileUpdater-v1.5.1.mcdr"
         }
