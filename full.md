@@ -333,7 +333,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Version: 2.1.0
   - Metadata version: 2.0.5
   - Release version: 2.1.0
-- Total downloads: 366
+- Total downloads: 367
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -361,7 +361,7 @@ Chatbridge v2
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0) | 2.1.0 | 2021/11/16 11:27:38 | 39.88KB | 168 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0) | 2.1.0 | 2021/11/16 11:27:38 | 39.88KB | 169 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.4) | 2.0.4 | 2021/11/12 15:26:35 | 39.78KB | 9 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.0.4/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.3) | 2.0.3 | 2021/11/12 13:47:48 | 39.57KB | 3 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.0.3/ChatBridge.pyz) |
 
@@ -505,7 +505,7 @@ A plugin to check cpu temp regularly.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 1706
+- Total downloads: 1707
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -529,7 +529,7 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 1706 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
+| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 1707 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
 
 ## daycount_nbt
 
@@ -2052,7 +2052,7 @@ testing basic server problem.
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 1511
+- Total downloads: 1512
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
 - Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2108,7 +2108,7 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 1511 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
+| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 1512 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
 
 ## stats_helper
 
