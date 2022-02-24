@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "smart_backup",
   "latest_version": "1.2.1",
-  "etag": "\"81bd217b0136a27c522270d90a53b442bf8a53764e66883b77f35eebf7f647e0\"",
+  "etag": "\"418b77daa3c14890c796d26898642ebb0f77867fdabe2ccd549edb4a1dcfc4f4\"",
   "releases": [
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.2.1",
