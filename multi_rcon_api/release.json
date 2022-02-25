@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "multi_rcon_api",
   "latest_version": "2.0.1",
-  "etag": "\"08aff3d6b6987de429827c0e56fffdb1c2eaaf659e4b8a27c97749ccc8bb9a73\"",
+  "etag": "\"4b2bc71ee4aa6edce821040e426000c490c18b6e7a7b3e3614c27f962d41f02c\"",
   "releases": [
     {
       "url": "https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1",
@@ -13,7 +13,7 @@
         {
           "name": "MultiRconAPI-V2.0.1.pyz",
           "size": 4421,
-          "download_count": 15,
+          "download_count": 17,
           "created_at": "2022-02-02T13:08:08Z",
           "browser_download_url": "https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz"
         }
