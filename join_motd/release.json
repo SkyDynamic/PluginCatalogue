@@ -1,26 +1,7 @@
 {
   "schema_version": 2,
   "id": "join_motd",
-  "latest_version": "1.2.0",
-  "etag": "\"9e9c6c28eb3c3d21619045cadb593c02e3330539d41b5952dcf01b4222f99edf\"",
-  "releases": [
-    {
-      "url": "https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0",
-      "name": " joinMOTD v1.2.0",
-      "tag_name": "v1.2.0",
-      "created_at": "2021-08-22T04:14:05Z",
-      "assets": [
-        {
-          "name": "JoinMOTD-v1.2.0.mcdr",
-          "size": 1564,
-          "download_count": 1629,
-          "created_at": "2021-08-22T04:18:37Z",
-          "browser_download_url": "https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr"
-        }
-      ],
-      "description": "MCDR2 plugin format, better config support",
-      "prerelease": false,
-      "parsed_version": "1.2.0"
-    }
-  ]
+  "latest_version": "N/A",
+  "etag": "\"c4d1c89d9cf4e9413287f170e4ae421c5fd9d771295ca1530f93e82561ea5016\"",
+  "releases": []
 }
