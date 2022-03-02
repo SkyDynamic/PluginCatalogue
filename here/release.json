@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "here",
   "latest_version": "1.2.2",
-  "etag": "\"8c3d9985798937fc32e884b45cf84bd1690d91529585df17b96d323d44d572fe\"",
+  "etag": "\"8cfc50bae589c71dbcea50c11dfb28bf305c11551882e27a291130905beaf134\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Here/releases/tag/v1.2.2",
