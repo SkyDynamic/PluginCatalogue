@@ -1,47 +1,47 @@
 {
   "schema_version": 2,
   "id": "chatbridgereforged_mc",
-  "latest_version": "0.1.0",
-  "etag": "\"61edf4cc1bdcc80ef1b4e8c14a4f3cd37582e9153276c151dec1bbbbcb8675f7\"",
+  "latest_version": "0.1.1",
+  "etag": "\"03466252fb7b8b4d07256dd5c9be09b5930ddca1d41cab1351ca8c03cb3f2e42\"",
   "releases": [
     {
-      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.0",
-      "name": "0.1.0-release",
-      "tag_name": "0.1.0",
-      "created_at": "2022-01-28T13:25:04Z",
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1",
+      "name": "0.1.1-release",
+      "tag_name": "0.1.1",
+      "created_at": "2022-03-04T06:07:00Z",
       "assets": [
         {
           "name": "ChatBridgeReforged_cqhttp.py",
-          "size": 38389,
-          "download_count": 6,
-          "created_at": "2022-01-28T13:31:49Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.0/ChatBridgeReforged_cqhttp.py"
+          "size": 39325,
+          "download_count": 0,
+          "created_at": "2022-03-04T06:12:34Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_cqhttp.py"
         },
         {
           "name": "ChatBridgeReforged_MC.py",
           "size": 29639,
-          "download_count": 11,
-          "created_at": "2022-01-28T13:31:48Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.0/ChatBridgeReforged_MC.py"
+          "download_count": 0,
+          "created_at": "2022-03-04T06:12:32Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.py"
         },
         {
           "name": "ChatBridgeReforged_MC.pyz",
           "size": 48090,
-          "download_count": 9,
-          "created_at": "2022-01-28T13:31:39Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.0/ChatBridgeReforged_MC.pyz"
+          "download_count": 0,
+          "created_at": "2022-03-04T06:12:36Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz"
         },
         {
           "name": "ChatBridgeReforged_Server.zip",
-          "size": 33372,
-          "download_count": 12,
-          "created_at": "2022-01-28T13:31:45Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.0/ChatBridgeReforged_Server.zip"
+          "size": 33384,
+          "download_count": 0,
+          "created_at": "2022-03-04T06:12:50Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_Server.zip"
         }
       ],
-      "description": "# 0.1.0\r\n## Description\r\nAdd new event `on_player_joined` and `on_player_left`\r\nNew cqhttp client\r\n## Changes\r\n### New event\r\n- Add `on_player_joined`\r\n- Add `on_player_left`\r\n### New cqhttp client\r\n- Multi connections in one client\r\n- Can be a plugin that no need to open a new `screen` or `tmux` session now\r\n- `restart guardian` is used now\r\n## BUGFIX\r\n- Wrong message in reload plugin\r\n- Better viewing when connecting\r\n- Some other improvements",
+      "description": "# 0.1.0\r\n## Description\r\nAdd new event `on_player_joined` and `on_player_left`\r\nNew cqhttp client\r\n## Changes\r\n### New event\r\n- Add `on_player_joined`\r\n- Add `on_player_left`\r\n### New cqhttp client\r\n- Multi connections in one client\r\n- Can be a plugin that no need to open a new `screen` or `tmux` session now\r\n- `restart guardian` is used now\r\n#### BUGFIX\r\n- Wrong message in reload plugin\r\n- Better viewing when connecting\r\n- Some other improvements\r\n# 0.1.1\r\n#### BUGFIX\r\n- Reload error in cqhttp.py\r\n- Handle UnicodeDeocdeError in server input\r\n- #5 Update requirement.txt",
       "prerelease": false,
-      "parsed_version": "0.1.0"
+      "parsed_version": "0.1.1"
     },
     {
       "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2",
