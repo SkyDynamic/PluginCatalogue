@@ -25,7 +25,7 @@ Plugin Amount: 55
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | A carpet bot manage plugin, able to spawn bot and make it execute actions | 2021/09/07 | [`Tool`](/labels/tool/readme.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | Help you manage your carpet fake player | 2021/08/23 | [`Tool`](/labels/tool/readme.md) |
 | [Cato Plugin](/plugins/cato/readme.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`Tool`](/labels/tool/readme.md) |
-| [ChatBridge v2 for MCDR](/plugins/chatbridge/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Broadcast chats between Minecraft servers and more | 2021/11/16 | [`Tool`](/labels/tool/readme.md) |
+| [ChatBridge v2 for MCDR](/plugins/chatbridge/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Broadcast chats between Minecraft servers and more | 2022/03/05 | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme.md) | [Ricky](https://github.com/R1ckyH) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients). | 2022/03/04 | [`Tool`](/labels/tool/readme.md) |
 | [ColoredChat](/plugins/colored_chat/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Support formatting codes for vanilla | 2021/08/23 | [`Tool`](/labels/tool/readme.md) |
 | [cpu_temp](/plugins/cpu_temp/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin to check cpu temp regularly. | 2021/10/26 | [`Information`](/labels/information/readme.md) |
@@ -69,7 +69,7 @@ Plugin Amount: 55
 | [SmartBackup](/plugins/smart_backup/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Backup Plugin | 2022/01/17 | [`Management`](/labels/management/readme.md) |
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi) | Start and stop server helper | 2021/08/23 | [`Management`](/labels/management/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2021/10/03 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
-| [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2021/08/16 | [`Management`](/labels/management/readme.md) |
+| [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2022/03/05 | [`Management`](/labels/management/readme.md) |
 | [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Query other players' coordinates | 2021/12/31 | [`Information`](/labels/information/readme.md) |
 | [Wiki Request](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | 2021/08/26 | [`Information`](/labels/information/readme.md) |
 

@@ -330,9 +330,9 @@
 
 - 插件 ID: `chatbridge`
 - 插件名: ChatBridge v2 for MCDR
-- 版本: 2.1.0
-  - 元数据版本: 2.0.5
-  - 发布版本: 2.1.0
+- 版本: 2.1.1
+  - 元数据版本: 2.1.1
+  - 发布版本: 2.1.1
 - 总下载量: 383
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/ChatBridge
@@ -361,9 +361,9 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1) | 2.1.1 | 2022/03/05 06:56:57 | 39.94KB | 0 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0) | 2.1.0 | 2021/11/16 11:27:38 | 39.88KB | 185 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.4) | 2.0.4 | 2021/11/12 15:26:35 | 39.78KB | 9 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.0.4/ChatBridge.pyz) |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.3) | 2.0.3 | 2021/11/12 13:47:48 | 39.57KB | 3 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.0.3/ChatBridge.pyz) |
 
 ## chatbridgereforged_mc
 
@@ -2156,9 +2156,9 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 - 插件 ID: `timed_quick_backup_multi`
 - 插件名: Timed QBM
-- 版本: 1.0.1
-  - 元数据版本: 1.0.1
-  - 发布版本: 1.0.1
+- 版本: 1.1.0
+  - 元数据版本: 1.1.0
+  - 发布版本: 1.1.0
 - 总下载量: 1758
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
@@ -2184,6 +2184,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 0 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
 | [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1758 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## where_is

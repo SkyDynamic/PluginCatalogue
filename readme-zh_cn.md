@@ -25,7 +25,7 @@
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | 2021/09/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 帮助你管理地毯端假人 | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Cato Plugin](/plugins/cato/readme-zh_cn.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | 2021/11/16 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | 2022/03/05 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是） | 2022/03/04 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | 支持原版显示格式化代码 | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [cpu_temp](/plugins/cpu_temp/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器温度警报插件。 | 2021/10/26 | [`信息`](/labels/information/readme-zh_cn.md) |
@@ -69,7 +69,7 @@
 | [SmartBackup](/plugins/smart_backup/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个依赖MCDR的备份插件 | 2022/01/17 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi) | 开关服助手 | 2021/08/23 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2021/10/03 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
-| [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2021/08/16 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2022/03/05 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Where Is](/plugins/where_is/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 查询其他玩家的坐标 | 2021/12/31 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Wiki Request](/plugins/wiki_request/readme-zh_cn.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | 一个用来查MediaWiki的插件 | 2021/08/26 | [`信息`](/labels/information/readme-zh_cn.md) |
 

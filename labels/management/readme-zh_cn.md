@@ -23,5 +23,5 @@
 | [Region file Updater](/plugins/region_file_updater/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个从指定位置拉取region文件至本服存档的插件 | 2021/09/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [SmartBackup](/plugins/smart_backup/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个依赖MCDR的备份插件 | 2022/01/17 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi) | 开关服助手 | 2021/08/23 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2021/08/16 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2022/03/05 | [`管理`](/labels/management/readme-zh_cn.md) |
 
