@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 55
+Plugin Amount: 54
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -49,7 +49,6 @@ Plugin Amount: 55
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [MirrorServerReforged](/plugins/mirror_server_reforged/readme.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+. | 2022/02/11 | [`Management`](/labels/management/readme.md) |
-| [More APIs](/plugins/more_apis/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Add some api for MCDReforged | 2021/09/29 | [`API`](/labels/api/readme.md) |
 | [Mount](/plugins/mount/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | Mount different minecraft server into a mcdr server, with overwritten properties! | 2022/01/20 | [`Management`](/labels/management/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | 2022/02/02 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin can control whitelist with multi servers. | 2021/10/26 | [`Management`](/labels/management/readme.md) |
