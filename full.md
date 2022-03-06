@@ -583,7 +583,7 @@ Feature:
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 1466
+- Total downloads: 1467
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -608,7 +608,7 @@ Show time in Minecraft
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1466 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
+| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1467 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 
 ## delayexe
 
@@ -766,7 +766,7 @@ Make file transfers faster!
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 1575
+- Total downloads: 1576
 - Authors: [zhang_anzhi](https://github.com/zhang-anzhi)
 - Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
 - Labels: [`Information`](/labels/information/readme.md)
@@ -821,7 +821,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1575 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
+| [Info-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1576 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
 
 ## join_motd
 
@@ -914,7 +914,7 @@ Features:
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 2659
+- Total downloads: 2660
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/lazytp
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -942,7 +942,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LazyTeleport-v2.0.1.mcdr](https://github.com/Lazy-Bing-Server/LazyTP/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 16:14:43 | 19.55KB | 1343 | [Download](https://github.com/Lazy-Bing-Server/LazyTP/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr) |
+| [LazyTeleport-v2.0.1.mcdr](https://github.com/Lazy-Bing-Server/LazyTP/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 16:14:43 | 19.55KB | 1344 | [Download](https://github.com/Lazy-Bing-Server/LazyTP/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr) |
 | [LazyTeleport-v2.0.0.mcdr](https://github.com/Lazy-Bing-Server/LazyTP/releases/tag/2.0.0) | 2.0.0 | 2021/08/27 16:04:24 | 7.38KB | 1316 | [Download](https://github.com/Lazy-Bing-Server/LazyTP/releases/download/2.0.0/LazyTeleport-v2.0.0.mcdr) |
 
 ## lite_file_manager
@@ -1477,7 +1477,7 @@ A whitelist plugin with multiple server
 - Version: 1.0.1
   - Metadata version: 1.1.0
   - Release version: 1.0.1
-- Total downloads: 1139
+- Total downloads: 1140
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/OneBotAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -1504,7 +1504,7 @@ A whitelist plugin with multiple server
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OneBotAPI-v1.0.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1) | 1.0.1 | 2021/09/06 13:06:15 | 14.8KB | 1139 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr) |
+| [OneBotAPI-v1.0.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1) | 1.0.1 | 2021/09/06 13:06:15 | 14.8KB | 1140 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr) |
 
 ## online
 
