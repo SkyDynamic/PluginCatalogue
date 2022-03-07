@@ -1556,7 +1556,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 0
+- Total downloads: 1
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1586,7 +1586,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.0.0) | 1.0.0 | 2022/03/07 17:37:24 | 97.95KB | 0 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.0.0/PCRC.pyz) |
+| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.0.0) | 1.0.0 | 2022/03/07 17:37:24 | 97.95KB | 1 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.0.0/PCRC.pyz) |
 
 ## permanent_backup
 
