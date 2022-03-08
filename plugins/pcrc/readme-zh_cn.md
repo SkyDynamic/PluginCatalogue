@@ -9,7 +9,7 @@
 - 插件 ID: `pcrc`
 - 插件名: PCRC
 - 版本: 1.0.0
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.1.0
   - 发布版本: 1.0.0
 - 总下载量: 5
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)

@@ -9,7 +9,7 @@
 - Plugin ID: `pcrc`
 - Plugin Name: PCRC
 - Version: 1.0.0
-  - Metadata version: 1.0.0
+  - Metadata version: 1.1.0
   - Release version: 1.0.0
 - Total downloads: 5
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
