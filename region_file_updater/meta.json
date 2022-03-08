@@ -1,7 +1,7 @@
 {
   "id": "region_file_updater",
   "name": "Region file Updater",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "repository": "https://github.com/TISUnion/RegionFileUpdater",
   "labels": [
     "management"
