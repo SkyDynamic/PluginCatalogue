@@ -19,7 +19,7 @@ Plugin Amount: 12
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | 2021/08/16 | [`Information`](/labels/information/readme.md) |
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | 2021/09/07 | [`Information`](/labels/information/readme.md) |
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |
-| [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2021/10/03 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
+| [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/03/08 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Query other players' coordinates | 2021/12/31 | [`Information`](/labels/information/readme.md) |
 | [Wiki Request](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | 2021/08/26 | [`Information`](/labels/information/readme.md) |
 

@@ -59,7 +59,7 @@
 | [QQrobot](/plugins/qq_robot/readme-zh_cn.md) | [ShiinaRikka](https://github.com/lky1433223) | 在QQ群发消息的机器人 | 2022/02/10 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 多槽位备份/回档插件 | 2021/12/20 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 一个快速运行自定义脚本的插件。 | 2021/12/24 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Region file Updater](/plugins/region_file_updater/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个从指定位置拉取region文件至本服存档的插件 | 2021/09/26 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [Region file Updater](/plugins/region_file_updater/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个从指定位置拉取region文件至本服存档的插件 | 2022/03/08 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme-zh_cn.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | 讓普通玩家執行已被加入白名單的原版指令 | 2021/08/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个简单的游戏内计算器 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -68,7 +68,7 @@
 | [simple_test](/plugins/simple_test/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器基础自检插件。 | 2021/10/25 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [SmartBackup](/plugins/smart_backup/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个依赖MCDR的备份插件 | 2022/01/17 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi) | 开关服助手 | 2021/08/23 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2021/10/03 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
+| [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2022/03/08 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2022/03/05 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Where Is](/plugins/where_is/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 查询其他玩家的坐标 | 2021/12/31 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Wiki Request](/plugins/wiki_request/readme-zh_cn.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | 一个用来查MediaWiki的插件 | 2021/08/26 | [`信息`](/labels/information/readme-zh_cn.md) |

@@ -59,7 +59,7 @@ Plugin Amount: 55
 | [QQrobot](/plugins/qq_robot/readme.md) | [ShiinaRikka](https://github.com/lky1433223) | A QQrobot to send message in qq group | 2022/02/10 | [`Tool`](/labels/tool/readme.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | 2021/12/20 | [`Management`](/labels/management/readme.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin for run command quickly. | 2021/12/24 | [`Tool`](/labels/tool/readme.md) |
-| [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | 2021/09/26 | [`Management`](/labels/management/readme.md) |
+| [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | 2022/03/08 | [`Management`](/labels/management/readme.md) |
 | [Renewability](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`Tool`](/labels/tool/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | 2021/08/20 | [`Tool`](/labels/tool/readme.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
@@ -68,7 +68,7 @@ Plugin Amount: 55
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |
 | [SmartBackup](/plugins/smart_backup/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Backup Plugin | 2022/01/17 | [`Management`](/labels/management/readme.md) |
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi) | Start and stop server helper | 2021/08/23 | [`Management`](/labels/management/readme.md) |
-| [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2021/10/03 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
+| [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/03/08 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2022/03/05 | [`Management`](/labels/management/readme.md) |
 | [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Query other players' coordinates | 2021/12/31 | [`Information`](/labels/information/readme.md) |
 | [Wiki Request](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | 2021/08/26 | [`Information`](/labels/information/readme.md) |
