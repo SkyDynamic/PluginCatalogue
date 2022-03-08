@@ -54,7 +54,7 @@
 | [multi_whitelist](/plugins/multi_whitelist/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 基于minecraft的白名单功能。 | 2021/10/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [OneBot API](/plugins/onebot_api/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2021/09/06 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Online](/plugins/online/readme-zh_cn.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服 | 2021/09/07 | [`信息`](/labels/information/readme-zh_cn.md) |
-| [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | 2022/03/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | 2022/03/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 创建永久的用 zip 压缩的备份 | 2021/08/17 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [QQrobot](/plugins/qq_robot/readme-zh_cn.md) | [ShiinaRikka](https://github.com/lky1433223) | 在QQ群发消息的机器人 | 2022/02/10 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 多槽位备份/回档插件 | 2021/12/20 | [`管理`](/labels/management/readme-zh_cn.md) |
