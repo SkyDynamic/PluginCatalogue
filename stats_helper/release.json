@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "stats_helper",
   "latest_version": "7.4.0",
-  "etag": "\"f7f661a71e84ffe719e19fa993eca60392c3ac3e5cede7c9fc41dbbcac5f0939\"",
+  "etag": "\"62d5fbeeefb4465ba9913ecf3e7fa2f2a335e733878211b7e8011ec0931ac534\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0",
@@ -13,7 +13,7 @@
         {
           "name": "StatsHelper-v7.4.0.mcdr",
           "size": 23500,
-          "download_count": 2,
+          "download_count": 4,
           "created_at": "2022-03-08T15:06:34Z",
           "browser_download_url": "https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr"
         }
