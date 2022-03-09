@@ -1554,9 +1554,9 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 - 插件 ID: `pcrc`
 - 插件名: PCRC
-- 版本: 1.1.0
-  - 元数据版本: 1.1.0
-  - 发布版本: 1.1.0
+- 版本: 1.2.0
+  - 元数据版本: 1.2.0
+  - 发布版本: 1.2.0
 - 总下载量: 5
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/Fallen-Breath/PCRC
@@ -1587,6 +1587,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.0) | 1.2.0 | 2022/03/09 08:25:26 | 101.23KB | 0 | [下载](https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.0/PCRC.pyz) |
 | [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.1.0) | 1.1.0 | 2022/03/08 12:51:16 | 98.67KB | 0 | [下载](https://github.com/Fallen-Breath/PCRC/releases/download/v1.1.0/PCRC.pyz) |
 | [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.0.0) | 1.0.0 | 2022/03/07 17:37:24 | 97.95KB | 5 | [下载](https://github.com/Fallen-Breath/PCRC/releases/download/v1.0.0/PCRC.pyz) |
 

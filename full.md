@@ -1553,9 +1553,9 @@ Display the online players for Group server, with click event to quickly join ev
 
 - Plugin ID: `pcrc`
 - Plugin Name: PCRC
-- Version: 1.1.0
-  - Metadata version: 1.1.0
-  - Release version: 1.1.0
+- Version: 1.2.0
+  - Metadata version: 1.2.0
+  - Release version: 1.2.0
 - Total downloads: 5
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
@@ -1586,6 +1586,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.0) | 1.2.0 | 2022/03/09 08:25:26 | 101.23KB | 0 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.0/PCRC.pyz) |
 | [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.1.0) | 1.1.0 | 2022/03/08 12:51:16 | 98.67KB | 0 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.1.0/PCRC.pyz) |
 | [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.0.0) | 1.0.0 | 2022/03/07 17:37:24 | 97.95KB | 5 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.0.0/PCRC.pyz) |
 

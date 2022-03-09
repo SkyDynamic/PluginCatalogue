@@ -29,7 +29,7 @@
 | [MCDR Plugin Panel](/plugins/mcdr_plugin_panel/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 一个供 MCDR 插件使用的面板 | N/A | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | 2022/02/02 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
-| [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | 2022/03/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | 2022/03/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [QQrobot](/plugins/qq_robot/readme-zh_cn.md) | [ShiinaRikka](https://github.com/lky1433223) | 在QQ群发消息的机器人 | 2022/02/10 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 一个快速运行自定义脚本的插件。 | 2021/12/24 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
