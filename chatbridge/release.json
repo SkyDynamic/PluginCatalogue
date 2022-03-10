@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "chatbridge",
-  "latest_version": "2.1.1",
-  "etag": "\"c04c834846f94f0fd1fa50dd3364bd639c525e3fe1f8ffe550ebbe565b218292\"",
+  "latest_version": "2.2.0",
+  "etag": "\"dbda29aa756d46e60cebbbf49a883c5bf7ea1ec848e5bad961b7f3efa6c957bd\"",
   "releases": [
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0",
+      "name": "",
+      "tag_name": "v2.2.0",
+      "created_at": "2022-03-10T06:22:09Z",
+      "assets": [
+        {
+          "name": "ChatBridge.pyz",
+          "size": 41540,
+          "download_count": 0,
+          "created_at": "2022-03-10T06:23:41Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz"
+        }
+      ],
+      "description": "## CLI server changes:\r\n- Better thread name displaying\r\n- Auto-trim login timeout connections\r\n- Added secret `thread_dump` command in cli server for debug",
+      "prerelease": false,
+      "parsed_version": "2.2.0"
+    },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1",
       "name": "",
