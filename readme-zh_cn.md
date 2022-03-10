@@ -25,7 +25,7 @@
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | 2021/09/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 帮助你管理地毯端假人 | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Cato Plugin](/plugins/cato/readme-zh_cn.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | 2022/03/05 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | 2022/03/10 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是） | 2022/03/04 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | 支持原版显示格式化代码 | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [cpu_temp](/plugins/cpu_temp/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器温度警报插件。 | 2021/10/26 | [`信息`](/labels/information/readme-zh_cn.md) |
