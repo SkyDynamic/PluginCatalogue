@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mcdr_pycraft_bot",
   "latest_version": "1.2.0",
-  "etag": "\"93a4e39cdb05ecea8889e736f73ee69acdc5fe0a9c7989f8e1b04addc602b4b6\"",
+  "etag": "\"cff46432efa9e1cc6963f7a9bca6eb63c4f57258cb4d1b95f73bae6b32ded35f\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0",
@@ -13,7 +13,7 @@
         {
           "name": "MCDRBot-v1.2.0.mcdr",
           "size": 76874,
-          "download_count": 1431,
+          "download_count": 1432,
           "created_at": "2021-08-19T01:18:23Z",
           "browser_download_url": "https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr"
         }
