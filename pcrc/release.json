@@ -1,9 +1,34 @@
 {
   "schema_version": 2,
   "id": "pcrc",
-  "latest_version": "1.2.1",
-  "etag": "\"a1393ee8d28ab2b31cd790a0343b206dd33a3b244c64ca74b154b5fe71dc5f4e\"",
+  "latest_version": "1.2.2",
+  "etag": "\"4f7cc6956801d2b3e59abd1481aea1c778e959ee10b026ece63fa9493070bcf7\"",
   "releases": [
+    {
+      "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.2",
+      "name": "PCRC v1.2.2",
+      "tag_name": "v1.2.2",
+      "created_at": "2022-03-11T19:39:43Z",
+      "assets": [
+        {
+          "name": "PCRC.exe",
+          "size": 9675557,
+          "download_count": 0,
+          "created_at": "2022-03-11T19:45:35Z",
+          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.2/PCRC.exe"
+        },
+        {
+          "name": "PCRC.pyz",
+          "size": 103952,
+          "download_count": 0,
+          "created_at": "2022-03-11T19:45:35Z",
+          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.2/PCRC.pyz"
+        }
+      ],
+      "description": "## News & Changes\r\n\r\n- Added CLI `auth`, `help` command\r\n- Added CLI `list` command to show player list\r\n- Improved CLI `status` command\r\n- Added config option `afk_ignore_spectator`, with which spectator flying around will keep pcrc afking\r\n- Now PCRC will do Minecraft authentication at startup, and constantly refresh the token every 3 hours after a successful authentication\r\n\r\n## Fixes\r\n\r\n- Fixed some stored information not reset after reconnecting to the server\r\n\r\n**Full Changelog**: https://github.com/Fallen-Breath/PCRC/compare/v1.1.0...v1.2.0\r\n\r\n## Patches\r\n\r\n### v1.2.1\r\n\r\n- Fixed pcrc records nothing\r\n\r\n**Full Changelog**: https://github.com/Fallen-Breath/PCRC/compare/v1.2.0...v1.2.1\r\n\r\n### v1.2.2\r\n\r\n- Fixed CLI `stop` command does not interrupt auto-restart\r\n- Fixed some pycraft packets don't recognized as entity packet\r\n  - So player standing still doing nothing will not trigger pcrc recording pausing every 15s\r\n- Fixed wrong exception type displaying on_connection_exception\r\n\r\n**Full Changelog**: https://github.com/Fallen-Breath/PCRC/compare/v1.2.1...v1.2.2",
+      "prerelease": false,
+      "parsed_version": "1.2.2"
+    },
     {
       "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.1",
       "name": "PCRC v1.2.1",
