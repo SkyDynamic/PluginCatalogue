@@ -905,6 +905,44 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | [join_motd_plus_3.0.1.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.1) | 3.0.1 | 2021/09/18 09:20:41 | 4.09KB | 605 | [下载](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.1/join_motd_plus_3.0.1.mcdr) |
 | [join_motd_plus_3.0.0.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 1346 | [下载](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
+## jrrp
+
+### 基本信息
+
+- 插件 ID: `jrrp`
+- 插件名: Jrrp
+- 版本: 1.0.1
+  - 元数据版本: 1.0.1
+  - 发布版本: 1.0.1
+- 总下载量: 0
+- 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
+- 仓库: https://github.com/HuajiMURsMC/jrrp
+- 标签: [`工具`](/labels/tool/readme-zh_cn.md)
+- 描述: 《今日人品》
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.4 |
+| [mc_uuid](/plugins/mc_uuid/readme-zh_cn.md) | \>=1.0.0 |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.4 |
+
+### 介绍
+
+不基于 `random.randint(0, 100)` 的今日人品
+
+### 下载
+
+| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+| [Jrrp-v1.0.1.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/1.0.1) | 1.0.1 | 2022/03/12 02:58:35 | 13.59KB | 0 | [下载](https://github.com/HuajiMURsMC/jrrp/releases/download/1.0.1/Jrrp-v1.0.1.mcdr) |
+
 ## lazytp
 
 ### 基本信息

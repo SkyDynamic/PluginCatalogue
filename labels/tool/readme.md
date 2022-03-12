@@ -6,7 +6,7 @@
 
 Plugin Index with label `Tool`
 
-Plugin Amount: 28
+Plugin Amount: 29
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -23,6 +23,7 @@ Plugin Amount: 28
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/01/07 | [`Tool`](/labels/tool/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
+| [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/03/12 | [`Tool`](/labels/tool/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | 2021/08/27 | [`Tool`](/labels/tool/readme.md) |
 | [Seen](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
 | [Task](/plugins/mcd_task/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | 2021/12/05 | [`Tool`](/labels/tool/readme.md) |

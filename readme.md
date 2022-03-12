@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 55
+Plugin Amount: 56
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -39,6 +39,7 @@ Plugin Amount: 55
 | [Info](/plugins/info/readme.md) | [zhang_anzhi](https://github.com/zhang-anzhi) | Get server info | 2021/08/22 | [`Information`](/labels/information/readme.md) |
 | [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | 2021/08/22 | [`Information`](/labels/information/readme.md) |
 | [joinMOTD++](/plugins/join_motd_plus/readme.md) | [Alex3236](https://github.com/alex3236) | Display content when players join the server. (with many useful features) | 2022/02/09 | [`Information`](/labels/information/readme.md) |
+| [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/03/12 | [`Tool`](/labels/tool/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | 2021/08/27 | [`Tool`](/labels/tool/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | 2021/08/16 | [`Information`](/labels/information/readme.md) |
