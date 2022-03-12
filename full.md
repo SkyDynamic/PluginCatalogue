@@ -238,6 +238,42 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 | --- | --- | --- | --- | --- | --- |
 | [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1324 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
+## carpet_tick
+
+### Basic Information
+
+- Plugin ID: `carpet_tick`
+- Plugin Name: Carpet Tick
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
+- Total downloads: 0
+- Authors: [Ivan1F](https://github.com/Ivan-1F)
+- Repository: https://github.com/Ivan-1F/CarpetTick
+- Labels: [`Information`](/labels/information/readme.md)
+- Description: Get server status using carpet /tick command
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+*None*
+
+### Download
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [CarpetTick-v1.0.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0) | 1.0.0 | 2022/03/11 14:50:05 | 3.35KB | 0 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.0.0/CarpetTick-v1.0.0.mcdr) |
+
 ## carpetbotlist
 
 ### Basic Information

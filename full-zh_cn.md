@@ -238,6 +238,42 @@
 | --- | --- | --- | --- | --- | --- |
 | [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1324 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
+## carpet_tick
+
+### 基本信息
+
+- 插件 ID: `carpet_tick`
+- 插件名: Carpet Tick
+- 版本: 1.0.0
+  - 元数据版本: 1.0.0
+  - 发布版本: 1.0.0
+- 总下载量: 0
+- 作者: [Ivan1F](https://github.com/Ivan-1F)
+- 仓库: https://github.com/Ivan-1F/CarpetTick
+- 标签: [`信息`](/labels/information/readme-zh_cn.md)
+- 描述: 使用 Carpet Mod 的 /tick 指令获取服务器信息
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+
+### 介绍
+
+*无*
+
+### 下载
+
+| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+| [CarpetTick-v1.0.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0) | 1.0.0 | 2022/03/11 14:50:05 | 3.35KB | 0 | [下载](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.0.0/CarpetTick-v1.0.0.mcdr) |
+
 ## carpetbotlist
 
 ### 基本信息

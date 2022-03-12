@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 56
+插件数量: 57
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -23,6 +23,7 @@
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | 2021/09/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Carpet Tick](/plugins/carpet_tick/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 使用 Carpet Mod 的 /tick 指令获取服务器信息 | 2022/03/11 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 帮助你管理地毯端假人 | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Cato Plugin](/plugins/cato/readme-zh_cn.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | 2022/03/10 | [`工具`](/labels/tool/readme-zh_cn.md) |
