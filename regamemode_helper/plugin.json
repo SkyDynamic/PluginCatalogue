@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "regamemode_helper",
+  "authors": [
+    "SkyDynamic"
+  ],
+  "repository": "https://github.com/SkyDynamic/Regamemode_Helper",
+  "branch": "main",
+  "related_path": ".",
+  "labels": [
+    "tool"
+  ],
+  "introduction": {
+    "en_us": "[English] [[中文]](readme_cn.md)\n\n# Regamemode_Helper Plugin for MCDReforged\nThis plugin is refactored from [Gamemode-Helper](https://github.com/xksnetcbs/MCDR-gamemode_helper-1.16-)\n\nEnsure that your MCDReforged version is greater than 2.0.0 before installation this plugin\n\n# Command\n| Command | Function                                                                                                                                                                       |\n|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| !c      | Change your gamemode to spectator and record your current location                                                                                                             |\n| !s      | Change your gamemode to survival and teleport back to the position before using the `!c` Command. Make sure you have entered before using the current command `!c` instruction |\n\n# Change Log\n## v1.0.0\n```\nThe first version, not anything to say\n```\n",
+    "zh_cn": "[[English]]((README.md)) [中文]\n\n# Regamemode_Helper Plugin for MCDReforged\n此插件重构自 [Gamemode-Helper](https://github.com/xksnetcbs/MCDR-gamemode_helper-1.16-)\n\n安装插件前请确保您的MCDR大于等于2.0.0\n\n# Command\n| 指令 | 功能                                          |\n|----|---------------------------------------------|\n| !c | 更改您的模式并记录当前位置与朝向                            |\n| !s | 更改您的模式为生存并传送回使用`!c`指令前的位置, 如果没使用过`!c`则无视此指令 |\n\n# Change Log\n## v1.0.0\n```\nThe first version, not anything to say\n```\n"
+  }
+}
