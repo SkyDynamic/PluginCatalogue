@@ -1,13 +1,13 @@
 {
+  "schema_version": 3,
   "id": "advanced_whitelist_r",
   "name": "AdvancedWhitelistR",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
-  "labels": [
-    "management"
-  ],
+  "link": "https://github.com/EMUnion/AdvancedWhitelistR",
   "authors": [
-    "noionion"
+    "noionion",
+    "GamerNoTitle"
   ],
   "dependencies": {
     "mcdreforged": ">=2.1.0"

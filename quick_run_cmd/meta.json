@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "quick_run_cmd",
   "name": "quick_run_cmd",
   "version": "2.0.0",
   "repository": "https://github.com/R1ckyH/quick_run_cmd",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/R1ckyH/quick_run_cmd",
   "authors": [
     "Ricky"
   ],

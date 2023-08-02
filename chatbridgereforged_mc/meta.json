@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "chatbridgereforged_mc",
   "name": "ChatBridgeReforged_MC",
-  "version": "0.1.1-dev024",
+  "version": "0.2.7-dev032",
   "repository": "https://github.com/R1ckyH/ChatBridgeReforged",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/R1ckyH/ChatBridgeReforged",
   "authors": [
     "Ricky"
   ],

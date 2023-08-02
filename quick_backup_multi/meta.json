@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "quick_backup_multi",
   "name": "Quick Backup Multi",
-  "version": "1.6.0",
+  "version": "1.9.0",
   "repository": "https://github.com/TISUnion/QuickBackupM",
-  "labels": [
-    "management"
-  ],
+  "link": "https://github.com/TISUnion/QuickBackupM",
   "authors": [
     "Fallen_Breath"
   ],

@@ -1,12 +1,10 @@
 {
+  "schema_version": 3,
   "id": "bot_plugin",
   "name": "Bot Plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": "https://github.com/DancingSnow0517/Bot_Manager",
-  "labels": [
-    "management",
-    "tool"
-  ],
+  "link": "https://github.com/DancingSnow0517/Bot_Manager",
   "authors": [
     "DancingSnow0517"
   ],

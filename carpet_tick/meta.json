@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "carpet_tick",
   "name": "Carpet Tick",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "repository": "https://github.com/Ivan-1F/CarpetTick",
-  "labels": [
-    "information"
-  ],
+  "link": "https://github.com/Ivan-1F/CarpetTick",
   "authors": [
     "Ivan1F"
   ],

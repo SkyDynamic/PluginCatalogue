@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "simple_test",
   "name": "simple_test",
   "version": "3.0.0",
   "repository": "https://github.com/R1ckyH/simple_test",
-  "labels": [
-    "information"
-  ],
+  "link": "https://github.com/R1ckyH/simple_test",
   "authors": [
     "Ricky"
   ],

@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "here",
   "name": "Here",
   "version": "1.2.2",
   "repository": "https://github.com/TISUnion/Here",
-  "labels": [
-    "information"
-  ],
+  "link": "https://github.com/TISUnion/Here",
   "authors": [
     "Fallen_Breath",
     "nathan21hz",

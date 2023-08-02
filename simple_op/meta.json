@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "simple_op",
   "name": "Simple OP",
   "version": "1.2.0",
   "repository": "https://github.com/MCDReforged/SimpleOP",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/MCDReforged/SimpleOP",
   "authors": [
     "Fallen_Breath"
   ],

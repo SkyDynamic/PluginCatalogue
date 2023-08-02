@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "mcdr_pycraft_bot",
   "name": "MCDR Bot",
   "version": "1.2.0",
   "repository": "https://github.com/MCDReforged/MCDR-bot",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/MCDReforged/MCDR-bot",
   "authors": [
     "Fallen_Breath"
   ],

@@ -1,12 +1,10 @@
 {
+  "schema_version": 3,
   "id": "faster_transfer",
   "name": "Faster Transfer",
   "version": "0.1.0",
   "repository": "https://github.com/alex3236/FasterTransfer",
-  "labels": [
-    "tool",
-    "api"
-  ],
+  "link": "https://github.com/alex3236/FasterTransfer",
   "authors": [
     "Alex3236"
   ],

@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "pcrc",
   "name": "PCRC",
-  "version": "1.2.2",
+  "version": "1.4.0",
   "repository": "https://github.com/Fallen-Breath/PCRC",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/Fallen-Breath/PCRC",
   "authors": [
     "Fallen_Breath"
   ],

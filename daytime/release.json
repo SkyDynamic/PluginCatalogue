@@ -1,26 +1,6 @@
 {
-  "schema_version": 2,
+  "schema_version": 7,
   "id": "daytime",
-  "latest_version": "1.1.0",
-  "etag": "\"e49dfc91f98f21223d8111e96bdd511cbab19312b79c94e7a0e1110572ea7bbc\"",
-  "releases": [
-    {
-      "url": "https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0",
-      "name": "Daytime v1.1.0 for MCDR-2.x",
-      "tag_name": "v1.1.0",
-      "created_at": "2021-08-18T04:34:34Z",
-      "assets": [
-        {
-          "name": "Daytime-v1.1.0.mcdr",
-          "size": 1100,
-          "download_count": 1469,
-          "created_at": "2021-08-18T04:36:17Z",
-          "browser_download_url": "https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr"
-        }
-      ],
-      "description": "",
-      "prerelease": false,
-      "parsed_version": "1.1.0"
-    }
-  ]
+  "latest_version": null,
+  "releases": []
 }

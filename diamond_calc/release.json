@@ -1,7 +1,6 @@
 {
-  "schema_version": 2,
+  "schema_version": 7,
   "id": "diamond_calc",
-  "latest_version": "N/A",
-  "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
+  "latest_version": null,
   "releases": []
 }

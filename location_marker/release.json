@@ -1,26 +1,6 @@
 {
-  "schema_version": 2,
+  "schema_version": 7,
   "id": "location_marker",
-  "latest_version": "1.3.1",
-  "etag": "\"80f0f0af730af8516a5a6c241119748204304da008df9ffe98a7337f8a9cdf99\"",
-  "releases": [
-    {
-      "url": "https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1",
-      "name": "Location Marker v1.3 for MCDR 2.0",
-      "tag_name": "v1.3.1",
-      "created_at": "2021-08-16T09:27:13Z",
-      "assets": [
-        {
-          "name": "LocationMarker-v1.3.1.mcdr",
-          "size": 17799,
-          "download_count": 1601,
-          "created_at": "2021-08-16T17:09:34Z",
-          "browser_download_url": "https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr"
-        }
-      ],
-      "description": "MCDR 2.0!",
-      "prerelease": false,
-      "parsed_version": "1.3.1"
-    }
-  ]
+  "latest_version": null,
+  "releases": []
 }

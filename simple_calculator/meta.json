@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "simple_calculator",
   "name": "Simple in-game calculator",
   "version": "1.2.0",
   "repository": "https://github.com/TISUnion/Calculator",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/TISUnion/Calculator",
   "authors": [
     "Fallen_Breath"
   ],

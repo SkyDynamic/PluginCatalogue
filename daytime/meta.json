@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "daytime",
   "name": "Daytime",
   "version": "1.1.0",
   "repository": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
   "authors": [
     "ZeroKelvin"
   ],

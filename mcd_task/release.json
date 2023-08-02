@@ -1,62 +1,6 @@
 {
-  "schema_version": 2,
+  "schema_version": 7,
   "id": "mcd_task",
-  "latest_version": "2.1.0",
-  "etag": "\"6ec9e131a00ec6bbef6a7e4a8cde47cce462d300a836a24dd6a311874a48778e\"",
-  "releases": [
-    {
-      "url": "https://github.com/TISUnion/Task/releases/tag/2.1.0",
-      "name": "v2.1.0",
-      "tag_name": "2.1.0",
-      "created_at": "2021-12-05T05:08:52Z",
-      "assets": [
-        {
-          "name": "Task-v2.1.0.mcdr",
-          "size": 14927,
-          "download_count": 92,
-          "created_at": "2021-12-05T05:14:26Z",
-          "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.1.0/Task-v2.1.0.mcdr"
-        }
-      ],
-      "description": "# Main Contents\r\n1. Language preference supported\r\n2. Bump MCDR version requirement to 2.1.0\r\n# Bug Fixes\r\n1. Fixed error log in console when a player, who changed nickname and has no task binded, enter the server\r\n2. Fixed a bug that causes permission error can't be reply to the player",
-      "prerelease": false,
-      "parsed_version": "2.1.0"
-    },
-    {
-      "url": "https://github.com/TISUnion/Task/releases/tag/2.0.1",
-      "name": "v2.0.1",
-      "tag_name": "2.0.1",
-      "created_at": "2021-08-27T02:46:18Z",
-      "assets": [
-        {
-          "name": "Task-v2.0.1.mcdr",
-          "size": 14539,
-          "download_count": 1352,
-          "created_at": "2021-08-27T02:49:35Z",
-          "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.0.1/Task-v2.0.1.mcdr"
-        }
-      ],
-      "description": "fixed the issue that help message won't be display on `!!task help` called",
-      "prerelease": false,
-      "parsed_version": "2.0.1"
-    },
-    {
-      "url": "https://github.com/TISUnion/Task/releases/tag/2.0.0",
-      "name": "v2.0.0 for MCDReforged 2.x",
-      "tag_name": "2.0.0",
-      "created_at": "2021-08-17T09:05:47Z",
-      "assets": [
-        {
-          "name": "Task-v2.0.0.mcdr",
-          "size": 14540,
-          "download_count": 1320,
-          "created_at": "2021-08-17T09:09:20Z",
-          "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.0.0/Task-v2.0.0.mcdr"
-        }
-      ],
-      "description": "1. Totally rebuilt, now requires MCDR 2.0 instead of stext\r\n2. You can add responsibles and set deadline for tasks now \r\n3. Fixed some known issue",
-      "prerelease": false,
-      "parsed_version": "2.0.0"
-    }
-  ]
+  "latest_version": null,
+  "releases": []
 }

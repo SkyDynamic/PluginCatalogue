@@ -1,16 +1,15 @@
 {
+  "schema_version": 3,
   "id": "mirror_server_reforged",
   "name": "MirrorServerReforged",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "repository": "https://github.com/EMUnion/MirrorServerReforged",
-  "labels": [
-    "management"
-  ],
+  "link": "https://github.com/EMUnion/MirrorServerReforged",
   "authors": [
     "GamerNoTitle"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.0.0"
+    "mcdreforged": ">=2.6.0"
   },
   "requirements": [],
   "description": {
