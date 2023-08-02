@@ -5011,7 +5011,7 @@ Only matches the IP address received by the server and player name, and the play
 - 插件 ID: `where_is`
 - 插件名: Where Is
 - 版本: None
-  - 元数据版本: 2.0.2+build.6
+  - 元数据版本: 2.1.0+build.8
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
