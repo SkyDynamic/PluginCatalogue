@@ -8,12 +8,13 @@
 
 - Plugin ID: `colored_chat`
 - Plugin Name: ColoredChat
-- Version: 0.0.2
-  - Metadata version: 0.0.2
-  - Release version: 0.0.2
-- Total downloads: 1434
-- Authors: [zhang_anzhi](https://github.com/zhang-anzhi)
-- Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- Version: None
+  - Metadata version: 0.0.3
+  - Release version: None
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Support formatting codes for vanilla
 
@@ -51,7 +52,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ColoredChat-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.2) | 0.0.2 | 2021/08/23 10:20:29 | 1.54KB | 1434 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/colored_chat-v0.0.2/ColoredChat-v0.0.2.mcdr) |
 

@@ -8,12 +8,13 @@
 
 - Plugin ID: `mc_uuid`
 - Plugin Name: Minecraft UUID API
-- Version: 1.0.0
+- Version: None
   - Metadata version: 1.0.0
-  - Release version: 1.0.0
-- Total downloads: 1374
+  - Release version: None
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
+- Repository plugin page: https://github.com/HuajiMUR233/MCUUID/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Minecraft UUID API
 
@@ -34,7 +35,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftUUIDAPI-v1.0.0.mcdr](https://github.com/HuajiMURsMC/MCUUID/releases/tag/1.0.0) | 1.0.0 | 2021/08/16 15:53:02 | 1.85KB | 1374 | [Download](https://github.com/HuajiMURsMC/MCUUID/releases/download/1.0.0/MinecraftUUIDAPI-v1.0.0.mcdr) |
 

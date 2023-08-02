@@ -1,0 +1,44 @@
+**English** | [中文](readme-zh_cn.md)
+
+\>\>\> [Back to index](/readme.md)
+
+## mcdrpost
+
+### Basic Information
+
+- Plugin ID: `mcdrpost`
+- Plugin Name: MCDRpost
+- Version: None
+  - Metadata version: 2.1.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [Flyky](https://github.com/Flyky)
+- Repository: https://github.com/Flyky/MCDRpost
+- Repository plugin page: https://github.com/Flyky/MCDRpost/tree/master
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: A MCDR plugin for post/teleport items
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
+
+### Introduction
+
+A MCDR plugin for post/teleport items
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+

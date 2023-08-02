@@ -8,12 +8,13 @@
 
 - Plugin ID: `daytime`
 - Plugin Name: Daytime
-- Version: 1.1.0
+- Version: None
   - Metadata version: 1.1.0
-  - Release version: 1.1.0
-- Total downloads: 1469
+  - Release version: None
+- Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
+- Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-Daytime/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: show time in minecraft
 
@@ -34,7 +35,8 @@ Show time in Minecraft
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1469 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 

@@ -8,12 +8,13 @@
 
 - 插件 ID: `colored_chat`
 - 插件名: ColoredChat
-- 版本: 0.0.2
-  - 元数据版本: 0.0.2
-  - 发布版本: 0.0.2
-- 总下载量: 1434
-- 作者: [zhang_anzhi](https://github.com/zhang-anzhi)
-- 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- 版本: None
+  - 元数据版本: 0.0.3
+  - 发布版本: None
+- 总下载量: 0
+- 作者: [Andy Zhang](https://github.com/AnzhiZhang)
+- 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 支持原版显示格式化代码
 
@@ -51,7 +52,8 @@
 
 ### 下载
 
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
+
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [ColoredChat-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.2) | 0.0.2 | 2021/08/23 10:20:29 | 1.54KB | 1434 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/colored_chat-v0.0.2/ColoredChat-v0.0.2.mcdr) |
 

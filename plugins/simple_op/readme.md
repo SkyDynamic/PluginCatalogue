@@ -8,12 +8,13 @@
 
 - Plugin ID: `simple_op`
 - Plugin Name: Simple OP
-- Version: 1.2.0
+- Version: None
   - Metadata version: 1.2.0
-  - Release version: 1.2.0
-- Total downloads: 2805
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/SimpleOP
+- Repository plugin page: https://github.com/MCDReforged/SimpleOP/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: !!op to get op, !!restart to restart the server
 
@@ -34,8 +35,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleOP-v1.2.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:44:28 | 1.93KB | 1489 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.2.0/SimpleOP-v1.2.0.mcdr) |
-| [SimpleOP-v1.1.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.1.0) | 1.1.0 | 2021/08/22 03:50:39 | 1.89KB | 1316 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.1.0/SimpleOP-v1.1.0.mcdr) |
 

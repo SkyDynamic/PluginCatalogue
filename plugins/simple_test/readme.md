@@ -8,12 +8,13 @@
 
 - Plugin ID: `simple_test`
 - Plugin Name: simple_test
-- Version: 3.0.0
+- Version: None
   - Metadata version: 3.0.0
-  - Release version: 3.0.0
-- Total downloads: 79
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/simple_test
+- Repository plugin page: https://github.com/R1ckyH/simple_test/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: testing basic server problem.
 
@@ -36,7 +37,8 @@ testing basic server problem.
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [simple_test-3.0.0.mcdr](https://github.com/R1ckyH/simple_test/releases/tag/v3.0.0) | 3.0.0 | 2021/10/25 09:03:07 | 6.45KB | 79 | [Download](https://github.com/R1ckyH/simple_test/releases/download/v3.0.0/simple_test-3.0.0.mcdr) |
 

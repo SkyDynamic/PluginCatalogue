@@ -8,14 +8,15 @@
 
 - Plugin ID: `where_is`
 - Plugin Name: Where Is
-- Version: 1.0.0
-  - Metadata version: 1.0.0
-  - Release version: 1.0.0
-- Total downloads: 165
+- Version: None
+  - Metadata version: 2.0.2+build.6
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
+- Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: Query other players' coordinates
+- Description: Query players' coordinates
 
 ### Dependencies
 
@@ -36,7 +37,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.0.0) | 1.0.0 | 2021/12/31 17:44:56 | 17.84KB | 165 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.0.0/WhereIs-v1.0.0.mcdr) |
 

@@ -8,12 +8,13 @@
 
 - Plugin ID: `carpet_tick`
 - Plugin Name: Carpet Tick
-- Version: 1.0.0
-  - Metadata version: 1.0.0
-  - Release version: 1.0.0
+- Version: None
+  - Metadata version: 1.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/CarpetTick
+- Repository plugin page: https://github.com/Ivan-1F/CarpetTick/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server status using carpet /tick command
 
@@ -34,7 +35,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetTick-v1.0.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0) | 1.0.0 | 2022/03/11 14:50:05 | 3.35KB | 0 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.0.0/CarpetTick-v1.0.0.mcdr) |
 

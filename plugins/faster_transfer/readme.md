@@ -8,12 +8,13 @@
 
 - Plugin ID: `faster_transfer`
 - Plugin Name: Faster Transfer
-- Version: 0.1
+- Version: None
   - Metadata version: 0.1.0
-  - Release version: 0.1
-- Total downloads: 82
+  - Release version: None
+- Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/FasterTransfer
+- Repository plugin page: https://github.com/alex3236/FasterTransfer/tree/master/src
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: :rocket: Make web? file transfers faster!
 
@@ -36,7 +37,8 @@ Make file transfers faster!
 :warning: **Read README in repository before use!**
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [FasterTransfer-v0.1.0.mcdr](https://github.com/alex3236/FasterTransfer/releases/tag/v0.1) | 0.1 | 2021/10/04 07:59:17 | 935B | 82 | [Download](https://github.com/alex3236/FasterTransfer/releases/download/v0.1/FasterTransfer-v0.1.0.mcdr) |
 

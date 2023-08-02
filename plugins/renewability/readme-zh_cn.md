@@ -8,12 +8,13 @@
 
 - 插件 ID: `renewability`
 - 插件名: Renewability
-- 版本: 1.1.0
+- 版本: None
   - 元数据版本: 1.1.0
-  - 发布版本: 1.1.0
-- 总下载量: 1081
+  - 发布版本: None
+- 总下载量: 0
 - 作者: [Fidel Yin](https://github.com/Fidelxyz)
 - 仓库: https://github.com/Fidelxyz/MCDR-Renewability
+- 仓库插件页: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: A plugin that allows players to clone non-renewable items
 
@@ -34,7 +35,8 @@
 允许玩家复制不可再生物品。
 ### 下载
 
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
+
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Renewability.mcdr](https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0) | 1.1.0 | 2021/09/08 03:43:00 | 6.04KB | 1081 | [下载](https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr) |
 

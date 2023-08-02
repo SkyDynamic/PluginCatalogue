@@ -8,12 +8,13 @@
 
 - 插件 ID: `diamond_calc`
 - 插件名: Diamond Calculator
-- 版本: 1.0.0
+- 版本: None
   - 元数据版本: 1.0.0
-  - 发布版本: N/A
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/DiamondCalc
+- 仓库插件页: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: *无*
 
@@ -32,6 +33,8 @@
 *无*
 
 ### 下载
+
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |

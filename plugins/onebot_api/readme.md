@@ -8,12 +8,13 @@
 
 - Plugin ID: `onebot_api`
 - Plugin Name: OneBot API
-- Version: 1.0.1
-  - Metadata version: 1.1.0
-  - Release version: 1.0.1
-- Total downloads: 1140
+- Version: None
+  - Metadata version: 1.1.1
+  - Release version: None
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/OneBotAPI
+- Repository plugin page: https://github.com/HuajiMUR233/OneBotAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: OneBot in MCDReforged
 
@@ -36,7 +37,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OneBotAPI-v1.0.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1) | 1.0.1 | 2021/09/06 13:06:15 | 14.8KB | 1140 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr) |
 

@@ -8,12 +8,13 @@
 
 - 插件 ID: `start_stop_helper_r`
 - 插件名: StartStopHelperR
-- 版本: 0.0.2
-  - 元数据版本: 0.0.2
-  - 发布版本: 0.0.2
-- 总下载量: 1526
-- 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
-- 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- 版本: None
+  - 元数据版本: 0.1.0
+  - 发布版本: None
+- 总下载量: 0
+- 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
+- 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/start_stop_helper_r
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 开关服助手
 
@@ -65,7 +66,8 @@
 
 ### 下载
 
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
+
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 1526 | [下载](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
 

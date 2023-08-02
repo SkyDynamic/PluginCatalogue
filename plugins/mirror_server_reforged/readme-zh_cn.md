@@ -8,12 +8,13 @@
 
 - 插件 ID: `mirror_server_reforged`
 - 插件名: MirrorServerReforged
-- 版本: 1.0.3
-  - 元数据版本: 1.0.3
-  - 发布版本: 1.0.3
-- 总下载量: 73
+- 版本: None
+  - 元数据版本: 1.0.7
+  - 发布版本: None
+- 总下载量: 0
 - 作者: [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/MirrorServerReforged
+- 仓库插件页: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件
 
@@ -21,7 +22,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
 
 ### 包依赖
 
@@ -40,15 +41,17 @@
 
 ## 初次运行
 
-本插件在初次运行的时候会进行一定的初始化，进行的操作如下
+本插件在初次运行的时候会进行一定的初始化，进行的操作如下（文件夹路径可以在配置文件中进行修改）
 - 在config文件夹内创建`MirrorServerReforged.json`配置文件并自动填入初始配置
 - 创建`Mirror`文件夹以用于存放镜像服文件
 - 在`Mirror`文件夹下创建`./server/world/`/`./world`（取决于你是否使用MCDR，默认为使用）
 
-但这些是仅仅不够的，你还需要做以下的操作：
+但这些是仅仅不够的，你还需要做以下的操作：（路径可以在配置文件中进行修改）
 - 将你的服务器核心以及各种服务器依赖放入`./Mirror/server`内
 - 修改你的`./Mirror/`的`config.yml`中的启动命令以及rcon相关信息
 - 修改你的`./Mirror/server/server.properties`的内容，特别是要注意端口以及rcon相关内容，避免与主服务器冲突
+
+当然，镜像服务器不一定要使用MCDR，你也可以直接配置一个正常的服务器
 
 ## 配置文件
 
@@ -65,7 +68,9 @@
     "host":"localhost",
     "port":25565,
     "password":"password"
-  }
+  },
+  "source": "./server",
+  "target': './Mirror/server"
 }
 ```
 
@@ -77,6 +82,8 @@
     - `host`是rcon功能的宿服务器地址，根据自身需求填写即可
     - `port`是rcon功能的宿服务器端口，根据自身需求填写即可
     - `password`是rcon功能的宿服务器的密码，根据自身需求填写即可
+- `source`是你的主服务器的存档位置
+- `target`是你镜像服的存档位置
 
 ## 命令列表
 
@@ -89,12 +96,11 @@
 !!msr init - 初始化镜像服务器（仅MCDR类服务器可用）
 !!msr status - 查看镜像服务器状态
 ```
+
 ### 下载
+
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerReforged-v1.0.3.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3) | 1.0.3 | 2022/02/11 13:32:32 | 8.22KB | 40 | [下载](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr) |
-| [MirrorServerReforged-v1.0.2.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2) | 1.0.2 | 2022/02/05 07:17:57 | 8.16KB | 9 | [下载](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.2/MirrorServerReforged-v1.0.2.mcdr) |
-| [MirrorServerReforged-v1.0.1.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.1) | 1.0.1 | 2022/01/25 01:25:31 | 8.13KB | 21 | [下载](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.1/MirrorServerReforged-v1.0.1.mcdr) |
-| [MirrorServerReforged-v1.0.0.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.0) | 1.0.0 | 2022/01/24 10:55:37 | 8.38KB | 3 | [下载](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.0/MirrorServerReforged-v1.0.0.mcdr) |
 

@@ -8,12 +8,13 @@
 
 - Plugin ID: `simple_calculator`
 - Plugin Name: Simple in-game calculator
-- Version: 1.2.0
+- Version: None
   - Metadata version: 1.2.0
-  - Release version: 1.2.0
-- Total downloads: 2879
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
+- Repository plugin page: https://github.com/TISUnion/Calculator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A Simple in-game calculator
 
@@ -35,8 +36,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 1554 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
-| [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 1325 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 

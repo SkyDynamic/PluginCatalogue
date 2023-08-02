@@ -8,12 +8,13 @@
 
 - Plugin ID: `join_motd`
 - Plugin Name: Join MOTD
-- Version: 1.2.0
-  - Metadata version: 1.2.0
-  - Release version: 1.2.0
-- Total downloads: 1655
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
+- Repository plugin page: https://github.com/TISUnion/joinMOTD/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Send player a MOTD when he joins
 
@@ -33,7 +34,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1655 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 

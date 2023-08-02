@@ -8,12 +8,13 @@
 
 - 插件 ID: `mount`
 - 插件名: Mount
-- 版本: 0.1.0-beta1
-  - 元数据版本: 0.1.0-beta2
-  - 发布版本: 0.1.0-beta1
-- 总下载量: 8
+- 版本: None
+  - 元数据版本: 0.3.0-beta1
+  - 发布版本: None
+- 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Mount
+- 仓库插件页: https://github.com/FAS-Server/Mount/tree/main
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!
 
@@ -47,7 +48,8 @@
 
 ### 下载
 
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
+
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Mount-v0.1.0-beta1.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1) | 0.1.0-beta1 | 2022/01/20 18:05:17 | 26.4KB | 8 | [下载](https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz) |
 

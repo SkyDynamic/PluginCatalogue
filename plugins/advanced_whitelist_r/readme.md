@@ -8,12 +8,13 @@
 
 - Plugin ID: `advanced_whitelist_r`
 - Plugin Name: AdvancedWhitelistR
-- Version: 1.0.2
-  - Metadata version: 1.0.2
-  - Release version: 1.0.2
-- Total downloads: 35
-- Authors: [noionion](https://github.com/2X-ercha)
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
+- Total downloads: 0
+- Authors: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/AdvancedWhitelistR
+- Repository plugin page: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: For outline-model Whitelist
 
@@ -34,8 +35,8 @@ Offline server whitelist management
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AdvancedWhitelistR-v1.0.2.mcdr](https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.2) | 1.0.2 | 2022/01/24 15:38:16 | 3.5KB | 34 | [Download](https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.2/AdvancedWhitelistR-v1.0.2.mcdr) |
-| [AdvancedWhitelistR-v1.0.1.mcdr](https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.1) | 1.0.1 | 2022/01/24 11:46:47 | 3.5KB | 1 | [Download](https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.1/AdvancedWhitelistR-v1.0.1.mcdr) |
 

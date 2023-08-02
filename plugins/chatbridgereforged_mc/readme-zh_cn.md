@@ -8,12 +8,13 @@
 
 - 插件 ID: `chatbridgereforged_mc`
 - 插件名: ChatBridgeReforged_MC
-- 版本: 0.1.1
-  - 元数据版本: 0.1.1-dev024
-  - 发布版本: 0.1.1
-- 总下载量: 10
+- 版本: None
+  - 元数据版本: 0.2.7-dev032
+  - 发布版本: None
+- 总下载量: 0
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/ChatBridgeReforged
+- 仓库插件页: https://github.com/R1ckyH/ChatBridgeReforged/tree/master/./ChatBridgeReforged_MC
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）
 
@@ -36,8 +37,8 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 ### 下载
 
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
+
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1) | 0.1.1 | 2022/03/04 06:12:36 | 46.96KB | 2 | [下载](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz) |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2) | 0.0.2 | 2022/01/15 16:33:44 | 44.9KB | 8 | [下载](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.pyz) |
 

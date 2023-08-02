@@ -8,12 +8,13 @@
 
 - Plugin ID: `start_stop_helper_r`
 - Plugin Name: StartStopHelperR
-- Version: 0.0.2
-  - Metadata version: 0.0.2
-  - Release version: 0.0.2
-- Total downloads: 1526
-- Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
-- Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- Version: None
+  - Metadata version: 0.1.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/start_stop_helper_r
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Start and stop server helper
 
@@ -65,7 +66,8 @@
 
 ### Download
 
+> :warning: Warning: Read the README file in plugin repository before using it.
+
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.0.2.mcdr](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 1526 | [Download](https://github.com/zhang-anzhi/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
 
