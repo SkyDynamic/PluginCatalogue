@@ -2,7 +2,7 @@
   "schema_version": 3,
   "id": "join_motd_next",
   "name": "join MOTD next",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": "https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext",
   "link": "https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext",
   "authors": [
