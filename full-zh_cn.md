@@ -1988,7 +1988,7 @@ Params:
 - 插件 ID: `join_motd_next`
 - 插件名: join MOTD next
 - 版本: None
-  - 元数据版本: 0.2.0
+  - 元数据版本: 0.2.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [JOZA_ORANGE](https://github.com/JOZA-ORANGE)

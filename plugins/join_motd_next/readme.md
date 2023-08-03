@@ -9,7 +9,7 @@
 - Plugin ID: `join_motd_next`
 - Plugin Name: join MOTD next
 - Version: None
-  - Metadata version: 0.2.0
+  - Metadata version: 0.2.1
   - Release version: None
 - Total downloads: 0
 - Authors: [JOZA_ORANGE](https://github.com/JOZA-ORANGE)
