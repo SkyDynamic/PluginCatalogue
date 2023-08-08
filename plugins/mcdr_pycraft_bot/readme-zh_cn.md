@@ -27,6 +27,9 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [cryptography](https://pypi.org/project/cryptography) | \>=1.5 |
+| [requests](https://pypi.org/project/requests) |  |
+| [PyNBT](https://pypi.org/project/PyNBT) |  |
 
 ### 介绍
 
