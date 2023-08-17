@@ -9,7 +9,7 @@
 - 插件 ID: `carpet_bot_manager`
 - 插件名: Carpet Bot Manager
 - 版本: None
-  - 元数据版本: 0.3.4
+  - 元数据版本: 0.3.5
   - 发布版本: None
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
