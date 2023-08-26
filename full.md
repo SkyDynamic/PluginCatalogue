@@ -2100,7 +2100,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Plugin ID: `kpi`
 - Plugin Name: KPI
 - Version: None
-  - Metadata version: 1.4.7
+  - Metadata version: 1.4.8
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
@@ -2114,7 +2114,7 @@ Today's horoscope based on `random.randint(0, 100)`
 | Plugin ID | Requirement |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [python](/plugins/python/readme.md) | ^3.10 |
+| [python](/plugins/python/readme.md) | ^3.11 |
 
 ### Requirements
 
