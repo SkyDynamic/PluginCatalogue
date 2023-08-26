@@ -2,7 +2,7 @@
   "schema_version": 3,
   "id": "kpi",
   "name": "KPI",
-  "version": "1.4.7",
+  "version": "1.4.8",
   "repository": "https://github.com/kmcsr/kpi_mcdr",
   "link": "https://github.com/kmcsr/kpi_mcdr",
   "authors": [
@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "mcdreforged": "^2.3.0",
-    "python": "^3.10"
+    "python": "^3.11"
   },
   "requirements": [],
   "description": {
