@@ -9,7 +9,7 @@
 - 插件 ID: `kpi`
 - 插件名: KPI
 - 版本: None
-  - 元数据版本: 1.4.5
+  - 元数据版本: 1.4.7
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -23,6 +23,7 @@
 | 插件 ID | 依赖需求 |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [python](/plugins/python/readme-zh_cn.md) | ^3.10 |
 
 ### 包依赖
 

@@ -9,7 +9,7 @@
 - Plugin ID: `kpi`
 - Plugin Name: KPI
 - Version: None
-  - Metadata version: 1.4.5
+  - Metadata version: 1.4.7
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
@@ -23,6 +23,7 @@
 | Plugin ID | Requirement |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [python](/plugins/python/readme.md) | ^3.10 |
 
 ### Requirements
 
