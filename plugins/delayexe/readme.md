@@ -9,7 +9,7 @@
 - Plugin ID: `delayexe`
 - Plugin Name: Delay Exe
 - Version: None
-  - Metadata version: 1.3.0
+  - Metadata version: 1.3.2
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
@@ -23,7 +23,7 @@
 | Plugin ID | Requirement |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [kpi](/plugins/kpi/readme.md) | \>=1.3.0 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.6 |
 
 ### Requirements
 

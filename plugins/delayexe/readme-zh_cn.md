@@ -9,7 +9,7 @@
 - 插件 ID: `delayexe`
 - 插件名: Delay Exe
 - 版本: None
-  - 元数据版本: 1.3.0
+  - 元数据版本: 1.3.2
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -23,7 +23,7 @@
 | 插件 ID | 依赖需求 |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.3.0 |
+| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.6 |
 
 ### 包依赖
 
