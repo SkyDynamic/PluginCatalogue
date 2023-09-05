@@ -11,7 +11,7 @@
     "tool"
   ],
   "introduction": {
-    "en_us": "Allow player suicide without op",
-    "zh_cn": "允许没有op权限的玩家自杀"
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*数据拉取失败*"
   }
 }

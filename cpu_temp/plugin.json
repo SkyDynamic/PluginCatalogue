@@ -11,7 +11,7 @@
     "information"
   ],
   "introduction": {
-    "en_us": "A plugin to check cpu temp regularly.\n",
-    "zh_cn": "服务器温度警报插件。\n"
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*数据拉取失败*"
   }
 }
