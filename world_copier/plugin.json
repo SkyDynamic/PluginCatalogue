@@ -11,7 +11,7 @@
     "management"
   ],
   "introduction": {
-    "en_us": "*Data fetching failed*",
-    "zh_cn": "*数据拉取失败*"
+    "en_us": "🔄 Sync mirror server with main server.",
+    "zh_cn": "🔄 将镜像服与生存服同步。"
   }
 }

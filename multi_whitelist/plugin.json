@@ -11,7 +11,7 @@
     "management"
   ],
   "introduction": {
-    "en_us": "*Data fetching failed*",
-    "zh_cn": "*数据拉取失败*"
+    "en_us": "A whitelist plugin with multiple server\n",
+    "zh_cn": "基于minecraft的白名单功能\n"
   }
 }

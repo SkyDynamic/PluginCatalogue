@@ -12,7 +12,7 @@
     "tool"
   ],
   "introduction": {
-    "en_us": "*Data fetching failed*",
-    "zh_cn": "*数据拉取失败*"
+    "en_us": "# A MCDR bot manager。\n\n:warning: **Read README in repository before use!**",
+    "zh_cn": "# 一个 MCDR bot管理器。\n\n:warning: **务必在使用前阅读仓库中的 README！**"
   }
 }

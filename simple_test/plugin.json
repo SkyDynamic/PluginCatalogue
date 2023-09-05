@@ -12,6 +12,6 @@
   ],
   "introduction": {
     "en_us": "testing basic server problem.\n",
-    "zh_cn": "*数据拉取失败*"
+    "zh_cn": "服务器基础自检插件。\n"
   }
 }

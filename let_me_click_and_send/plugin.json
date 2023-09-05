@@ -11,7 +11,7 @@
     "information"
   ],
   "introduction": {
-    "en_us": "*Data fetching failed*",
-    "zh_cn": "*数据拉取失败*"
+    "en_us": "# Let Me Click and Send\n\n允许在 1.19 点击发送任意信息\n\nAllowed click to send anything in 1.19\n\nSee also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)\n",
+    "zh_cn": "# Let Me Click and Send\n\n允许在 1.19 点击发送任意信息\n\nAllowed click to send anything in 1.19\n\nSee also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)\n"
   }
 }

@@ -11,7 +11,7 @@
     "tool"
   ],
   "introduction": {
-    "en_us": "*Data fetching failed*",
-    "zh_cn": "*数据拉取失败*"
+    "en_us": "A plugin for run command quickly\n",
+    "zh_cn": "一个快速运行自定义脚本的插件\n"
   }
 }

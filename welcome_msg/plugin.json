@@ -11,7 +11,7 @@
     "information"
   ],
   "introduction": {
-    "en_us": "*Data fetching failed*",
-    "zh_cn": "*数据拉取失败*"
+    "en_us": "Send welcome message",
+    "zh_cn": "发送欢迎消息"
   }
 }
