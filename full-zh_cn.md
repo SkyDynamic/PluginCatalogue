@@ -34,22 +34,7 @@
 
 ### 介绍
 
-# AdvancedCalculator
-
-> 提供游戏内多种便捷计算
-
-## 使用
-
-您可以使用 `=<expression>` 直接计算表达式，或使用 `==<count/expression>` 将物品数转换堆叠数。
-
-| 指令 | 用途 | 示例 | 结果 |
-| - | - | - | - |
-| !!calc \<expression> | 计算表达式 | !!calc 1+1 | 1+1=2 |
-| !!calc item \<count/expression> | 物品数转换堆叠数 | !!calc item 1794 | 1794个物品为1盒2组3个 |
-| !!calc item \<box> \<stack> \<single> | 堆叠数转换物品数 | !!calc item 1 10 32 | 1盒10组32个为2400个物品 |
-| !!calc color \<red> \<green> \<blue> | 10进制RGB转16进制 | !!calc color 255 0 255 | (255, 0, 255) -> #FF00FF |
-| !!calc color \<#HEX> | 16十进制RGB转10进制 | !!calc color #00FF00 | #00FF00 -> (0, 255, 0) |
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -62,27 +47,21 @@
 ### 基本信息
 
 - 插件 ID: `advanced_whitelist_r`
-- 插件名: AdvancedWhitelistR
-- 版本: None
-  - 元数据版本: 1.0.3
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/AdvancedWhitelistR
 - 仓库插件页: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: For outline-model Whitelist
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -124,7 +103,7 @@
 
 ### 介绍
 
-允许没有op权限的玩家自杀
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -176,27 +155,21 @@
 ### 基本信息
 
 - 插件 ID: `auto_plugin_reloader`
-- 插件名: Auto Plugin Reloader
-- 版本: None
-  - 元数据版本: 1.1.3
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/AutoPluginReloader
 - 仓库插件页: https://github.com/TISUnion/AutoPluginReloader/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 在文件变更时自动重载插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -254,26 +227,21 @@
 ### 基本信息
 
 - 插件 ID: `bingo`
-- 插件名: Bingo
-- 版本: None
-  - 元数据版本: 0.0.3
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: Bingo 游戏实用工具
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -300,187 +268,25 @@
 ### 基本信息
 
 - 插件 ID: `bot`
-- 插件名: Bot
-- 版本: None
-  - 元数据版本: 1.0.6
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 最好用的地毯模组假人管理器！
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.6.0 |
-| [dict_command_registration](/plugins/dict_command_registration/readme-zh_cn.md) | ^1.0.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | ^1.4 |
-| [more_command_nodes](/plugins/more_command_nodes/readme-zh_cn.md) | ^1.1.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
-# Bot
-
-> 最好用的地毯模组假人管理器！
-
-## 依赖
-
-- [MinecraftDataAPI](https://github.com/MCDReforged/MinecraftDataAPI)
-- [MoreCommandNodes](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes)
-
-## 使用方法
-
-`!!bot` 查看帮助
-
-`!!bot list [index] [filter]` 显示假人列表
-
-`!!bot spawn <name>` 上线假人
-
-`!!bot kill <name>` 下线假人
-
-`!!bot action <name> [index]` 执行假人动作
-
-`!!bot info <name>` 查看假人信息
-
-`!!bot save <name> [position] [facing] [dimension]` 保存假人
-
-`!!bot del <name>` 删除保存的假人
-
-`!!bot config <name> <option> <value>` 配置假人
-
-```mermaid
-sequenceDiagram
-    participant Player/Console
-    participant Online Bots
-    participant Saved Bots
-
-    Player/Console-->>Online Bots: !!bot spawn (player)
-    Saved Bots-->>Online Bots: !!bot spawn
-    Online Bots-->>Online Bots: !!bot kill
-    Online Bots-->>Saved Bots: !!bot save
-    Player/Console-->>Saved Bots: !!bot save [location]
-    Saved Bots-->>Saved Bots: !!bot del
-```
-
-### list
-
-**index**：列表的页码
-
-**filter**：可用选项为：`--all`、`--online` 或 `--saved`，过滤假人
-
-### spawn
-
-上线假人
-
-```mermaid
-flowchart TD
-    start([list])
-    is_saved{Saved?}
-    is_player{Running by Player?}
-
-    start --> is_saved
-    is_saved -->|Yes| spawn1(Spawn at Saved Location)
-    is_saved -->|No| is_player
-    is_player -->|Yes| spawn2(Spawn at player's Location)
-    is_player -->|No| error1([Not Saved Error])
-```
-
-### kill
-
-下线假人
-
-### action
-
-执行假人动作
-
-当指定 `index` 时，执行特定动作而不是全部动作
-
-### info
-
-查看假人信息
-
-### save
-
-保存假人
-
-```mermaid
-flowchart TD
-    start([save])
-    with_location{Has Location?}
-    online{Online or Saved?}
-    is_player{Running by Player?}
-
-    start --> with_location
-    with_location -->|Yes| save3(Save at Input Location)
-    with_location -->|No| online
-
-    online -->|Yes| save1(Save at Bot's Location)
-    online -->|No| is_player
-    is_player -->|Yes| save2(Save at player's location)
-    is_player -->|No| error1([Bot Not Exists])
-```
-
-### del
-
-删除保存的假人
-
-### config
-
-配置假人
-
-```mermaid
-flowchart LR
-    start([config])
-    start --> bot_name(name)
-
-    bot_name --> name(name)
-    bot_name --> position(position)
-    bot_name --> facing(facing)
-    bot_name --> dimension(dimension)
-    bot_name --> comment(comment)
-    bot_name --> actions(actions)
-    bot_name --> autoLogin(autoLogin)
-    bot_name --> autoRunActions(autoRunActions)
-
-    actions --> append("append &lt;action&gt;")
-    actions --> insert("insert &lt;index&gt; &lt;action&gt;")
-    actions --> delete("delete &lt;index&gt")
-    actions --> edit("edit &lt;index&gt; &lt;action&gt;")
-    actions --> clear(clear)
-```
-
-## 配置
-
-### gamemode
-
-默认值: `survival`
-
-生成假人的游戏模式
-
-### name_prefix
-
-默认值：无
-
-假人名称前缀
-
-### name_suffix
-
-默认值：无
-
-假人名称前缀
-
-### permissions
-
-使用对应指令的最低权限
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -493,34 +299,25 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `bot_plugin`
-- 插件名: Bot Plugin
-- 版本: None
-  - 元数据版本: 1.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [DancingSnow0517](https://github.com/DancingSnow0517)
 - 仓库: https://github.com/DancingSnow0517/Bot_Manager
 - 仓库插件页: https://github.com/DancingSnow0517/Bot_Manager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 管理 carpet 机器人
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.3.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
-# 一个 MCDR bot管理器。
-
-:warning: **务必在使用前阅读仓库中的 README！**
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -533,29 +330,21 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `carpet_bot_manager`
-- 插件名: Carpet Bot Manager
-- 版本: None
-  - 元数据版本: 0.3.5
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
 - 仓库插件页: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -573,27 +362,21 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `carpet_tick`
-- 插件名: Carpet Tick
-- 版本: None
-  - 元数据版本: 1.1.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/CarpetTick
 - 仓库插件页: https://github.com/Ivan-1F/CarpetTick/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 使用 Carpet Mod 的 /tick 指令获取服务器信息
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -611,28 +394,21 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `carpetbotlist`
-- 插件名: CarpetBotList
-- 版本: None
-  - 元数据版本: 2.1.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
 - 仓库插件页: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 帮助你管理地毯端假人
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -650,27 +426,21 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `cato`
-- 插件名: Cato Plugin
-- 版本: None
-  - 元数据版本: 1.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - 仓库: https://github.com/Harry-zklcdc/MCDR-Cato
 - 仓库插件页: https://github.com/Harry-zklcdc/MCDR-Cato/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: Plugin Cato
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -698,30 +468,21 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `chatbridge`
-- 插件名: ChatBridge v2 for MCDR
-- 版本: None
-  - 元数据版本: 2.5.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/ChatBridge
 - 仓库插件页: https://github.com/TISUnion/ChatBridge/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 跨服聊天
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.2.0 |
-| [pycryptodome](https://pypi.org/project/pycryptodome) |  |
-| [colorlog](https://pypi.org/project/colorlog) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -739,29 +500,21 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `chatbridgereforged_mc`
-- 插件名: ChatBridgeReforged_MC
-- 版本: None
-  - 元数据版本: 0.2.7-dev032
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/ChatBridgeReforged
 - 仓库插件页: https://github.com/R1ckyH/ChatBridgeReforged/tree/master/./ChatBridgeReforged_MC
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
-| [pycryptodomex](https://pypi.org/project/pycryptodomex) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -779,49 +532,25 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `colored_chat`
-- 插件名: ColoredChat
-- 版本: None
-  - 元数据版本: 0.0.3
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 支持原版显示格式化代码
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
-# ColoredChat
-
-> 支持原版显示 [格式化代码](https://minecraft.fandom.com/zh/wiki/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)
-
-## 使用
-
-与正常聊天没有区别, 需要格式化时使用 `&` 符号
-
-## 配置
-
-`force_refresh`
-
-是否刷新聊天栏的所有内容, 某些无法被记录的信息可能会被覆盖
-
-默认值: `True`
-
-## API
-
-可以使用 `append_msg(msg)` 方法来插件的广播消息
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -834,27 +563,21 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `command_exporter`
-- 插件名: MCDR Command Exporter
-- 版本: None
-  - 元数据版本: 1.2.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [DancingSnow](https://github.com/DancingSnow0517)
 - 仓库: https://github.com/DancingSnow0517/MCDR-Command-Exporter
 - 仓库插件页: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: A plugin is used to export the MCDR command tree
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.7.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -889,35 +612,25 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `cpu_temp`
-- 插件名: cpu_temp
-- 版本: None
-  - 元数据版本: 3.0.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/cpu_temp
 - 仓库插件页: https://github.com/R1ckyH/cpu_temp/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 服务器温度警报插件。
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [psutil](https://pypi.org/project/psutil) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
-| [APScheduler](https://pypi.org/project/APScheduler) |  |
+*数据拉取失败*
 
 ### 介绍
 
-服务器温度警报插件。
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -967,65 +680,25 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `database_api`
-- 插件名: DatabaseAPI
-- 版本: None
-  - 元数据版本: 0.1.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 访问数据库 API
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
+*数据拉取失败*
 
 ### 介绍
 
-# DatabaseAPI
-
-> 数据库API
->
-> 提供了数据库操作的便捷API
-
-## 环境要求
-
-### Python包
-
-- sqlalchemy
-
-## 开发文档
-
-查看 [Valut](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/vault/vault.py) 参考使用方法
-
-提供了以下两个类:
-
-- TableBase
-- DataManager
-
-### TableBase
-
-一个数据库表的基类, 写一个你的数据库表并继承这个类来创建一张表
-
-### DataManager
-
-使用本API需要自行实例化这个类
-
-实例化: `__init__(self, file_path: str)`
-
-#### get_session
-
-获取一个数据库会话的上下文管理器, 更多信息请自行查找资料
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -1038,36 +711,25 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `daycount_nbt`
-- 插件名: DayCount NBT
-- 版本: None
-  - 元数据版本: 2.2.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/alex3236/daycount-NBT
 - 仓库插件页: https://github.com/alex3236/daycount-NBT/tree/main/src
 - 标签: [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: :calendar: 获取和输出服务器开服时间。
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
-获取和输出服务器开服时间。
-
-特色功能：
-- NBT 模式
-
-:warning: **务必在使用前阅读仓库中的 README！**
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -1080,27 +742,21 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `daytime`
-- 插件名: Daytime
-- 版本: None
-  - 元数据版本: 1.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - 仓库插件页: https://github.com/BelowZeroKelvin/MCDR-Daytime/tree/MCDR-2.x
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 显示游戏中的时间
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -1157,26 +813,21 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `diamond_calc`
-- 插件名: Diamond Calculator
-- 版本: None
-  - 元数据版本: 1.0.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/DiamondCalc
 - 仓库插件页: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *无*
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -1481,29 +1132,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `easy_bot_manager`
-- 插件名: Easy Bot Manager
-- 版本: None
-  - 元数据版本: 0.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [LiuTed](https://github.com/LiuTed)
 - 仓库: https://github.com/LiuTed/EasyBotManager
 - 仓库插件页: https://github.com/LiuTed/EasyBotManager/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: Easy-to-use Carpet Bot Manager Plugin
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged ](https://pypi.org/project/mcdreforged ) | \>= 2.0.0 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -1541,7 +1184,6 @@ Params:
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) | ~=0.17 |
 
 ### 介绍
 
@@ -1558,34 +1200,25 @@ Params:
 ### 基本信息
 
 - 插件 ID: `faster_transfer`
-- 插件名: Faster Transfer
-- 版本: None
-  - 元数据版本: 0.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/alex3236/FasterTransfer
 - 仓库插件页: https://github.com/alex3236/FasterTransfer/tree/master/src
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: :rocket: 让任何 MCDR 插件的网络文件传输更迅速！
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [speedcopy](https://pypi.org/project/speedcopy) |  |
+*数据拉取失败*
 
 ### 介绍
 
-让 **任何 MCDR 插件**，比如 QuickBackupM 的网络文件传输更迅速！
-
-:warning: **务必在使用前阅读仓库中的 README！**
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -1598,26 +1231,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `fbs_plugin`
-- 插件名: FastBotSpawn
-- 版本: None
-  - 元数据版本: 1.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [WalkerTian](https://github.com/Walkersifolia)
 - 仓库: https://github.com/Walkersifolia/FastBotSpawn
 - 仓库插件页: https://github.com/Walkersifolia/FastBotSpawn/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: A plugin with multiple functions
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -1635,27 +1263,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `gamemode`
-- 插件名: Gamemode
-- 版本: None
-  - 元数据版本: 1.0.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 旁观者模式以旁观，返回生存时传送回原坐标
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -1717,26 +1339,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `here`
-- 插件名: Here
-- 版本: None
-  - 元数据版本: 1.2.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Here
 - 仓库插件页: https://github.com/TISUnion/Here/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 显示坐标并高亮玩家
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -1776,7 +1393,6 @@ Params:
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
 
 ### 介绍
 
@@ -1794,27 +1410,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `hooks`
-- 插件名: hooks
-- 版本: None
-  - 元数据版本: 2.1.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [OptiJava](https://github.com/OptiJava)
 - 仓库: https://github.com/OptiJava/hooks
 - 仓库插件页: https://github.com/OptiJava/hooks/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 让MCDR按照指定的规则自动触发脚本，全自动执行任务
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.9.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -1859,38 +1469,7 @@ Params:
 
 ### 介绍
 
-# Info
-
-获取服务器信息
-
-## 支持功能
-
-- 系统版本
-- Python版本
-- CPU利用率
-- 内存使用量
-- 存档大小
-
-需要显示更多内容发 Issue
-
-## 使用
-
-使用 `!!info` 获取
-
-## 配置
-
-### world_names
-
-参与存档大小计算的文件夹名
-
-默认值:
-
-```json
-[
-    "world"
-]
-```
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -1949,26 +1528,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `join_motd`
-- 插件名: Join MOTD
-- 版本: None
-  - 元数据版本: 1.3.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/joinMOTD
 - 仓库插件页: https://github.com/TISUnion/joinMOTD/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 当玩家加入游戏时向其发送欢迎信息
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -1986,27 +1560,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `join_motd_next`
-- 插件名: join MOTD next
-- 版本: None
-  - 元数据版本: 0.2.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [JOZA_ORANGE](https://github.com/JOZA-ORANGE)
 - 仓库: https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext
 - 仓库插件页: https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 在玩家加入游戏时向其发送更加多样的信息
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [daycount_nbt](/plugins/daycount_nbt/readme-zh_cn.md) | \>=2.2.1 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2046,7 +1614,6 @@ Params:
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.4 |
 
 ### 介绍
 
@@ -2064,28 +1631,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `jrrps`
-- 插件名: Jrrps Plg
-- 版本: None
-  - 元数据版本: 2.3.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [SkyDynamic](https://github.com/SkyDynamic)
 - 仓库: https://github.com/SkyDynamic/jrrps
 - 仓库插件页: https://github.com/SkyDynamic/jrrps/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 测试今天的运势
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [apscheduler](/plugins/apscheduler/readme-zh_cn.md) | \>=3.9.1 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2142,27 +1702,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `leader_reforged`
-- 插件名: Leader Reforged
-- 版本: None
-  - 元数据版本: 1.1.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [XavierWah](https://github.com/XavierWah)
 - 仓库: https://github.com/Minecraft-AMS/Leader-Reforged
 - 仓库插件页: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2180,27 +1734,21 @@ Params:
 ### 基本信息
 
 - 插件 ID: `ledger_cleaner`
-- 插件名: Ledger Cleaner
-- 版本: None
-  - 元数据版本: 0.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [UnknownBits](https://github.com/UnknownBits), [tanh_Heng](https://github.com/tanhHeng)
 - 仓库: https://github.com/UnknownBits/LedgerCleaner
 - 仓库插件页: https://github.com/UnknownBits/LedgerCleaner/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 清理与释放ledger数据库
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2241,14 +1789,7 @@ Params:
 
 ### 介绍
 
-# Let Me Click and Send
-
-允许在 1.19 点击发送任意信息
-
-Allowed click to send anything in 1.19
-
-See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -2261,29 +1802,21 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 ### 基本信息
 
 - 插件 ID: `lite_file_manager`
-- 插件名: Lite File Manager
-- 版本: None
-  - 元数据版本: 1.3.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/LiteFileManager
 - 仓库插件页: https://github.com/MCDReforged/LiteFileManager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 一个轻量级的游戏内文件管理器
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b7 |
-| [requests](https://pypi.org/project/requests) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2340,28 +1873,21 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 ### 基本信息
 
 - 插件 ID: `loginproxy`
-- 插件名: LoginProxy
-- 版本: None
-  - 元数据版本: 0.6.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
 - 仓库插件页: https://github.com/kmcsr/login_proxy_mcdr/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 一个Minecraft服务器登录代理兼白名单插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.6 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2420,27 +1946,21 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 ### 基本信息
 
 - 插件 ID: `mc_uuid`
-- 插件名: Minecraft UUID API
-- 版本: None
-  - 元数据版本: 1.0.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/MCUUID
 - 仓库插件页: https://github.com/HuajiMUR233/MCUUID/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: Minecraft UUID API
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [requests](https://pypi.org/project/requests) | \>=2.25.1 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2479,8 +1999,6 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b12 |
-| [parse](https://pypi.org/project/parse) |  |
 
 ### 介绍
 
@@ -2498,29 +2016,21 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 ### 基本信息
 
 - 插件 ID: `mcd_task`
-- 插件名: Task
-- 版本: None
-  - 元数据版本: 2.3.6+build.68
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
 - 仓库插件页: https://github.com/TISUnion/Task/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 用于展示进行中的工程任务的插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
-| [parse](https://pypi.org/project/parse) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2558,9 +2068,6 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [cryptography](https://pypi.org/project/cryptography) | \>=1.5 |
-| [requests](https://pypi.org/project/requests) |  |
-| [PyNBT](https://pypi.org/project/PyNBT) |  |
 
 ### 介绍
 
@@ -2579,29 +2086,21 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 ### 基本信息
 
 - 插件 ID: `mcdreforged_plugin_manager`
-- 插件名: MCDReforged Plugin Manager
-- 版本: None
-  - 元数据版本: 2.0.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MCDReforgedPluginManager
 - 仓库插件页: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 轻松管理你的 MCDReforged 插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0 |
-| [requests](https://pypi.org/project/requests) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2641,7 +2140,6 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
 
 ### 介绍
 
@@ -2659,27 +2157,21 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 ### 基本信息
 
 - 插件 ID: `minecraft_command_register`
-- 插件名: Minecraft Command Register
-- 版本: None
-  - 元数据版本: 1.5.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 在 Minecraft 中注册 MCDReforged 指令
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.10.1 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2738,30 +2230,21 @@ Comming soom...
 ### 基本信息
 
 - 插件 ID: `minecraft_data_api`
-- 插件名: Minecraft Data API
-- 版本: None
-  - 元数据版本: 1.5.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MinecraftDataAPI
 - 仓库插件页: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 一个用获得玩家信息等数据的的 API
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
-| [hjson](https://pypi.org/project/hjson) |  |
-| [parse](https://pypi.org/project/parse) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2779,28 +2262,21 @@ Comming soom...
 ### 基本信息
 
 - 插件 ID: `minecraft_version_api`
-- 插件名: Minecraft Version API
-- 版本: None
-  - 元数据版本: 1.1.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MinecraftVersionAPI
 - 仓库插件页: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 一个用于获取 Minecraft 服务端版本的 API 插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [parse](https://pypi.org/project/parse) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2818,27 +2294,21 @@ Comming soom...
 ### 基本信息
 
 - 插件 ID: `mirror_control`
-- 插件名: Mirror Control
-- 版本: None
-  - 元数据版本: 1.0.3
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Chara_SS](https://github.com/charassss/)
 - 仓库: https://github.com/charassss/Mirror-Control
 - 仓库插件页: https://github.com/charassss/Mirror-Control/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 一个控制镜像服务器的插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.6.0 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -2899,27 +2369,21 @@ config.json
 ### 基本信息
 
 - 插件 ID: `mirror_server_reforged`
-- 插件名: MirrorServerReforged
-- 版本: None
-  - 元数据版本: 1.0.7
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/MirrorServerReforged
 - 仓库插件页: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3024,75 +2488,7 @@ config.json
 
 ### 介绍
 
-# Mirror Server Sync
-
-A Simple MCDR Plugin To Sync Map Files Of Minecraft On Different Servers
-
-## 一、使用前配置
-
-本插件适用于Windows系统与Linux系统
-
-在使用本插件前，你需要在你的服务器上安装Rsync
-
-Linux安装方法：`yum -y install rsync`
-
-Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.itefix.net/cwrsync)下载文件后安装Exe文件，或者安装chololately后通过`choco install rsync`进行安装（需要管理员权限）
-
-一般服务器上默认会安装Rsync，为了保险，手动安装一遍。
-
-请确保您的服务器放行了所有端口以确保Rsync能正常工作
-
-打开终端，执行`ssh-keygen`。无需输入密码，无脑确认即可。再执行`ssh-copy-id Main Server IP`
-
-例如，假如我主服务器的IP为127.0.0.1，命令就为：`ssh-copy-id 127.0.0.1`
-
-之后确认Fingerprint，输入yes后输入对方服务器的密码，一路Enter。
-
-第一次启动时会自动创建mirror_server_sync.json，内容如下
-
-```json
-{
-    "main_server_ip": "127.0.0.1",
-    "world_name": "world",
-    "main_server_dir": "/root/fabric_server/server",
-    "mirror_server_dir": "/root/my_mcdr_server/server",
-    "qb_folder_dir_main": "/root/fabric_server/qb_multi",
-    "qb_folder_dir_mirror": "/root/my_mcdr_server/qb_multi",
-    "number_of_qb_slots": 5,
-    "qb_auto_make" : "True"
-}
-```
-
-`main_server_ip`修改为主服务器IP
-
-`mirror_server_ip`修改为镜像服IP
-
-`main_server_dir`修改为主服务器MCDR文件夹内server文件夹的绝对路径
-
-`mirror_server_dir`修改为镜像服MCDR文件夹内server文件夹的绝对路径
-
-`qb_folder_dir_main`修改为主服务器MCDR文件夹内qb_multi文件夹的绝对路径
-
-`qb_folder_dir_mirror`修改为镜像服MCDR文件夹内qb_multi文件夹的绝对路径
-
-`qb_auto_back`是是否在使用`!!msync recover`指令的时候自动确认回档信息
-
-`number_of_qb_slots`是qb备份槽数，建议主服务器镜像服保持一致
-
-修改完后就可以启动MCDR
-
-## 二、指令说明
-
-!!msync 显示用法
-
-!!msync peek 查看主服务器qb最新存档信息
-
-!!msync sync 备份当前镜像服存档，并同步主服务器qb最新存档
-
-!!msync recover 回档至同步前存档
-
-!!msync help 显示用法
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -3167,46 +2563,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 
 ### 介绍
 
-# MoreCommandNodes
-
-> 更多指令节点
-
-如果您想要添加更多自定义节点，欢迎提交 PR！
-
-## 节点列表
-
-```mermaid
-classDiagram
-    class FloatsArgument
-    class Position
-    class Facing
-    class EnumeratedText
-
-    FloatsArgument : +__init__(String name, int number)
-    FloatsArgument <|-- Position
-    Position : +__init__(String name)
-    FloatsArgument <|-- Facing
-    Facing : +__init__(String name)
-
-    EnumeratedText : +__init__(String name, Type[Enum] enum_class)
-```
-
-### FloatsArgument
-
-连续的多个浮点数节点。
-
-### Position
-
-坐标节点，连续的三个浮点数。
-
-### Facing
-
-朝向节点，连续的两个浮点数。
-
-### EnumeratedText
-
-与 MCDR 的 Enumeration 类似，但是使用 Enum 的值而不是名称作为节点文本。
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -3219,30 +2576,21 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `mount`
-- 插件名: Mount
-- 版本: None
-  - 元数据版本: 0.3.0-beta1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Mount
 - 仓库插件页: https://github.com/FAS-Server/Mount/tree/main
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [pyyaml](https://pypi.org/project/pyyaml) |  |
-| [jproperties](https://pypi.org/project/jproperties) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3270,28 +2618,21 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `multi_rcon_api`
-- 插件名: MultiRconAPI
-- 版本: None
-  - 元数据版本: 2.0.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/MultiRconAPI
 - 仓库插件页: https://github.com/FAS-Server/MultiRconAPI/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 一个使用rcon来做到对群组服进行简单操作的api
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.2 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.2 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3330,12 +2671,10 @@ classDiagram
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 
-基于minecraft的白名单功能
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -3490,30 +2829,21 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `online`
-- 插件名: Online
-- 版本: None
-  - 元数据版本: 1.4.1-alpha1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Online
 - 仓库插件页: https://github.com/FAS-Server/Online/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
-| [multi_rcon_api](/plugins/multi_rcon_api/readme-zh_cn.md) | \>=1.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
-| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3531,26 +2861,21 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `online_player_api`
-- 插件名: OnlinePlayerAPI
-- 版本: None
-  - 元数据版本: 1.0.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 在线玩家 API
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3582,32 +2907,21 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `pcrc`
-- 插件名: PCRC
-- 版本: None
-  - 元数据版本: 1.4.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/Fallen-Breath/PCRC
 - 仓库插件页: https://github.com/Fallen-Breath/PCRC/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 基于PyCraft的Replay客户端
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [cryptography](https://pypi.org/project/cryptography) |  |
-| [requests](https://pypi.org/project/requests) |  |
-| [pynbt](https://pypi.org/project/pynbt) |  |
-| [redbaron](https://pypi.org/project/redbaron) |  |
-| [colorlog](https://pypi.org/project/colorlog) |  |
-| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3663,27 +2977,21 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `player_last_play`
-- 插件名: PlayerLastPlay
-- 版本: None
-  - 元数据版本: 1.0.3
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Aimerny](https://github.com/Aimerny)
 - 仓库: https://github.com/Aimerny/playerLastPlay
 - 仓库插件页: https://github.com/Aimerny/playerLastPlay/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 记录与查询玩家最近游玩时间,方便检查服务器玩家活跃度
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [online_player_api](/plugins/online_player_api/readme-zh_cn.md) | ^1.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3701,33 +3009,21 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `player_manager`
-- 插件名: Player Manager
-- 版本: None
-  - 元数据版本: 1.2.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [hail122](https://github.com/linstar-fxt)
 - 仓库: https://github.com/PRcT-Server/MCDRPlugins
 - 仓库插件页: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 帮助你管理假人
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
-| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
-| [parse](https://pypi.org/project/parse) |  |
-| [hjson](https://pypi.org/project/hjson) |  |
-| [nbt](https://pypi.org/project/nbt) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3744,28 +3040,21 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `qq_api`
-- 插件名: QQAPI
-- 版本: None
-  - 元数据版本: 1.3.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 连接 MC 与 QQ
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
-| [uvicorn](https://pypi.org/project/uvicorn) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -3925,121 +3214,10 @@ example:
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
 
 ### 介绍
 
-<!-- markdownlint-disable-file MD033 -->
-# QQChat
-
-> 用于连接 `Minecraft` 和 `QQ` 的插件
-
-## 功能说明
-
-### 名词定义
-
-| 名词 | 含义 | 备注 |
-| - | - | - |
-| **群成员** | QQ群聊中的玩家 | |
-| **玩家** | MC服务器中的玩家 | |
-| **管理** | 管理员（请勿与 MC 或 MCDR 权限混淆） | `admins` |
-| **主群** | 服务器的主要交流群 | `main_group` 一般指服务器最大的群，包括所有人，最多一个，如配置多个群将取第一个 |
-| **管理群** | 服务器管理群 | `manage_groups` 此群成员无论是否配置为管理，在此群中都具有管理的权限 |
-| **同步群** | 服务器聊天同步群 | `message_sync_groups` 同步所有玩家的发言，在此群中发送非命令的消息也会同步到服务器 |
-
-### 场景说明
-
-1. 管理可以在任何场景下（包括群聊和私聊）都具有所有指令的权限。
-
-2. 管理群中，所有人均获得管理权限，即使有的人没有在 `admins` 中。
-
-3. MCDR指令的执行没有返回信息，不太适用于需要交互的场景（除非你知道MCDR会输出什么），请自行判断与使用，以下给出一些使用场景：
-
-   - 场景1：无管理在线的时候紧急回档
-   - 场景2：离线服务器为新玩家添加白名单（采用MCDR离线白名单插件时）
-
-   > 注意：由于MCDR指令默认是通过控制台执行，**已配置的 admin 及服务器管理群中的所有成员将在 MCDR 层面拥有和 owner 等同的权限**
-
-## 配置说明
-
-| 配置项 | 含义 | 默认值 | 注意事项 |
-| - | - | - | - |
-| `main_group` | 主群 | `[123456]` | 最多填一个，多填取首个 |
-| `manage_groups` | 管理群 | `[1234563, 1234564]` | 非必填 |
-| `message_sync_groups` | 同步群 | `[1234567, 1234568]` | 非必填 |
-| `server_name` | 服务器名 | `'survival'` | 发送到qq时会加上server_name的前缀 |
-| `admins` | 管理列表 | `[1234565, 1234566]` | 理论上非必填（ |
-| `sync_group_only_admin:` | 同步群是否只包含管理 | `true` | 如果关闭，成员权限同主群<br />如果打开。成员权限同管理群 |
-| `whitelist_add_with_bound` | 群成员绑定游戏 id 时自动添加白名单 | `false` | 离线服使用大概率有问题 |
-| `whitelist_remove_with_leave` | 玩家退群自动移除白名单 | `true` | 须防止冒名绑定游戏 id |
-| `command` | 开启 `/command` 指令 | `true` | |
-| `list` | 开启 `/list` 指令 | `true` | |
-| `mc` | 开启 `/mc` 指令 | `true` | |
-| `qq` | 开启 `/qq` 指令 | `true` | |
-| `mcdr` | 开启 `/mcdr` 指令 | `false` | 仅建议紧急运维时使用，**没有返回信息** |
-| `command_prefix` | 触发机器人指令的前缀 | `['/']` | 配置单字符如 `'/'` 或 `'#'` 时，指令格式为 `/list` 等<br />配置多字符如 `'mc'` 或 `'bot'` 时，指令格式为 `mc list`，需在前缀与指令之间添加空格 |
-| `player_list_regex` | 使用 `/list` 指令时将玩家分组的正则表达式 | 略 | 请避免冲突，`其它` 为保留名 |
-
-## 命令帮助
-
-**注：以前缀为 `'/'` 为例，实际指令请参考配置文件**
-
-> 普通玩家命令帮助如下
-
-`/server` 查看当前连接到群组服中哪个子服
-
-`/server <server_name>` 连接到群组服中的对应子服
-
-`/list` 获取在线玩家列表
-
-`/bound <ID>` 绑定你的游戏ID
-
-`/mc <msg>` 向游戏内发送消息
-
-`!!qq <msg>` 游戏内向主群发送消息
-
-> 管理员命令帮助如下
-
-`/bound` 查看绑定相关帮助
-
-`/whitelist` 查看白名单相关帮助
-
-`/command <command>` 执行任意指令
-
-`/mc <msg>` 向游戏内发送消息
-
-`/mcdr <mcdr command>` 执行mcdr指令（可不添加 `!!` 前缀，无回显，谨慎使用）
-
-> bound 指令帮助
-
-`/bound list` 查看绑定列表
-
-`/bound check <qq number>` 查询绑定 ID
-
-`/bound unbound <qq number>` 解除绑定
-
-`/bound <qq number> <ID>` 绑定新 ID
-
-> whitelist 指令帮助
-
-`/whitelist add <target>` 添加白名单成员
-
-`/whitelist list` 列出白名单成员
-
-`/whitelist off` 关闭白名单
-
-`/whitelist on` 开启白名单
-
-`/whitelist reload` 重载白名单
-
-`/whitelist remove <target>` 删除白名单成员
-
-注: `<target>` 可以是玩家名/目标选择器/UUID
-
-## 迁移说明
-
-您自己想办法吧
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -4052,28 +3230,21 @@ example:
 ### 基本信息
 
 - 插件 ID: `quick_backup_multi`
-- 插件名: Quick Backup Multi
-- 版本: None
-  - 元数据版本: 1.9.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
 - 仓库插件页: https://github.com/TISUnion/QuickBackupM/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 多槽位备份/回档插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.2 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4119,12 +3290,10 @@ example:
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 
-一个快速运行自定义脚本的插件
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -4137,48 +3306,25 @@ example:
 ### 基本信息
 
 - 插件 ID: `regamemode_helper`
-- 插件名: Regamemode-Helper
-- 版本: None
-  - 元数据版本: 1.0.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [SkyDynamic](https://github.com/SkyDynamic)
 - 仓库: https://github.com/SkyDynamic/Regamemode_Helper
 - 仓库插件页: https://github.com/SkyDynamic/Regamemode_Helper/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 使用MCDR实现旧Carpet的/c/s功能
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
-[[English]](README.md) [中文]
-
-# Regamemode_Helper Plugin for MCDReforged
-此插件重构自 [Gamemode-Helper](https://github.com/xksnetcbs/MCDR-gamemode_helper-1.16-)
-
-安装插件前请确保您的MCDR大于等于2.0.0
-
-# Command
-| 指令 | 功能                                          |
-|----|---------------------------------------------|
-| !c | 更改您的模式并记录当前位置与朝向                            |
-| !s | 更改您的模式为生存并传送回使用`!c`指令前的位置, 如果没使用过`!c`则无视此指令 |
-
-# Change Log
-## v1.0.0
-```
-The first version, not anything to say
-```
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -4191,27 +3337,21 @@ The first version, not anything to say
 ### 基本信息
 
 - 插件 ID: `region_file_updater`
-- 插件名: Region file Updater
-- 版本: None
-  - 元数据版本: 1.5.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/RegionFileUpdater
 - 仓库插件页: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 一个从指定位置拉取region文件至本服存档的插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4229,28 +3369,21 @@ The first version, not anything to say
 ### 基本信息
 
 - 插件 ID: `renewability`
-- 插件名: Renewability
-- 版本: None
-  - 元数据版本: 1.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fidel Yin](https://github.com/Fidelxyz)
 - 仓库: https://github.com/Fidelxyz/MCDR-Renewability
 - 仓库插件页: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: A plugin that allows players to clone non-renewable items
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4267,26 +3400,21 @@ The first version, not anything to say
 ### 基本信息
 
 - 插件 ID: `run_some_commands`
-- 插件名: Run Some Commands
-- 版本: None
-  - 元数据版本: 1.0.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [FlyingShuriken](https://github.com/FlyingShuriken)
 - 仓库: https://github.com/FlyingShuriken/MCDR-plugins
 - 仓库插件页: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 讓普通玩家執行已被加入白名單的原版指令
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4342,27 +3470,21 @@ The first version, not anything to say
 ### 基本信息
 
 - 插件 ID: `showshowway`
-- 插件名: ShowShowWay
-- 版本: None
-  - 元数据版本: 1.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [WhiteXero](https://github.com/WhiteXero)
 - 仓库: https://github.com/WhiteXero/ShowShowWay
 - 仓库插件页: https://github.com/WhiteXero/ShowShowWay/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 获取玩家的头，或者展示手上的物品
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4380,28 +3502,21 @@ The first version, not anything to say
 ### 基本信息
 
 - 插件 ID: `simple_calculator`
-- 插件名: Simple in-game calculator
-- 版本: None
-  - 元数据版本: 1.2.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/Calculator
 - 仓库插件页: https://github.com/TISUnion/Calculator/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 一个简单的游戏内计算器
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [simpleeval](https://pypi.org/project/simpleeval) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4478,13 +3593,10 @@ The first version, not anything to say
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [javaproperties](https://pypi.org/project/javaproperties) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 
-服务器基础自检插件。
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -4497,29 +3609,21 @@ The first version, not anything to say
 ### 基本信息
 
 - 插件 ID: `simple_translator`
-- 插件名: SimpleTranslator
-- 版本: None
-  - 元数据版本: 1.3.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [skuzow](https://github.com/skuzow)
 - 仓库: https://github.com/skuzow/simple-translator
 - 仓库插件页: https://github.com/skuzow/simple-translator/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: In-game translator
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged ](https://pypi.org/project/mcdreforged ) | \>= 2.0.0 |
-| [googletrans ](https://pypi.org/project/googletrans ) | == 4.0.0rc1 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4575,30 +3679,21 @@ The first version, not anything to say
 ### 基本信息
 
 - 插件 ID: `smart_servertime`
-- 插件名: SmartServerTime
-- 版本: None
-  - 元数据版本: 1.3.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
 - 仓库插件页: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 一个Minecraft自动停起服务器插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.3.0 |
-| [delayexe](/plugins/delayexe/readme-zh_cn.md) | \>=1.3.0 |
-| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.4.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4706,7 +3801,6 @@ The first version, not anything to say
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b7 |
 
 ### 介绍
 
@@ -4748,31 +3842,7 @@ The first version, not anything to say
 
 ### 介绍
 
-## :page_facing_up: Description
-Check the player's IP to prevent impersonation of logging into the <strong><em>offline</em></strong> server<br>
-检测玩家IP以防止冒名登陆<strong><em>离线</em></strong>服务器<br>
-## :telescope: How the plugin work
-This plugin will check player's IP when a player join the server. If the IP is NOT match the record, then kick the player and broadcast in server.<br>
-这个插件会在玩家进入服务器时检查玩家的IP地址，如果与记录不符，则将玩家踢出并全服广播<br>
-## :balloon: Lightweight, plug and play
-Simpler, lightweight, plug and play<br>
-更简单、轻量化，即插即用<br>
-## :exclamation: Warning
-Only matches the IP address received by the server and player name, and the player original IP cannot be obtained for similar proxy connections. More details in README file<br>
-插件只匹配服务器接收到的的IP地址和玩家名，对类似代理的方式连接则没法获取玩家源IP，详见README文件<br>
-## :snake: Commands
-**All the commands need MCDR permissions at least level 2**<br>
-**所有命令都需要MCDR 2级权限**<br>
-
-|command|description|
-|---------|-------|
-|`!!offlineops`|view the commands list  查看命令列表|
-|`!!offlineops` `notOpsPlayerProtect`/ `nopp`|nomal player protect options  非管理员玩家保护开关|
-|`!!offlineops` `protectPlayer`/ `pp`|add protected player  添加受保护的玩家|
-|`!!offlineops` `allPlayerProtect`/ `app`|all players protect options  全体玩家保护开关|
-|`!!offlineops` `multi-ip`|get a chance to append new IP 获得追加新IP的机会|
-|`!!offlineops` `delIP`|delete player's or all the IP record  清除对应或全部玩家的IP记录|
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -4785,27 +3855,21 @@ Only matches the IP address received by the server and player name, and the play
 ### 基本信息
 
 - 插件 ID: `timed_quick_backup_multi`
-- 插件名: Timed QBM
-- 版本: None
-  - 元数据版本: 1.3.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 仓库插件页: https://github.com/TISUnion/TimedQBM/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [quick_backup_multi](/plugins/quick_backup_multi/readme-zh_cn.md) | \>=1.1.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4823,51 +3887,25 @@ Only matches the IP address received by the server and player name, and the play
 ### 基本信息
 
 - 插件 ID: `todolist`
-- 插件名: ToDoList
-- 版本: None
-  - 元数据版本: 1.1.1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Flash-Z](https://github.com/Flash-Z)
 - 仓库: https://github.com/Flash-Z/MCDReforgedPlugins
 - 仓库插件页: https://github.com/Flash-Z/MCDReforgedPlugins/tree/master/ToDoList
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: ToDoList，待办清单
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
-# MCDR-ToDoList
-适用于[MCDR](https://github.com/Fallen-Breath/MCDReforged)的ToDoList插件，可查看项目名称、描述、进度及创建者等
-## 展示:
-![!!td list](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-20.png)
-![!!td tag](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-54.png)
-## 操作:
-| 指令 | 用途 |
-| - | - |
-| !!td | 展示帮助界面 |
-| !!td list | 展示ToDo列表 |
-| !!td add \<name> (\<detail> \<progress>) | 添加项目,后两项为可选参数 |
-| !!td del \<name> | 删除名为\<name>的项目 |
-| !!td reload | 重载配置文件 |
-| !!td tag | 列出所有tag |
-| !!td tag \<tag> | 列出\<tag>下的项目 |
-| !!td tag add \<name> \<tag> | 为\<name>项目添加\<tag> |
-| !!td tag del \<name> \<tag> | 为\<name>项目删除\<tag> |
-注：指令第二项也可只输入首字母，如 !!td list->!!td l
-
-## ToDo:
-1. 分页功能
-2. 更加便捷的tag操作（思路不多）
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -4880,28 +3918,21 @@ Only matches the IP address received by the server and player name, and the play
 ### 基本信息
 
 - 插件 ID: `tpm`
-- 插件名: TpManager
-- 版本: None
-  - 元数据版本: 0.3.4
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/tpmanager_mcdr
 - 仓库插件页: https://github.com/kmcsr/tpmanager_mcdr/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 一个Minecraft服务器传送管理
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.3 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4919,27 +3950,21 @@ Only matches the IP address received by the server and player name, and the play
 ### 基本信息
 
 - 插件 ID: `uuid_api`
-- 插件名: UUIDAPI
-- 版本: None
-  - 元数据版本: 0.1.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: UUID API
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [requests](https://pypi.org/project/requests) |  |
+*数据拉取失败*
 
 ### 介绍
 
@@ -4997,7 +4022,7 @@ Only matches the IP address received by the server and player name, and the play
 
 ### 介绍
 
-发送欢迎消息
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -5010,29 +4035,21 @@ Only matches the IP address received by the server and player name, and the play
 ### 基本信息
 
 - 插件 ID: `where_is`
-- 插件名: Where Is
-- 版本: None
-  - 元数据版本: 2.1.0+build.8
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - 仓库插件页: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 查询玩家的坐标
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -5075,44 +4092,7 @@ Only matches the IP address received by the server and player name, and the play
 
 ### 介绍
 
-# Whisper
-[English](./README_EN.md)<br>
-
-A **[MCDReforged](https://github.com/Fallen-Breath/MCDReforged) plugin**<br>
-More plugins click *[here](https://github.com/MCDReforged/PluginCatalogue)*
-
-[![issue](https://img.shields.io/github/issues/ltBerryshdo/Whisper?color=orange)](https://github.com/ltBerryshdo/Whisper/issues)
-[![Github stars](https://img.shields.io/github/stars/ltBerryshdo/Whisper)]()
-## 简介
-更便捷地对一群人同时说悄悄话<br>
-大声密谋（bushi)<br>
-使用触发器（默认为  <strong>'**'</strong>  ），向玩家指定的所有人发送私密信息。
-## 如何使用
-1. 使用`!!whisper <player>`命令添加能收到悄悄话的玩家（们）
-2. 准备一本 书与笔 并且重命名为 “MCDRwhisper”，将其放在快捷栏中
-3. 在书与笔中写下你的悄悄话~，注意不要换行
-4. 然后在公共聊天栏输入触发器，默认为 **
-5. TA们应该就能收到你的来信了~
-6. 在下一次说悄悄话前，记得清空书与笔里的内容 ~~（本来想自动清除的，结果不会用/data命令）~~
-7. 就酱，可以不用/tell等命令一条条给不同的人发消息了
-## 注意
-- 发送的消息请储存在快捷栏里名为 <strong>“ MCDRwhisper ”</strong> 的书与笔中。
-- 确保待发送的消息没有 <strong>换行符</strong>
-- 在发送下一条消息前，请先 <strong>清空</strong> 书与笔的内容
-## 依赖
-|Plugin ID|Requirement|
-|-------|-------|
-|[minecraft_data_api](https://github.com/MCDReforged/PluginCatalogue/blob/catalogue/plugins/minecraft_data_api/readme.md)|*|
-## 命令
-|command|description|
-|---------|-------|
-|`!!whisper`|查看命令列表|
-|`!!whisper` `<player>`|添加玩家作为悄悄话的倾听者(可接受多个参数)|
-|`!!whisper` `list`|列出列表中所有的玩家|
-|`!!whisper` `clear`|删除列表和玩家|
-|`!!whisper` `delmum` `<player>`|删除玩家(可接受多个参数)|
-|`!!whisper` `cp` `<name>`|把另一个玩家的通讯录复制过来|
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -5125,28 +4105,21 @@ More plugins click *[here](https://github.com/MCDReforged/PluginCatalogue)*
 ### 基本信息
 
 - 插件 ID: `wiki_request`
-- 插件名: Wiki Request
-- 版本: None
-  - 元数据版本: 3.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [DrLee_lihr](https://github.com/DrLee-lihr)
 - 仓库: https://github.com/DrLee-lihr/WikiRequest
 - 仓库插件页: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 一个用来查MediaWiki的插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [requests](https://pypi.org/project/requests) | \>=2.26.0 |
+*数据拉取失败*
 
 ### 介绍
 
@@ -5164,31 +4137,25 @@ More plugins click *[here](https://github.com/MCDReforged/PluginCatalogue)*
 ### 基本信息
 
 - 插件 ID: `world_copier`
-- 插件名: World Copier
-- 版本: None
-  - 元数据版本: 0.1.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/MCDReforged/WorldCopier
 - 仓库插件页: https://github.com/MCDReforged/WorldCopier/tree/main/src
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 同步生存服和镜像服
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
-🔄 将镜像服与生存服同步。
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。

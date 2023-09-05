@@ -7,27 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `region_file_updater`
-- Plugin Name: Region file Updater
-- Version: None
-  - Metadata version: 1.5.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
 - Repository plugin page: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: A MCDR plugin to help you update region files in game
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 

@@ -7,29 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `carpet_bot_manager`
-- Plugin Name: Carpet Bot Manager
-- Version: None
-  - Metadata version: 0.3.5
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: A carpet bot manage plugin, able to spawn bot and make it execute actions
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
+*Data fetching failed*
 
 ### Introduction
 

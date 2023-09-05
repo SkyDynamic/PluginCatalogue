@@ -7,29 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `easy_bot_manager`
-- Plugin Name: Easy Bot Manager
-- Version: None
-  - Metadata version: 0.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [LiuTed](https://github.com/LiuTed)
 - Repository: https://github.com/LiuTed/EasyBotManager
 - Repository plugin page: https://github.com/LiuTed/EasyBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Easy-to-use Carpet Bot Manager Plugin
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged ](https://pypi.org/project/mcdreforged ) | \>= 2.0.0 |
+*Data fetching failed*
 
 ### Introduction
 

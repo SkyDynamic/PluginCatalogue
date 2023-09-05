@@ -7,28 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `loginproxy`
-- Plugin Name: LoginProxy
-- Version: None
-  - Metadata version: 0.6.1
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
 - Repository plugin page: https://github.com/kmcsr/login_proxy_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md)
-- Description: A Minecraft login proxy Plugin
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [kpi](/plugins/kpi/readme.md) | ~1.4.6 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 

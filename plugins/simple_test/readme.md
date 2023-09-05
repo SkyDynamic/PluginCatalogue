@@ -28,8 +28,6 @@
 
 | Python package | Requirement |
 | --- | --- |
-| [javaproperties](https://pypi.org/project/javaproperties) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 

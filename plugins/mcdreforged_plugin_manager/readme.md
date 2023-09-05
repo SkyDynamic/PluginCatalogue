@@ -7,29 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `mcdreforged_plugin_manager`
-- Plugin Name: MCDReforged Plugin Manager
-- Version: None
-  - Metadata version: 2.0.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MCDReforgedPluginManager
 - Repository plugin page: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: Manage your mcdreforged plugins with ease
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0 |
-| [requests](https://pypi.org/project/requests) |  |
+*Data fetching failed*
 
 ### Introduction
 

@@ -28,12 +28,10 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 
-一个快速运行自定义脚本的插件
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。

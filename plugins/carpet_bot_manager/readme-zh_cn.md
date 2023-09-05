@@ -7,29 +7,21 @@
 ### 基本信息
 
 - 插件 ID: `carpet_bot_manager`
-- 插件名: Carpet Bot Manager
-- 版本: None
-  - 元数据版本: 0.3.5
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
 - 仓库插件页: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
+*数据拉取失败*
 
 ### 介绍
 

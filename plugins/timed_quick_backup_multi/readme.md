@@ -7,27 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `timed_quick_backup_multi`
-- Plugin Name: Timed QBM
-- Version: None
-  - Metadata version: 1.3.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Repository plugin page: https://github.com/TISUnion/TimedQBM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: A Quick-Backup-Multi extension for automatically trigger QBM at given interval
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [quick_backup_multi](/plugins/quick_backup_multi/readme.md) | \>=1.1.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 

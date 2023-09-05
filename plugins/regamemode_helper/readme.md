@@ -7,26 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `regamemode_helper`
-- Plugin Name: Regamemode-Helper
-- Version: None
-  - Metadata version: 1.0.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [SkyDynamic](https://github.com/SkyDynamic)
 - Repository: https://github.com/SkyDynamic/Regamemode_Helper
 - Repository plugin page: https://github.com/SkyDynamic/Regamemode_Helper/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Reproduce camera function of old carpetMod
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 

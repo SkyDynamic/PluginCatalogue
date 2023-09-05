@@ -7,30 +7,21 @@
 ### 基本信息
 
 - 插件 ID: `mount`
-- 插件名: Mount
-- 版本: None
-  - 元数据版本: 0.3.0-beta1
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Mount
 - 仓库插件页: https://github.com/FAS-Server/Mount/tree/main
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [pyyaml](https://pypi.org/project/pyyaml) |  |
-| [jproperties](https://pypi.org/project/jproperties) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+*数据拉取失败*
 
 ### 介绍
 

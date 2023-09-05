@@ -7,30 +7,21 @@
 ### 基本信息
 
 - 插件 ID: `smart_servertime`
-- 插件名: SmartServerTime
-- 版本: None
-  - 元数据版本: 1.3.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
 - 仓库插件页: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 一个Minecraft自动停起服务器插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.3.0 |
-| [delayexe](/plugins/delayexe/readme-zh_cn.md) | \>=1.3.0 |
-| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.4.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 

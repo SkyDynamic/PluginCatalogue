@@ -7,29 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `mcd_task`
-- Plugin Name: Task
-- Version: None
-  - Metadata version: 2.3.6+build.68
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Task
 - Repository plugin page: https://github.com/TISUnion/Task/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: A plugin to show tasks of project in progress
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
-| [parse](https://pypi.org/project/parse) |  |
+*Data fetching failed*
 
 ### Introduction
 

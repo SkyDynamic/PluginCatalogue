@@ -7,26 +7,21 @@
 ### 基本信息
 
 - 插件 ID: `diamond_calc`
-- 插件名: Diamond Calculator
-- 版本: None
-  - 元数据版本: 1.0.0
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/DiamondCalc
 - 仓库插件页: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *无*
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 

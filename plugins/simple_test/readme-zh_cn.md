@@ -28,13 +28,10 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [javaproperties](https://pypi.org/project/javaproperties) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 
-服务器基础自检插件。
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。

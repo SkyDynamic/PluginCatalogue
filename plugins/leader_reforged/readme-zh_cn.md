@@ -7,27 +7,21 @@
 ### 基本信息
 
 - 插件 ID: `leader_reforged`
-- 插件名: Leader Reforged
-- 版本: None
-  - 元数据版本: 1.1.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [XavierWah](https://github.com/XavierWah)
 - 仓库: https://github.com/Minecraft-AMS/Leader-Reforged
 - 仓库插件页: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: 这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 

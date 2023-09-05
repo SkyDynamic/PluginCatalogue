@@ -31,7 +31,7 @@
 
 ### Introduction
 
-Allow player suicide without op
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

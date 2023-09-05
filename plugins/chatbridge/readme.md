@@ -7,30 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `chatbridge`
-- Plugin Name: ChatBridge v2 for MCDR
-- Version: None
-  - Metadata version: 2.5.1
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Repository plugin page: https://github.com/TISUnion/ChatBridge/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Broadcast chats between Minecraft servers and more
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.2.0 |
-| [pycryptodome](https://pypi.org/project/pycryptodome) |  |
-| [colorlog](https://pypi.org/project/colorlog) |  |
+*Data fetching failed*
 
 ### Introduction
 
