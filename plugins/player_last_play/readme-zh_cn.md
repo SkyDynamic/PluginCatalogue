@@ -7,21 +7,27 @@
 ### 基本信息
 
 - 插件 ID: `player_last_play`
-- 版本: *数据拉取失败*
+- 插件名: PlayerLastPlay
+- 版本: None
+  - 元数据版本: 1.0.3
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Aimerny](https://github.com/Aimerny)
 - 仓库: https://github.com/Aimerny/playerLastPlay
 - 仓库插件页: https://github.com/Aimerny/playerLastPlay/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 记录与查询玩家最近游玩时间,方便检查服务器玩家活跃度
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [online_player_api](/plugins/online_player_api/readme-zh_cn.md) | ^1.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 

@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `mc_uuid`
-- Version: *Data fetching failed*
+- Plugin Name: Minecraft UUID API
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
 - Repository plugin page: https://github.com/HuajiMUR233/MCUUID/tree/master
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Minecraft UUID API
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [requests](https://pypi.org/project/requests) | \>=2.25.1 |
 
 ### Introduction
 

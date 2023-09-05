@@ -7,21 +7,29 @@
 ### 基本信息
 
 - 插件 ID: `simple_translator`
-- 版本: *数据拉取失败*
+- 插件名: SimpleTranslator
+- 版本: None
+  - 元数据版本: 1.3.1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [skuzow](https://github.com/skuzow)
 - 仓库: https://github.com/skuzow/simple-translator
 - 仓库插件页: https://github.com/skuzow/simple-translator/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: In-game translator
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged ](https://pypi.org/project/mcdreforged ) | \>= 2.0.0 |
+| [googletrans ](https://pypi.org/project/googletrans ) | == 4.0.0rc1 |
 
 ### 介绍
 

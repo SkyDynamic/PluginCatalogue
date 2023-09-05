@@ -7,21 +7,28 @@
 ### 基本信息
 
 - 插件 ID: `qq_api`
-- 版本: *数据拉取失败*
+- 插件名: QQAPI
+- 版本: None
+  - 元数据版本: 1.3.1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 连接 MC 与 QQ
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
+| [uvicorn](https://pypi.org/project/uvicorn) |  |
 
 ### 介绍
 

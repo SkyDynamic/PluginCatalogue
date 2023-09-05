@@ -7,21 +7,33 @@
 ### 基本信息
 
 - 插件 ID: `player_manager`
-- 版本: *数据拉取失败*
+- 插件名: Player Manager
+- 版本: None
+  - 元数据版本: 1.2.1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [hail122](https://github.com/linstar-fxt)
 - 仓库: https://github.com/PRcT-Server/MCDRPlugins
 - 仓库插件页: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 帮助你管理假人
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
+| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
+| [parse](https://pypi.org/project/parse) |  |
+| [hjson](https://pypi.org/project/hjson) |  |
+| [nbt](https://pypi.org/project/nbt) |  |
 
 ### 介绍
 

@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `minecraft_version_api`
-- Version: *Data fetching failed*
+- Plugin Name: Minecraft Version API
+- Version: None
+  - Metadata version: 1.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MinecraftVersionAPI
 - Repository plugin page: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: A api plugin to get the Minecraft server version
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### Introduction
 

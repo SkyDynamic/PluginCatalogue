@@ -7,21 +7,29 @@
 ### 基本信息
 
 - 插件 ID: `mcd_task`
-- 版本: *数据拉取失败*
+- 插件名: Task
+- 版本: None
+  - 元数据版本: 2.3.6+build.68
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
 - 仓库插件页: https://github.com/TISUnion/Task/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 用于展示进行中的工程任务的插件
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### 介绍
 

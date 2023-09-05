@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `ledger_cleaner`
-- Version: *Data fetching failed*
+- Plugin Name: Ledger Cleaner
+- Version: None
+  - Metadata version: 0.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [UnknownBits](https://github.com/UnknownBits), [tanh_Heng](https://github.com/tanhHeng)
 - Repository: https://github.com/UnknownBits/LedgerCleaner
 - Repository plugin page: https://github.com/UnknownBits/LedgerCleaner/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Clean and free ledger.sqlite
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

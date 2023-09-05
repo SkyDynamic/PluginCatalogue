@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `hooks`
-- Version: *Data fetching failed*
+- Plugin Name: hooks
+- Version: None
+  - Metadata version: 2.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [OptiJava](https://github.com/OptiJava)
 - Repository: https://github.com/OptiJava/hooks
 - Repository plugin page: https://github.com/OptiJava/hooks/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Allow MCDR to trigger custom scripts under specific conditions.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.9.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

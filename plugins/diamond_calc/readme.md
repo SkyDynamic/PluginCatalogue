@@ -7,21 +7,26 @@
 ### Basic Information
 
 - Plugin ID: `diamond_calc`
-- Version: *Data fetching failed*
+- Plugin Name: Diamond Calculator
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/DiamondCalc
 - Repository plugin page: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: *None*
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

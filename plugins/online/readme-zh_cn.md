@@ -7,21 +7,30 @@
 ### 基本信息
 
 - 插件 ID: `online`
-- 版本: *数据拉取失败*
+- 插件名: Online
+- 版本: None
+  - 元数据版本: 1.4.1-alpha1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Online
 - 仓库插件页: https://github.com/FAS-Server/Online/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+| [multi_rcon_api](/plugins/multi_rcon_api/readme-zh_cn.md) | \>=1.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### 介绍
 

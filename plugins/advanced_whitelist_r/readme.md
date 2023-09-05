@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `advanced_whitelist_r`
-- Version: *Data fetching failed*
+- Plugin Name: AdvancedWhitelistR
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/AdvancedWhitelistR
 - Repository plugin page: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: For outline-model Whitelist
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

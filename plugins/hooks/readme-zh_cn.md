@@ -7,21 +7,27 @@
 ### 基本信息
 
 - 插件 ID: `hooks`
-- 版本: *数据拉取失败*
+- 插件名: hooks
+- 版本: None
+  - 元数据版本: 2.1.1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [OptiJava](https://github.com/OptiJava)
 - 仓库: https://github.com/OptiJava/hooks
 - 仓库插件页: https://github.com/OptiJava/hooks/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 让MCDR按照指定的规则自动触发脚本，全自动执行任务
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.9.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 

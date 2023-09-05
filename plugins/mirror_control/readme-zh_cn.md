@@ -7,21 +7,27 @@
 ### 基本信息
 
 - 插件 ID: `mirror_control`
-- 版本: *数据拉取失败*
+- 插件名: Mirror Control
+- 版本: None
+  - 元数据版本: 1.0.3
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Chara_SS](https://github.com/charassss/)
 - 仓库: https://github.com/charassss/Mirror-Control
 - 仓库插件页: https://github.com/charassss/Mirror-Control/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 一个控制镜像服务器的插件
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.6.0 |
 
 ### 介绍
 

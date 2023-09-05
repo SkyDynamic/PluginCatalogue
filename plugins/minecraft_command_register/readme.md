@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `minecraft_command_register`
-- Version: *Data fetching failed*
+- Plugin Name: Minecraft Command Register
+- Version: None
+  - Metadata version: 1.5.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Register MCDReforged commands in Minecraft
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.10.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `showshowway`
-- Version: *Data fetching failed*
+- Plugin Name: ShowShowWay
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [WhiteXero](https://github.com/WhiteXero)
 - Repository: https://github.com/WhiteXero/ShowShowWay
 - Repository plugin page: https://github.com/WhiteXero/ShowShowWay/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: 获取玩家的头，或者展示手上的物品
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

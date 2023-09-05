@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `qq_api`
-- Version: *Data fetching failed*
+- Plugin Name: QQAPI
+- Version: None
+  - Metadata version: 1.3.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Connect Minecraft and QQ
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
+| [uvicorn](https://pypi.org/project/uvicorn) |  |
 
 ### Introduction
 

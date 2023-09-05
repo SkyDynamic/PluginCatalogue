@@ -34,7 +34,22 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 
 ### Introduction
 
-*Data fetching failed*
+# AdvancedCalculator
+
+> 提供游戏内多种便捷计算
+
+## 使用
+
+您可以使用 `=<expression>` 直接计算表达式，或使用 `==<count/expression>` 将物品数转换堆叠数。
+
+| 指令 | 用途 | 示例 | 结果 |
+| - | - | - | - |
+| !!calc \<expression> | 计算表达式 | !!calc 1+1 | 1+1=2 |
+| !!calc item \<count/expression> | 物品数转换堆叠数 | !!calc item 1794 | 1794个物品为1盒2组3个 |
+| !!calc item \<box> \<stack> \<single> | 堆叠数转换物品数 | !!calc item 1 10 32 | 1盒10组32个为2400个物品 |
+| !!calc color \<red> \<green> \<blue> | 10进制RGB转16进制 | !!calc color 255 0 255 | (255, 0, 255) -> #FF00FF |
+| !!calc color \<#HEX> | 16十进制RGB转10进制 | !!calc color #00FF00 | #00FF00 -> (0, 255, 0) |
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -47,21 +62,27 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 ### Basic Information
 
 - Plugin ID: `advanced_whitelist_r`
-- Version: *Data fetching failed*
+- Plugin Name: AdvancedWhitelistR
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/AdvancedWhitelistR
 - Repository plugin page: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: For outline-model Whitelist
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -103,7 +124,7 @@ Offline server whitelist management
 
 ### Introduction
 
-*Data fetching failed*
+Allow player suicide without op
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -155,21 +176,27 @@ Edit/send command stack & automatically send commands
 ### Basic Information
 
 - Plugin ID: `auto_plugin_reloader`
-- Version: *Data fetching failed*
+- Plugin Name: Auto Plugin Reloader
+- Version: None
+  - Metadata version: 1.1.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Repository plugin page: https://github.com/TISUnion/AutoPluginReloader/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Automatically reload plugins when file changes
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -227,21 +254,26 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 ### Basic Information
 
 - Plugin ID: `bingo`
-- Version: *Data fetching failed*
+- Plugin Name: Bingo
+- Version: None
+  - Metadata version: 0.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Useful tool for Bingo game
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -268,25 +300,187 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 ### Basic Information
 
 - Plugin ID: `bot`
-- Version: *Data fetching failed*
+- Plugin Name: Bot
+- Version: None
+  - Metadata version: 1.0.6
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: The best carpet bot manager!
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.6.0 |
+| [dict_command_registration](/plugins/dict_command_registration/readme.md) | ^1.0.0 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | ^1.4 |
+| [more_command_nodes](/plugins/more_command_nodes/readme.md) | ^1.1.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
-*Data fetching failed*
+# Bot
+
+> 最好用的地毯模组假人管理器！
+
+## 依赖
+
+- [MinecraftDataAPI](https://github.com/MCDReforged/MinecraftDataAPI)
+- [MoreCommandNodes](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes)
+
+## 使用方法
+
+`!!bot` 查看帮助
+
+`!!bot list [index] [filter]` 显示假人列表
+
+`!!bot spawn <name>` 上线假人
+
+`!!bot kill <name>` 下线假人
+
+`!!bot action <name> [index]` 执行假人动作
+
+`!!bot info <name>` 查看假人信息
+
+`!!bot save <name> [position] [facing] [dimension]` 保存假人
+
+`!!bot del <name>` 删除保存的假人
+
+`!!bot config <name> <option> <value>` 配置假人
+
+```mermaid
+sequenceDiagram
+    participant Player/Console
+    participant Online Bots
+    participant Saved Bots
+
+    Player/Console-->>Online Bots: !!bot spawn (player)
+    Saved Bots-->>Online Bots: !!bot spawn
+    Online Bots-->>Online Bots: !!bot kill
+    Online Bots-->>Saved Bots: !!bot save
+    Player/Console-->>Saved Bots: !!bot save [location]
+    Saved Bots-->>Saved Bots: !!bot del
+```
+
+### list
+
+**index**：列表的页码
+
+**filter**：可用选项为：`--all`、`--online` 或 `--saved`，过滤假人
+
+### spawn
+
+上线假人
+
+```mermaid
+flowchart TD
+    start([list])
+    is_saved{Saved?}
+    is_player{Running by Player?}
+
+    start --> is_saved
+    is_saved -->|Yes| spawn1(Spawn at Saved Location)
+    is_saved -->|No| is_player
+    is_player -->|Yes| spawn2(Spawn at player's Location)
+    is_player -->|No| error1([Not Saved Error])
+```
+
+### kill
+
+下线假人
+
+### action
+
+执行假人动作
+
+当指定 `index` 时，执行特定动作而不是全部动作
+
+### info
+
+查看假人信息
+
+### save
+
+保存假人
+
+```mermaid
+flowchart TD
+    start([save])
+    with_location{Has Location?}
+    online{Online or Saved?}
+    is_player{Running by Player?}
+
+    start --> with_location
+    with_location -->|Yes| save3(Save at Input Location)
+    with_location -->|No| online
+
+    online -->|Yes| save1(Save at Bot's Location)
+    online -->|No| is_player
+    is_player -->|Yes| save2(Save at player's location)
+    is_player -->|No| error1([Bot Not Exists])
+```
+
+### del
+
+删除保存的假人
+
+### config
+
+配置假人
+
+```mermaid
+flowchart LR
+    start([config])
+    start --> bot_name(name)
+
+    bot_name --> name(name)
+    bot_name --> position(position)
+    bot_name --> facing(facing)
+    bot_name --> dimension(dimension)
+    bot_name --> comment(comment)
+    bot_name --> actions(actions)
+    bot_name --> autoLogin(autoLogin)
+    bot_name --> autoRunActions(autoRunActions)
+
+    actions --> append("append &lt;action&gt;")
+    actions --> insert("insert &lt;index&gt; &lt;action&gt;")
+    actions --> delete("delete &lt;index&gt")
+    actions --> edit("edit &lt;index&gt; &lt;action&gt;")
+    actions --> clear(clear)
+```
+
+## 配置
+
+### gamemode
+
+默认值: `survival`
+
+生成假人的游戏模式
+
+### name_prefix
+
+默认值：无
+
+假人名称前缀
+
+### name_suffix
+
+默认值：无
+
+假人名称前缀
+
+### permissions
+
+使用对应指令的最低权限
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -299,25 +493,34 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 ### Basic Information
 
 - Plugin ID: `bot_plugin`
-- Version: *Data fetching failed*
+- Plugin Name: Bot Plugin
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
 - Repository plugin page: https://github.com/DancingSnow0517/Bot_Manager/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: 管理 carpet 机器人
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.3.0 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
-*Data fetching failed*
+# A MCDR bot manager。
+
+:warning: **Read README in repository before use!**
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -330,21 +533,29 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 ### Basic Information
 
 - Plugin ID: `carpet_bot_manager`
-- Version: *Data fetching failed*
+- Plugin Name: Carpet Bot Manager
+- Version: None
+  - Metadata version: 0.3.5
+  - Release version: None
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
 
 ### Introduction
 
@@ -362,21 +573,27 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 ### Basic Information
 
 - Plugin ID: `carpet_tick`
-- Version: *Data fetching failed*
+- Plugin Name: Carpet Tick
+- Version: None
+  - Metadata version: 1.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/CarpetTick
 - Repository plugin page: https://github.com/Ivan-1F/CarpetTick/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Get server status using carpet /tick command
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -394,21 +611,28 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 ### Basic Information
 
 - Plugin ID: `carpetbotlist`
-- Version: *Data fetching failed*
+- Plugin Name: CarpetBotList
+- Version: None
+  - Metadata version: 2.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
 - Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Help you manage your carpet fake player
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -426,21 +650,27 @@ Help you manage your carpet fake player
 ### Basic Information
 
 - Plugin ID: `cato`
-- Version: *Data fetching failed*
+- Plugin Name: Cato Plugin
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - Repository: https://github.com/Harry-zklcdc/MCDR-Cato
 - Repository plugin page: https://github.com/Harry-zklcdc/MCDR-Cato/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Plugin Cato
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -468,21 +698,30 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 ### Basic Information
 
 - Plugin ID: `chatbridge`
-- Version: *Data fetching failed*
+- Plugin Name: ChatBridge v2 for MCDR
+- Version: None
+  - Metadata version: 2.5.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Repository plugin page: https://github.com/TISUnion/ChatBridge/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Broadcast chats between Minecraft servers and more
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.2.0 |
+| [pycryptodome](https://pypi.org/project/pycryptodome) |  |
+| [colorlog](https://pypi.org/project/colorlog) |  |
 
 ### Introduction
 
@@ -500,21 +739,29 @@ Chatbridge v2
 ### Basic Information
 
 - Plugin ID: `chatbridgereforged_mc`
-- Version: *Data fetching failed*
+- Plugin Name: ChatBridgeReforged_MC
+- Version: None
+  - Metadata version: 0.2.7-dev032
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/ChatBridgeReforged
 - Repository plugin page: https://github.com/R1ckyH/ChatBridgeReforged/tree/master/./ChatBridgeReforged_MC
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+| [pycryptodomex](https://pypi.org/project/pycryptodomex) |  |
 
 ### Introduction
 
@@ -532,25 +779,49 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 ### Basic Information
 
 - Plugin ID: `colored_chat`
-- Version: *Data fetching failed*
+- Plugin Name: ColoredChat
+- Version: None
+  - Metadata version: 0.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Support formatting codes for vanilla
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
-*Data fetching failed*
+# ColoredChat
+
+> 支持原版显示 [格式化代码](https://minecraft.fandom.com/zh/wiki/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)
+
+## 使用
+
+与正常聊天没有区别, 需要格式化时使用 `&` 符号
+
+## 配置
+
+`force_refresh`
+
+是否刷新聊天栏的所有内容, 某些无法被记录的信息可能会被覆盖
+
+默认值: `True`
+
+## API
+
+可以使用 `append_msg(msg)` 方法来插件的广播消息
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -563,21 +834,27 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 ### Basic Information
 
 - Plugin ID: `command_exporter`
-- Version: *Data fetching failed*
+- Plugin Name: MCDR Command Exporter
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [DancingSnow](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/MCDR-Command-Exporter
 - Repository plugin page: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin is used to export the MCDR command tree
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.7.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -614,25 +891,35 @@ Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0
 ### Basic Information
 
 - Plugin ID: `cpu_temp`
-- Version: *Data fetching failed*
+- Plugin Name: cpu_temp
+- Version: None
+  - Metadata version: 3.0.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/cpu_temp
 - Repository plugin page: https://github.com/R1ckyH/cpu_temp/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to check cpu temp regularly.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [psutil](https://pypi.org/project/psutil) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+| [APScheduler](https://pypi.org/project/APScheduler) |  |
 
 ### Introduction
 
-*Data fetching failed*
+A plugin to check cpu temp regularly.
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -682,25 +969,65 @@ Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0
 ### Basic Information
 
 - Plugin ID: `database_api`
-- Version: *Data fetching failed*
+- Plugin Name: DatabaseAPI
+- Version: None
+  - Metadata version: 0.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Database API to access database
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
 
 ### Introduction
 
-*Data fetching failed*
+# DatabaseAPI
+
+> 数据库API
+>
+> 提供了数据库操作的便捷API
+
+## 环境要求
+
+### Python包
+
+- sqlalchemy
+
+## 开发文档
+
+查看 [Valut](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/vault/vault.py) 参考使用方法
+
+提供了以下两个类:
+
+- TableBase
+- DataManager
+
+### TableBase
+
+一个数据库表的基类, 写一个你的数据库表并继承这个类来创建一张表
+
+### DataManager
+
+使用本API需要自行实例化这个类
+
+实例化: `__init__(self, file_path: str)`
+
+#### get_session
+
+获取一个数据库会话的上下文管理器, 更多信息请自行查找资料
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -713,21 +1040,27 @@ Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0
 ### Basic Information
 
 - Plugin ID: `daycount_nbt`
-- Version: *Data fetching failed*
+- Plugin Name: DayCount NBT
+- Version: None
+  - Metadata version: 2.2.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
 - Repository plugin page: https://github.com/alex3236/daycount-NBT/tree/main/src
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: :calendar: Get and export server opening times.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -749,21 +1082,27 @@ Feature:
 ### Basic Information
 
 - Plugin ID: `daytime`
-- Version: *Data fetching failed*
+- Plugin Name: Daytime
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-Daytime/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: show time in minecraft
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -820,21 +1159,26 @@ Show time in Minecraft
 ### Basic Information
 
 - Plugin ID: `diamond_calc`
-- Version: *Data fetching failed*
+- Plugin Name: Diamond Calculator
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/DiamondCalc
 - Repository plugin page: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: *None*
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1139,21 +1483,29 @@ Params:
 ### Basic Information
 
 - Plugin ID: `easy_bot_manager`
-- Version: *Data fetching failed*
+- Plugin Name: Easy Bot Manager
+- Version: None
+  - Metadata version: 0.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [LiuTed](https://github.com/LiuTed)
 - Repository: https://github.com/LiuTed/EasyBotManager
 - Repository plugin page: https://github.com/LiuTed/EasyBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Easy-to-use Carpet Bot Manager Plugin
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged ](https://pypi.org/project/mcdreforged ) | \>= 2.0.0 |
 
 ### Introduction
 
@@ -1191,6 +1543,7 @@ Params:
 
 | Python package | Requirement |
 | --- | --- |
+| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) | ~=0.17 |
 
 ### Introduction
 
@@ -1207,25 +1560,34 @@ I always agree with EULA, don't ask me
 ### Basic Information
 
 - Plugin ID: `faster_transfer`
-- Version: *Data fetching failed*
+- Plugin Name: Faster Transfer
+- Version: None
+  - Metadata version: 0.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/FasterTransfer
 - Repository plugin page: https://github.com/alex3236/FasterTransfer/tree/master/src
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: :rocket: Make web? file transfers faster!
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [speedcopy](https://pypi.org/project/speedcopy) |  |
 
 ### Introduction
 
-*Data fetching failed*
+Make file transfers faster!
+
+:warning: **Read README in repository before use!**
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -1238,21 +1600,26 @@ I always agree with EULA, don't ask me
 ### Basic Information
 
 - Plugin ID: `fbs_plugin`
-- Version: *Data fetching failed*
+- Plugin Name: FastBotSpawn
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [WalkerTian](https://github.com/Walkersifolia)
 - Repository: https://github.com/Walkersifolia/FastBotSpawn
 - Repository plugin page: https://github.com/Walkersifolia/FastBotSpawn/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin with multiple functions
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1270,21 +1637,27 @@ I always agree with EULA, don't ask me
 ### Basic Information
 
 - Plugin ID: `gamemode`
-- Version: *Data fetching failed*
+- Plugin Name: Gamemode
+- Version: None
+  - Metadata version: 1.0.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Change to spectator mode for observe, teleport to origin position when change back to survival mode
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1346,21 +1719,26 @@ I always agree with EULA, don't ask me
 ### Basic Information
 
 - Plugin ID: `here`
-- Version: *Data fetching failed*
+- Plugin Name: Here
+- Version: None
+  - Metadata version: 1.2.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Repository plugin page: https://github.com/TISUnion/Here/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Broadcast your position and high light yourself
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1400,6 +1778,7 @@ I always agree with EULA, don't ask me
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
 
 ### Introduction
 
@@ -1417,21 +1796,27 @@ I always agree with EULA, don't ask me
 ### Basic Information
 
 - Plugin ID: `hooks`
-- Version: *Data fetching failed*
+- Plugin Name: hooks
+- Version: None
+  - Metadata version: 2.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [OptiJava](https://github.com/OptiJava)
 - Repository: https://github.com/OptiJava/hooks
 - Repository plugin page: https://github.com/OptiJava/hooks/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Allow MCDR to trigger custom scripts under specific conditions.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.9.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1476,7 +1861,38 @@ Pursuing full automation in server management and maintenance!
 
 ### Introduction
 
-*Data fetching failed*
+# Info
+
+获取服务器信息
+
+## 支持功能
+
+- 系统版本
+- Python版本
+- CPU利用率
+- 内存使用量
+- 存档大小
+
+需要显示更多内容发 Issue
+
+## 使用
+
+使用 `!!info` 获取
+
+## 配置
+
+### world_names
+
+参与存档大小计算的文件夹名
+
+默认值:
+
+```json
+[
+    "world"
+]
+```
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -1528,21 +1944,26 @@ Pursuing full automation in server management and maintenance!
 ### Basic Information
 
 - Plugin ID: `join_motd`
-- Version: *Data fetching failed*
+- Plugin Name: Join MOTD
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
 - Repository plugin page: https://github.com/TISUnion/joinMOTD/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Send player a MOTD when he joins
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1560,21 +1981,27 @@ Pursuing full automation in server management and maintenance!
 ### Basic Information
 
 - Plugin ID: `join_motd_next`
-- Version: *Data fetching failed*
+- Plugin Name: join MOTD next
+- Version: None
+  - Metadata version: 0.2.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [JOZA_ORANGE](https://github.com/JOZA-ORANGE)
 - Repository: https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext
 - Repository plugin page: https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Send more diverse information to players when they join the game
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [daycount_nbt](/plugins/daycount_nbt/readme.md) | \>=2.2.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1614,6 +2041,7 @@ Pursuing full automation in server management and maintenance!
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.4 |
 
 ### Introduction
 
@@ -1631,21 +2059,28 @@ Pursuing full automation in server management and maintenance!
 ### Basic Information
 
 - Plugin ID: `jrrps`
-- Version: *Data fetching failed*
+- Plugin Name: Jrrps Plg
+- Version: None
+  - Metadata version: 2.3.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [SkyDynamic](https://github.com/SkyDynamic)
 - Repository: https://github.com/SkyDynamic/jrrps
 - Repository plugin page: https://github.com/SkyDynamic/jrrps/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Test today's luck
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [apscheduler](/plugins/apscheduler/readme.md) | \>=3.9.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1702,21 +2137,27 @@ Today's horoscope based on `random.randint(0, 100)`
 ### Basic Information
 
 - Plugin ID: `leader_reforged`
-- Version: *Data fetching failed*
+- Plugin Name: Leader Reforged
+- Version: None
+  - Metadata version: 1.1.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
 - Repository plugin page: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: This is a simplified and reforged version for Leader, allowing to mark a leader.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1734,21 +2175,27 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 ### Basic Information
 
 - Plugin ID: `ledger_cleaner`
-- Version: *Data fetching failed*
+- Plugin Name: Ledger Cleaner
+- Version: None
+  - Metadata version: 0.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [UnknownBits](https://github.com/UnknownBits), [tanh_Heng](https://github.com/tanhHeng)
 - Repository: https://github.com/UnknownBits/LedgerCleaner
 - Repository plugin page: https://github.com/UnknownBits/LedgerCleaner/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Clean and free ledger.sqlite
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1789,7 +2236,14 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 
 ### Introduction
 
-*Data fetching failed*
+# Let Me Click and Send
+
+允许在 1.19 点击发送任意信息
+
+Allowed click to send anything in 1.19
+
+See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -1802,21 +2256,29 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 ### Basic Information
 
 - Plugin ID: `lite_file_manager`
-- Version: *Data fetching failed*
+- Plugin Name: Lite File Manager
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/LiteFileManager
 - Repository plugin page: https://github.com/MCDReforged/LiteFileManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A lite-weight in-game file manager
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b7 |
+| [requests](https://pypi.org/project/requests) |  |
 
 ### Introduction
 
@@ -1873,21 +2335,28 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `loginproxy`
-- Version: *Data fetching failed*
+- Plugin Name: LoginProxy
+- Version: None
+  - Metadata version: 0.6.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
 - Repository plugin page: https://github.com/kmcsr/login_proxy_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: A Minecraft login proxy Plugin
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.6 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1946,21 +2415,27 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `mc_uuid`
-- Version: *Data fetching failed*
+- Plugin Name: Minecraft UUID API
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
 - Repository plugin page: https://github.com/HuajiMUR233/MCUUID/tree/master
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Minecraft UUID API
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [requests](https://pypi.org/project/requests) | \>=2.25.1 |
 
 ### Introduction
 
@@ -1999,6 +2474,8 @@ Browse / Import / Export files in the server in Minecraft!
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b12 |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### Introduction
 
@@ -2016,21 +2493,29 @@ Shows tasks of project in progress
 ### Basic Information
 
 - Plugin ID: `mcd_task`
-- Version: *Data fetching failed*
+- Plugin Name: Task
+- Version: None
+  - Metadata version: 2.3.6+build.68
+  - Release version: None
 - Total downloads: 0
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Task
 - Repository plugin page: https://github.com/TISUnion/Task/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to show tasks of project in progress
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### Introduction
 
@@ -2068,6 +2553,9 @@ Shows tasks of project in progress
 
 | Python package | Requirement |
 | --- | --- |
+| [cryptography](https://pypi.org/project/cryptography) | \>=1.5 |
+| [requests](https://pypi.org/project/requests) |  |
+| [PyNBT](https://pypi.org/project/PyNBT) |  |
 
 ### Introduction
 
@@ -2085,21 +2573,29 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 ### Basic Information
 
 - Plugin ID: `mcdreforged_plugin_manager`
-- Version: *Data fetching failed*
+- Plugin Name: MCDReforged Plugin Manager
+- Version: None
+  - Metadata version: 2.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MCDReforgedPluginManager
 - Repository plugin page: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Manage your mcdreforged plugins with ease
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0 |
+| [requests](https://pypi.org/project/requests) |  |
 
 ### Introduction
 
@@ -2139,6 +2635,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
 
 ### Introduction
 
@@ -2156,21 +2653,27 @@ A MCDR plugin for post/teleport items
 ### Basic Information
 
 - Plugin ID: `minecraft_command_register`
-- Version: *Data fetching failed*
+- Plugin Name: Minecraft Command Register
+- Version: None
+  - Metadata version: 1.5.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Register MCDReforged commands in Minecraft
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.10.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -2229,21 +2732,30 @@ Comming soom...
 ### Basic Information
 
 - Plugin ID: `minecraft_data_api`
-- Version: *Data fetching failed*
+- Plugin Name: Minecraft Data API
+- Version: None
+  - Metadata version: 1.5.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Repository plugin page: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: A MCDReforged api plugin to get player data information and more
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
+| [hjson](https://pypi.org/project/hjson) |  |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### Introduction
 
@@ -2261,21 +2773,28 @@ A MCDReforged api plugin to get player data information and more
 ### Basic Information
 
 - Plugin ID: `minecraft_version_api`
-- Version: *Data fetching failed*
+- Plugin Name: Minecraft Version API
+- Version: None
+  - Metadata version: 1.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MinecraftVersionAPI
 - Repository plugin page: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: A api plugin to get the Minecraft server version
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### Introduction
 
@@ -2293,21 +2812,27 @@ A MCDReforged api plugin to get player data information and more
 ### Basic Information
 
 - Plugin ID: `mirror_control`
-- Version: *Data fetching failed*
+- Plugin Name: Mirror Control
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [Chara_SS](https://github.com/charassss/)
 - Repository: https://github.com/charassss/Mirror-Control
 - Repository plugin page: https://github.com/charassss/Mirror-Control/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to control mirror server
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.6.0 |
 
 ### Introduction
 
@@ -2369,21 +2894,27 @@ config.json
 ### Basic Information
 
 - Plugin ID: `mirror_server_reforged`
-- Version: *Data fetching failed*
+- Plugin Name: MirrorServerReforged
+- Version: None
+  - Metadata version: 1.0.7
+  - Release version: None
 - Total downloads: 0
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
 - Repository plugin page: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -2564,7 +3095,46 @@ Now, I'll introduce the content of the config file:
 
 ### Introduction
 
-*Data fetching failed*
+# MoreCommandNodes
+
+> 更多指令节点
+
+如果您想要添加更多自定义节点，欢迎提交 PR！
+
+## 节点列表
+
+```mermaid
+classDiagram
+    class FloatsArgument
+    class Position
+    class Facing
+    class EnumeratedText
+
+    FloatsArgument : +__init__(String name, int number)
+    FloatsArgument <|-- Position
+    Position : +__init__(String name)
+    FloatsArgument <|-- Facing
+    Facing : +__init__(String name)
+
+    EnumeratedText : +__init__(String name, Type[Enum] enum_class)
+```
+
+### FloatsArgument
+
+连续的多个浮点数节点。
+
+### Position
+
+坐标节点，连续的三个浮点数。
+
+### Facing
+
+朝向节点，连续的两个浮点数。
+
+### EnumeratedText
+
+与 MCDR 的 Enumeration 类似，但是使用 Enum 的值而不是名称作为节点文本。
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -2577,21 +3147,30 @@ Now, I'll introduce the content of the config file:
 ### Basic Information
 
 - Plugin ID: `mount`
-- Version: *Data fetching failed*
+- Plugin Name: Mount
+- Version: None
+  - Metadata version: 0.3.0-beta1
+  - Release version: None
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Mount
 - Repository plugin page: https://github.com/FAS-Server/Mount/tree/main
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Mount different minecraft server into a mcdr server, with overwritten properties!
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [pyyaml](https://pypi.org/project/pyyaml) |  |
+| [jproperties](https://pypi.org/project/jproperties) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
@@ -2619,21 +3198,28 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 ### Basic Information
 
 - Plugin ID: `multi_rcon_api`
-- Version: *Data fetching failed*
+- Plugin Name: MultiRconAPI
+- Version: None
+  - Metadata version: 2.0.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
 - Repository plugin page: https://github.com/FAS-Server/MultiRconAPI/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: An api to make it easier to control group server by rcon.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.2 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.2 |
 
 ### Introduction
 
@@ -2672,10 +3258,12 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
-*Data fetching failed*
+A whitelist plugin with multiple server
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -2830,21 +3418,30 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 ### Basic Information
 
 - Plugin ID: `online`
-- Version: *Data fetching failed*
+- Plugin Name: Online
+- Version: None
+  - Metadata version: 1.4.1-alpha1
+  - Release version: None
 - Total downloads: 0
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
 - Repository plugin page: https://github.com/FAS-Server/Online/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Display the online players for Group server, with click event to quickly join every sub-server.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+| [multi_rcon_api](/plugins/multi_rcon_api/readme.md) | \>=1.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### Introduction
 
@@ -2862,21 +3459,26 @@ Display the online players for Group server, with click event to quickly join ev
 ### Basic Information
 
 - Plugin ID: `online_player_api`
-- Version: *Data fetching failed*
+- Plugin Name: OnlinePlayerAPI
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Online Player API
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -2908,21 +3510,32 @@ Display the online players for Group server, with click event to quickly join ev
 ### Basic Information
 
 - Plugin ID: `pcrc`
-- Version: *Data fetching failed*
+- Plugin Name: PCRC
+- Version: None
+  - Metadata version: 1.4.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
 - Repository plugin page: https://github.com/Fallen-Breath/PCRC/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: PyCraft based Replay Client
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [cryptography](https://pypi.org/project/cryptography) |  |
+| [requests](https://pypi.org/project/requests) |  |
+| [pynbt](https://pypi.org/project/pynbt) |  |
+| [redbaron](https://pypi.org/project/redbaron) |  |
+| [colorlog](https://pypi.org/project/colorlog) |  |
+| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
 
 ### Introduction
 
@@ -2978,21 +3591,27 @@ Display the online players for Group server, with click event to quickly join ev
 ### Basic Information
 
 - Plugin ID: `player_last_play`
-- Version: *Data fetching failed*
+- Plugin Name: PlayerLastPlay
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/Aimerny/playerLastPlay
 - Repository plugin page: https://github.com/Aimerny/playerLastPlay/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Record player lastime left the server
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [online_player_api](/plugins/online_player_api/readme.md) | ^1.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3009,21 +3628,33 @@ Record the last playing time of server members to facilitate the statistics of s
 ### Basic Information
 
 - Plugin ID: `player_manager`
-- Version: *Data fetching failed*
+- Plugin Name: Player Manager
+- Version: None
+  - Metadata version: 1.2.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [hail122](https://github.com/linstar-fxt)
 - Repository: https://github.com/PRcT-Server/MCDRPlugins
 - Repository plugin page: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A MCDReforged plugin to help with managing fake players
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
+| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
+| [parse](https://pypi.org/project/parse) |  |
+| [hjson](https://pypi.org/project/hjson) |  |
+| [nbt](https://pypi.org/project/nbt) |  |
 
 ### Introduction
 
@@ -3040,21 +3671,28 @@ Database-based Carpet fake player management
 ### Basic Information
 
 - Plugin ID: `qq_api`
-- Version: *Data fetching failed*
+- Plugin Name: QQAPI
+- Version: None
+  - Metadata version: 1.3.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: Connect Minecraft and QQ
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
+| [uvicorn](https://pypi.org/project/uvicorn) |  |
 
 ### Introduction
 
@@ -3214,10 +3852,121 @@ example:
 
 | Python package | Requirement |
 | --- | --- |
+| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
 
 ### Introduction
 
-*Data fetching failed*
+<!-- markdownlint-disable-file MD033 -->
+# QQChat
+
+> 用于连接 `Minecraft` 和 `QQ` 的插件
+
+## 功能说明
+
+### 名词定义
+
+| 名词 | 含义 | 备注 |
+| - | - | - |
+| **群成员** | QQ群聊中的玩家 | |
+| **玩家** | MC服务器中的玩家 | |
+| **管理** | 管理员（请勿与 MC 或 MCDR 权限混淆） | `admins` |
+| **主群** | 服务器的主要交流群 | `main_group` 一般指服务器最大的群，包括所有人，最多一个，如配置多个群将取第一个 |
+| **管理群** | 服务器管理群 | `manage_groups` 此群成员无论是否配置为管理，在此群中都具有管理的权限 |
+| **同步群** | 服务器聊天同步群 | `message_sync_groups` 同步所有玩家的发言，在此群中发送非命令的消息也会同步到服务器 |
+
+### 场景说明
+
+1. 管理可以在任何场景下（包括群聊和私聊）都具有所有指令的权限。
+
+2. 管理群中，所有人均获得管理权限，即使有的人没有在 `admins` 中。
+
+3. MCDR指令的执行没有返回信息，不太适用于需要交互的场景（除非你知道MCDR会输出什么），请自行判断与使用，以下给出一些使用场景：
+
+   - 场景1：无管理在线的时候紧急回档
+   - 场景2：离线服务器为新玩家添加白名单（采用MCDR离线白名单插件时）
+
+   > 注意：由于MCDR指令默认是通过控制台执行，**已配置的 admin 及服务器管理群中的所有成员将在 MCDR 层面拥有和 owner 等同的权限**
+
+## 配置说明
+
+| 配置项 | 含义 | 默认值 | 注意事项 |
+| - | - | - | - |
+| `main_group` | 主群 | `[123456]` | 最多填一个，多填取首个 |
+| `manage_groups` | 管理群 | `[1234563, 1234564]` | 非必填 |
+| `message_sync_groups` | 同步群 | `[1234567, 1234568]` | 非必填 |
+| `server_name` | 服务器名 | `'survival'` | 发送到qq时会加上server_name的前缀 |
+| `admins` | 管理列表 | `[1234565, 1234566]` | 理论上非必填（ |
+| `sync_group_only_admin:` | 同步群是否只包含管理 | `true` | 如果关闭，成员权限同主群<br />如果打开。成员权限同管理群 |
+| `whitelist_add_with_bound` | 群成员绑定游戏 id 时自动添加白名单 | `false` | 离线服使用大概率有问题 |
+| `whitelist_remove_with_leave` | 玩家退群自动移除白名单 | `true` | 须防止冒名绑定游戏 id |
+| `command` | 开启 `/command` 指令 | `true` | |
+| `list` | 开启 `/list` 指令 | `true` | |
+| `mc` | 开启 `/mc` 指令 | `true` | |
+| `qq` | 开启 `/qq` 指令 | `true` | |
+| `mcdr` | 开启 `/mcdr` 指令 | `false` | 仅建议紧急运维时使用，**没有返回信息** |
+| `command_prefix` | 触发机器人指令的前缀 | `['/']` | 配置单字符如 `'/'` 或 `'#'` 时，指令格式为 `/list` 等<br />配置多字符如 `'mc'` 或 `'bot'` 时，指令格式为 `mc list`，需在前缀与指令之间添加空格 |
+| `player_list_regex` | 使用 `/list` 指令时将玩家分组的正则表达式 | 略 | 请避免冲突，`其它` 为保留名 |
+
+## 命令帮助
+
+**注：以前缀为 `'/'` 为例，实际指令请参考配置文件**
+
+> 普通玩家命令帮助如下
+
+`/server` 查看当前连接到群组服中哪个子服
+
+`/server <server_name>` 连接到群组服中的对应子服
+
+`/list` 获取在线玩家列表
+
+`/bound <ID>` 绑定你的游戏ID
+
+`/mc <msg>` 向游戏内发送消息
+
+`!!qq <msg>` 游戏内向主群发送消息
+
+> 管理员命令帮助如下
+
+`/bound` 查看绑定相关帮助
+
+`/whitelist` 查看白名单相关帮助
+
+`/command <command>` 执行任意指令
+
+`/mc <msg>` 向游戏内发送消息
+
+`/mcdr <mcdr command>` 执行mcdr指令（可不添加 `!!` 前缀，无回显，谨慎使用）
+
+> bound 指令帮助
+
+`/bound list` 查看绑定列表
+
+`/bound check <qq number>` 查询绑定 ID
+
+`/bound unbound <qq number>` 解除绑定
+
+`/bound <qq number> <ID>` 绑定新 ID
+
+> whitelist 指令帮助
+
+`/whitelist add <target>` 添加白名单成员
+
+`/whitelist list` 列出白名单成员
+
+`/whitelist off` 关闭白名单
+
+`/whitelist on` 开启白名单
+
+`/whitelist reload` 重载白名单
+
+`/whitelist remove <target>` 删除白名单成员
+
+注: `<target>` 可以是玩家名/目标选择器/UUID
+
+## 迁移说明
+
+您自己想办法吧
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3230,21 +3979,28 @@ example:
 ### Basic Information
 
 - Plugin ID: `quick_backup_multi`
-- Version: *Data fetching failed*
+- Plugin Name: Quick Backup Multi
+- Version: None
+  - Metadata version: 1.9.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Repository plugin page: https://github.com/TISUnion/QuickBackupM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A backup / restore plugin, with multiple backup slot
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.2 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
 
 ### Introduction
 
@@ -3290,10 +4046,12 @@ Features:
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
-*Data fetching failed*
+A plugin for run command quickly
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3306,21 +4064,26 @@ Features:
 ### Basic Information
 
 - Plugin ID: `regamemode_helper`
-- Version: *Data fetching failed*
+- Plugin Name: Regamemode-Helper
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [SkyDynamic](https://github.com/SkyDynamic)
 - Repository: https://github.com/SkyDynamic/Regamemode_Helper
 - Repository plugin page: https://github.com/SkyDynamic/Regamemode_Helper/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Reproduce camera function of old carpetMod
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3355,21 +4118,27 @@ The first version, not anything to say
 ### Basic Information
 
 - Plugin ID: `region_file_updater`
-- Version: *Data fetching failed*
+- Plugin Name: Region file Updater
+- Version: None
+  - Metadata version: 1.5.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
 - Repository plugin page: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A MCDR plugin to help you update region files in game
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3387,21 +4156,28 @@ The first version, not anything to say
 ### Basic Information
 
 - Plugin ID: `renewability`
-- Version: *Data fetching failed*
+- Plugin Name: Renewability
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fidel Yin](https://github.com/Fidelxyz)
 - Repository: https://github.com/Fidelxyz/MCDR-Renewability
 - Repository plugin page: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin that allows players to clone non-renewable items
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3418,21 +4194,26 @@ Allow players to clone non-renewable items.
 ### Basic Information
 
 - Plugin ID: `run_some_commands`
-- Version: *Data fetching failed*
+- Plugin Name: Run Some Commands
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Repository plugin page: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Let player run whitelisted vanilla command
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3490,21 +4271,27 @@ You don't need to manually specify the seed in the configuration file, the plugi
 ### Basic Information
 
 - Plugin ID: `showshowway`
-- Version: *Data fetching failed*
+- Plugin Name: ShowShowWay
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [WhiteXero](https://github.com/WhiteXero)
 - Repository: https://github.com/WhiteXero/ShowShowWay
 - Repository plugin page: https://github.com/WhiteXero/ShowShowWay/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: 获取玩家的头，或者展示手上的物品
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3522,21 +4309,28 @@ You don't need to manually specify the seed in the configuration file, the plugi
 ### Basic Information
 
 - Plugin ID: `simple_calculator`
-- Version: *Data fetching failed*
+- Plugin Name: Simple in-game calculator
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
 - Repository plugin page: https://github.com/TISUnion/Calculator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A Simple in-game calculator
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [simpleeval](https://pypi.org/project/simpleeval) |  |
 
 ### Introduction
 
@@ -3613,6 +4407,8 @@ You don't need to manually specify the seed in the configuration file, the plugi
 
 | Python package | Requirement |
 | --- | --- |
+| [javaproperties](https://pypi.org/project/javaproperties) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
@@ -3630,21 +4426,29 @@ testing basic server problem.
 ### Basic Information
 
 - Plugin ID: `simple_translator`
-- Version: *Data fetching failed*
+- Plugin Name: SimpleTranslator
+- Version: None
+  - Metadata version: 1.3.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/simple-translator
 - Repository plugin page: https://github.com/skuzow/simple-translator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: In-game translator
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged ](https://pypi.org/project/mcdreforged ) | \>= 2.0.0 |
+| [googletrans ](https://pypi.org/project/googletrans ) | == 4.0.0rc1 |
 
 ### Introduction
 
@@ -3700,21 +4504,30 @@ testing basic server problem.
 ### Basic Information
 
 - Plugin ID: `smart_servertime`
-- Version: *Data fetching failed*
+- Plugin Name: SmartServerTime
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_servertime_mcdr
 - Repository plugin page: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A Minecraft Auto Start/Stop Plugin
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [kpi](/plugins/kpi/readme.md) | \>=1.3.0 |
+| [delayexe](/plugins/delayexe/readme.md) | \>=1.3.0 |
+| [loginproxy](/plugins/loginproxy/readme.md) | \>=0.4.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3822,6 +4635,7 @@ testing basic server problem.
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b7 |
 
 ### Introduction
 
@@ -3863,7 +4677,31 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 ### Introduction
 
-*Data fetching failed*
+## :page_facing_up: Description
+Check the player's IP to prevent impersonation of logging into the <strong><em>offline</em></strong> server<br>
+检测玩家IP以防止冒名登陆<strong><em>离线</em></strong>服务器<br>
+## :telescope: How the plugin work
+This plugin will check player's IP when a player join the server. If the IP is NOT match the record, then kick the player and broadcast in server.<br>
+这个插件会在玩家进入服务器时检查玩家的IP地址，如果与记录不符，则将玩家踢出并全服广播<br>
+## :balloon: Lightweight, plug and play
+Simpler, lightweight, plug and play<br>
+更简单、轻量化，即插即用<br>
+## :exclamation: Warning
+Only matches the IP address received by the server and player name, and the player original IP cannot be obtained for similar proxy connections. More details in README file<br>
+插件只匹配服务器接收到的的IP地址和玩家名，对类似代理的方式连接则没法获取玩家源IP，详见README文件<br>
+## :snake: Commands
+**All the commands need MCDR permissions at least level 2**<br>
+**所有命令都需要MCDR 2级权限**<br>
+
+|command|description|
+|---------|-------|
+|`!!offlineops`|view the commands list  查看命令列表|
+|`!!offlineops` `notOpsPlayerProtect`/ `nopp`|nomal player protect options  非管理员玩家保护开关|
+|`!!offlineops` `protectPlayer`/ `pp`|add protected player  添加受保护的玩家|
+|`!!offlineops` `allPlayerProtect`/ `app`|all players protect options  全体玩家保护开关|
+|`!!offlineops` `multi-ip`|get a chance to append new IP 获得追加新IP的机会|
+|`!!offlineops` `delIP`|delete player's or all the IP record  清除对应或全部玩家的IP记录|
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3876,21 +4714,27 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 ### Basic Information
 
 - Plugin ID: `timed_quick_backup_multi`
-- Version: *Data fetching failed*
+- Plugin Name: Timed QBM
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Repository plugin page: https://github.com/TISUnion/TimedQBM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A Quick-Backup-Multi extension for automatically trigger QBM at given interval
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [quick_backup_multi](/plugins/quick_backup_multi/readme.md) | \>=1.1.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3908,25 +4752,51 @@ Worried about infrequent backups leading to serious progress losses due to the w
 ### Basic Information
 
 - Plugin ID: `todolist`
-- Version: *Data fetching failed*
+- Plugin Name: ToDoList
+- Version: None
+  - Metadata version: 1.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Flash-Z](https://github.com/Flash-Z)
 - Repository: https://github.com/Flash-Z/MCDReforgedPlugins
 - Repository plugin page: https://github.com/Flash-Z/MCDReforgedPlugins/tree/master/ToDoList
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: ToDoList
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
-*Data fetching failed*
+# MCDR-ToDoList
+适用于[MCDR](https://github.com/Fallen-Breath/MCDReforged)的ToDoList插件，可查看项目名称、描述、进度及创建者等
+## 展示:
+![!!td list](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-20.png)
+![!!td tag](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-54.png)
+## 操作:
+| 指令 | 用途 |
+| - | - |
+| !!td | 展示帮助界面 |
+| !!td list | 展示ToDo列表 |
+| !!td add \<name> (\<detail> \<progress>) | 添加项目,后两项为可选参数 |
+| !!td del \<name> | 删除名为\<name>的项目 |
+| !!td reload | 重载配置文件 |
+| !!td tag | 列出所有tag |
+| !!td tag \<tag> | 列出\<tag>下的项目 |
+| !!td tag add \<name> \<tag> | 为\<name>项目添加\<tag> |
+| !!td tag del \<name> \<tag> | 为\<name>项目删除\<tag> |
+注：指令第二项也可只输入首字母，如 !!td list->!!td l
+
+## ToDo:
+1. 分页功能
+2. 更加便捷的tag操作（思路不多）
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3939,21 +4809,28 @@ Worried about infrequent backups leading to serious progress losses due to the w
 ### Basic Information
 
 - Plugin ID: `tpm`
-- Version: *Data fetching failed*
+- Plugin Name: TpManager
+- Version: None
+  - Metadata version: 0.3.4
+  - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
 - Repository plugin page: https://github.com/kmcsr/tpmanager_mcdr/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A Minecraft teleport manager
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.3 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3971,21 +4848,27 @@ Worried about infrequent backups leading to serious progress losses due to the w
 ### Basic Information
 
 - Plugin ID: `uuid_api`
-- Version: *Data fetching failed*
+- Plugin Name: UUIDAPI
+- Version: None
+  - Metadata version: 0.1.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: UUID API
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [requests](https://pypi.org/project/requests) |  |
 
 ### Introduction
 
@@ -4043,7 +4926,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 ### Introduction
 
-*Data fetching failed*
+Send welcome message
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -4056,21 +4939,29 @@ Worried about infrequent backups leading to serious progress losses due to the w
 ### Basic Information
 
 - Plugin ID: `where_is`
-- Version: *Data fetching failed*
+- Plugin Name: Where Is
+- Version: None
+  - Metadata version: 2.1.0+build.8
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Query players' coordinates
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
 
 ### Introduction
 
@@ -4113,7 +5004,41 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 ### Introduction
 
-*Data fetching failed*
+# Whisper
+[中文](./README.md)<br>
+A **[MCDReforged](https://github.com/Fallen-Breath/MCDReforged) plugin**<br>
+More plugins click *[here](https://github.com/MCDReforged/PluginCatalogue)*
+
+[![issue](https://img.shields.io/github/issues/ltBerryshdo/Whisper?color=orange)](https://github.com/ltBerryshdo/Whisper/issues)
+[![Github stars](https://img.shields.io/github/stars/ltBerryshdo/Whisper)]()
+## Description
+Send some private message to others at same time in easier way.<br>
+Use triggers (default<strong>'**'</strong>) to send private messages to everyone the player specifies.
+## How to use
+1. Use `!!whisper <player>` command add player(s) can receive private message
+2. Prepare a writable_book and rename it to "MCDRwhisper" and place it in the hotbar
+3. Write your whispered words in writable_book~, be careful not to break lines
+4. Then enter the default trigger ** in the chat bar
+5. They should be able to hear from you~
+6. Before whispering the next time, remember to empty the contents of the writable_book ~~（I originally wanted to clear it automatically, but I won't use /data command）~~
+7. Just that, you can avoid using commands such as /tell to send messages to different people one by one
+## Attention
+- The message to be sent needs to be written in a writable_book called <strong>"MCDRwhisper"</strong> in the hotbar
+- Make sure there is no <strong>LINE BREAKS</strong> in the message to be sent
+- Before whispering the next time, remember to <strong>EMPTY</strong> the contents of the writable_book
+## Dependencies
+|Plugin ID|Requirement|
+|-------|-------|
+|[minecraft_data_api](https://github.com/MCDReforged/PluginCatalogue/blob/catalogue/plugins/minecraft_data_api/readme.md)|*|
+## Command
+|command|description|
+|---------|-------|
+|`!!whisper`|Display this message|
+|`!!whisper` `<player>`|Add target players to receive private message(Multiple parameters are acceptable)|
+|`!!whisper` `list`|Display all the player in the list|
+|`!!whisper` `clear`|Delete the list|
+|`!!whisper` `delmum` `<player>`|Delete player(Multiple parameters are acceptable)|
+|`!!whisper` `cp` `<name>`|Copy someone's contacts|
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -4126,21 +5051,28 @@ Worried about infrequent backups leading to serious progress losses due to the w
 ### Basic Information
 
 - Plugin ID: `wiki_request`
-- Version: *Data fetching failed*
+- Plugin Name: Wiki Request
+- Version: None
+  - Metadata version: 3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Repository plugin page: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to look up any MediaWiki
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [requests](https://pypi.org/project/requests) | \>=2.26.0 |
 
 ### Introduction
 
@@ -4158,25 +5090,31 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 ### Basic Information
 
 - Plugin ID: `world_copier`
-- Version: *Data fetching failed*
+- Plugin Name: World Copier
+- Version: None
+  - Metadata version: 0.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/WorldCopier
 - Repository plugin page: https://github.com/MCDReforged/WorldCopier/tree/main/src
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: Sync your mirror server with main server.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
-*Data fetching failed*
+🔄 Sync mirror server with main server.
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

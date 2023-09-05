@@ -7,21 +7,27 @@
 ### 基本信息
 
 - 插件 ID: `uuid_api`
-- 版本: *数据拉取失败*
+- 插件名: UUIDAPI
+- 版本: None
+  - 元数据版本: 0.1.2
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: UUID API
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [requests](https://pypi.org/project/requests) |  |
 
 ### 介绍
 

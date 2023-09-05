@@ -7,21 +7,32 @@
 ### Basic Information
 
 - Plugin ID: `pcrc`
-- Version: *Data fetching failed*
+- Plugin Name: PCRC
+- Version: None
+  - Metadata version: 1.4.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
 - Repository plugin page: https://github.com/Fallen-Breath/PCRC/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: PyCraft based Replay Client
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [cryptography](https://pypi.org/project/cryptography) |  |
+| [requests](https://pypi.org/project/requests) |  |
+| [pynbt](https://pypi.org/project/pynbt) |  |
+| [redbaron](https://pypi.org/project/redbaron) |  |
+| [colorlog](https://pypi.org/project/colorlog) |  |
+| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
 
 ### Introduction
 

@@ -7,21 +7,26 @@
 ### Basic Information
 
 - Plugin ID: `fbs_plugin`
-- Version: *Data fetching failed*
+- Plugin Name: FastBotSpawn
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [WalkerTian](https://github.com/Walkersifolia)
 - Repository: https://github.com/Walkersifolia/FastBotSpawn
 - Repository plugin page: https://github.com/Walkersifolia/FastBotSpawn/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin with multiple functions
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

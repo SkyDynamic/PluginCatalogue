@@ -7,25 +7,34 @@
 ### Basic Information
 
 - Plugin ID: `bot_plugin`
-- Version: *Data fetching failed*
+- Plugin Name: Bot Plugin
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
 - Repository plugin page: https://github.com/DancingSnow0517/Bot_Manager/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: 管理 carpet 机器人
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.3.0 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
-*Data fetching failed*
+# A MCDR bot manager。
+
+:warning: **Read README in repository before use!**
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

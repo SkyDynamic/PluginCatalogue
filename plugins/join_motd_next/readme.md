@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `join_motd_next`
-- Version: *Data fetching failed*
+- Plugin Name: join MOTD next
+- Version: None
+  - Metadata version: 0.2.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [JOZA_ORANGE](https://github.com/JOZA-ORANGE)
 - Repository: https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext
 - Repository plugin page: https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Send more diverse information to players when they join the game
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [daycount_nbt](/plugins/daycount_nbt/readme.md) | \>=2.2.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

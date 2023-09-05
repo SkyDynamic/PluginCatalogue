@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `carpetbotlist`
-- Version: *Data fetching failed*
+- Plugin Name: CarpetBotList
+- Version: None
+  - Metadata version: 2.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
 - Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Help you manage your carpet fake player
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

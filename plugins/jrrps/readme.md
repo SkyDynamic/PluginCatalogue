@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `jrrps`
-- Version: *Data fetching failed*
+- Plugin Name: Jrrps Plg
+- Version: None
+  - Metadata version: 2.3.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [SkyDynamic](https://github.com/SkyDynamic)
 - Repository: https://github.com/SkyDynamic/jrrps
 - Repository plugin page: https://github.com/SkyDynamic/jrrps/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Test today's luck
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [apscheduler](/plugins/apscheduler/readme.md) | \>=3.9.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

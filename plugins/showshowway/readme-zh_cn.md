@@ -7,21 +7,27 @@
 ### 基本信息
 
 - 插件 ID: `showshowway`
-- 版本: *数据拉取失败*
+- 插件名: ShowShowWay
+- 版本: None
+  - 元数据版本: 1.1.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [WhiteXero](https://github.com/WhiteXero)
 - 仓库: https://github.com/WhiteXero/ShowShowWay
 - 仓库插件页: https://github.com/WhiteXero/ShowShowWay/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 获取玩家的头，或者展示手上的物品
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 

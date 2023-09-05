@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `mirror_control`
-- Version: *Data fetching failed*
+- Plugin Name: Mirror Control
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [Chara_SS](https://github.com/charassss/)
 - Repository: https://github.com/charassss/Mirror-Control
 - Repository plugin page: https://github.com/charassss/Mirror-Control/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to control mirror server
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.6.0 |
 
 ### Introduction
 

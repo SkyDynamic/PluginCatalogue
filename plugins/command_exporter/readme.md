@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `command_exporter`
-- Version: *Data fetching failed*
+- Plugin Name: MCDR Command Exporter
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [DancingSnow](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/MCDR-Command-Exporter
 - Repository plugin page: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin is used to export the MCDR command tree
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.7.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

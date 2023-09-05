@@ -7,21 +7,29 @@
 ### Basic Information
 
 - Plugin ID: `simple_translator`
-- Version: *Data fetching failed*
+- Plugin Name: SimpleTranslator
+- Version: None
+  - Metadata version: 1.3.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/simple-translator
 - Repository plugin page: https://github.com/skuzow/simple-translator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: In-game translator
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged ](https://pypi.org/project/mcdreforged ) | \>= 2.0.0 |
+| [googletrans ](https://pypi.org/project/googletrans ) | == 4.0.0rc1 |
 
 ### Introduction
 

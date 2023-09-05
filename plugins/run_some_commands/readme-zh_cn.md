@@ -7,21 +7,26 @@
 ### 基本信息
 
 - 插件 ID: `run_some_commands`
-- 版本: *数据拉取失败*
+- 插件名: Run Some Commands
+- 版本: None
+  - 元数据版本: 1.0.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [FlyingShuriken](https://github.com/FlyingShuriken)
 - 仓库: https://github.com/FlyingShuriken/MCDR-plugins
 - 仓库插件页: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 讓普通玩家執行已被加入白名單的原版指令
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 

@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `player_last_play`
-- Version: *Data fetching failed*
+- Plugin Name: PlayerLastPlay
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/Aimerny/playerLastPlay
 - Repository plugin page: https://github.com/Aimerny/playerLastPlay/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Record player lastime left the server
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [online_player_api](/plugins/online_player_api/readme.md) | ^1.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

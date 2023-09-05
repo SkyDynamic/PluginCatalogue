@@ -29,6 +29,7 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.4 |
 
 ### 介绍
 

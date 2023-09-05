@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `uuid_api`
-- Version: *Data fetching failed*
+- Plugin Name: UUIDAPI
+- Version: None
+  - Metadata version: 0.1.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: UUID API
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [requests](https://pypi.org/project/requests) |  |
 
 ### Introduction
 

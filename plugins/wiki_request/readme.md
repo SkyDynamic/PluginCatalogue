@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `wiki_request`
-- Version: *Data fetching failed*
+- Plugin Name: Wiki Request
+- Version: None
+  - Metadata version: 3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Repository plugin page: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to look up any MediaWiki
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [requests](https://pypi.org/project/requests) | \>=2.26.0 |
 
 ### Introduction
 

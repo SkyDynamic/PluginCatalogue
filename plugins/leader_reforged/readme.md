@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `leader_reforged`
-- Version: *Data fetching failed*
+- Plugin Name: Leader Reforged
+- Version: None
+  - Metadata version: 1.1.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
 - Repository plugin page: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: This is a simplified and reforged version for Leader, allowing to mark a leader.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

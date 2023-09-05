@@ -27,6 +27,7 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) | ~=0.17 |
 
 ### 介绍
 

@@ -28,10 +28,12 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 
-*数据拉取失败*
+基于minecraft的白名单功能
+
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。

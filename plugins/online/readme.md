@@ -7,21 +7,30 @@
 ### Basic Information
 
 - Plugin ID: `online`
-- Version: *Data fetching failed*
+- Plugin Name: Online
+- Version: None
+  - Metadata version: 1.4.1-alpha1
+  - Release version: None
 - Total downloads: 0
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
 - Repository plugin page: https://github.com/FAS-Server/Online/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Display the online players for Group server, with click event to quickly join every sub-server.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+| [multi_rcon_api](/plugins/multi_rcon_api/readme.md) | \>=1.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### Introduction
 

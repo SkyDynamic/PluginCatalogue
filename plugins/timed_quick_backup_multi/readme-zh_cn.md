@@ -7,21 +7,27 @@
 ### 基本信息
 
 - 插件 ID: `timed_quick_backup_multi`
-- 版本: *数据拉取失败*
+- 插件名: Timed QBM
+- 版本: None
+  - 元数据版本: 1.3.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 仓库插件页: https://github.com/TISUnion/TimedQBM/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [quick_backup_multi](/plugins/quick_backup_multi/readme-zh_cn.md) | \>=1.1.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 

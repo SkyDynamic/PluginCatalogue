@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `simple_calculator`
-- Version: *Data fetching failed*
+- Plugin Name: Simple in-game calculator
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
 - Repository plugin page: https://github.com/TISUnion/Calculator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A Simple in-game calculator
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [simpleeval](https://pypi.org/project/simpleeval) |  |
 
 ### Introduction
 

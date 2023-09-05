@@ -28,10 +28,12 @@
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
-*Data fetching failed*
+A whitelist plugin with multiple server
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

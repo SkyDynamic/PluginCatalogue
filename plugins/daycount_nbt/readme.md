@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `daycount_nbt`
-- Version: *Data fetching failed*
+- Plugin Name: DayCount NBT
+- Version: None
+  - Metadata version: 2.2.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
 - Repository plugin page: https://github.com/alex3236/daycount-NBT/tree/main/src
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: :calendar: Get and export server opening times.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

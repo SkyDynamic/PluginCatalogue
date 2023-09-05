@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `tpm`
-- Version: *Data fetching failed*
+- Plugin Name: TpManager
+- Version: None
+  - Metadata version: 0.3.4
+  - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
 - Repository plugin page: https://github.com/kmcsr/tpmanager_mcdr/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A Minecraft teleport manager
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.3 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

@@ -7,21 +7,28 @@
 ### 基本信息
 
 - 插件 ID: `renewability`
-- 版本: *数据拉取失败*
+- 插件名: Renewability
+- 版本: None
+  - 元数据版本: 1.1.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Fidel Yin](https://github.com/Fidelxyz)
 - 仓库: https://github.com/Fidelxyz/MCDR-Renewability
 - 仓库插件页: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: A plugin that allows players to clone non-renewable items
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
