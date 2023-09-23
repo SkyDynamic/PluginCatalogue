@@ -9,7 +9,7 @@
 - 插件 ID: `fbs_plugin`
 - 插件名: FastBotSpawn
 - 版本: None
-  - 元数据版本: 1.1.0
+  - 元数据版本: 1.1.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [WalkerTian](https://github.com/Walkersifolia)

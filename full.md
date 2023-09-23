@@ -1602,7 +1602,7 @@ Make file transfers faster!
 - Plugin ID: `fbs_plugin`
 - Plugin Name: FastBotSpawn
 - Version: None
-  - Metadata version: 1.1.0
+  - Metadata version: 1.1.1
   - Release version: None
 - Total downloads: 0
 - Authors: [WalkerTian](https://github.com/Walkersifolia)
