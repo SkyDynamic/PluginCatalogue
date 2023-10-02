@@ -23,7 +23,6 @@
 | Plugin ID | Requirement |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.6.0 |
-| [dict_command_registration](/plugins/dict_command_registration/readme.md) | ^1.0.0 |
 | [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | ^1.4 |
 | [more_command_nodes](/plugins/more_command_nodes/readme.md) | ^1.1.0 |
 
