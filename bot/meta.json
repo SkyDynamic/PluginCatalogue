@@ -10,7 +10,6 @@
   ],
   "dependencies": {
     "mcdreforged": "^2.6.0",
-    "dict_command_registration": "^1.0.0",
     "minecraft_data_api": "^1.4",
     "more_command_nodes": "^1.1.0"
   },
