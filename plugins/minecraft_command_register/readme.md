@@ -9,7 +9,7 @@
 - Plugin ID: `minecraft_command_register`
 - Plugin Name: Minecraft Command Register
 - Version: None
-  - Metadata version: 1.5.1
+  - Metadata version: 1.6.0
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
@@ -22,7 +22,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.10.1 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.11.0 |
 
 ### Requirements
 
@@ -43,22 +43,23 @@
 
 对于特定的 MCDR 版本，您应当使用对应的本插件版本
 
-| MCDR 版本 | 插件版本 |
-| - | - |
-| 2.6.0  | 1.2.0 |
-| 2.6.1  | 1.2.1 |
-| 2.7.0  | 1.2.2 |
-| 2.7.1  | 1.2.3 |
-| 2.7.2  | 1.2.4 |
-| 2.8.0  | None  |
-| 2.8.1  | 1.3.0 |
-| 2.8.2  | 1.3.1 |
-| 2.8.3  | 1.3.2 |
-| 2.8.4  | None  |
-| 2.9.0  | 1.4.0 |
-| 2.9.1  | 1.4.1 |
-| 2.10.0 | 1.5.0 |
-| 2.10.1 | 1.5.1 |
+| MCDR 版本 | 插件版本  |
+|---------|-------|
+| 2.6.0   | 1.2.0 |
+| 2.6.1   | 1.2.1 |
+| 2.7.0   | 1.2.2 |
+| 2.7.1   | 1.2.3 |
+| 2.7.2   | 1.2.4 |
+| 2.8.0   | None  |
+| 2.8.1   | 1.3.0 |
+| 2.8.2   | 1.3.1 |
+| 2.8.3   | 1.3.2 |
+| 2.8.4   | None  |
+| 2.9.0   | 1.4.0 |
+| 2.9.1   | 1.4.1 |
+| 2.10.0  | 1.5.0 |
+| 2.10.1  | 1.5.1 |
+| 2.11.0  | 1.6.0 |
 
 ## 安装指南
 
