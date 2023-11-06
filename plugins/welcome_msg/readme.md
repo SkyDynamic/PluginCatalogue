@@ -9,7 +9,7 @@
 - Plugin ID: `welcome_msg`
 - Plugin Name: welcome_msg
 - Version: None
-  - Metadata version: 1.1.0
+  - Metadata version: 1.2.0
   - Release version: None
 - Total downloads: 0
 - Authors: [JAs0n](https://github.com/JAs0n319)

@@ -9,7 +9,7 @@
 - 插件 ID: `welcome_msg`
 - 插件名: welcome_msg
 - 版本: None
-  - 元数据版本: 1.1.0
+  - 元数据版本: 1.2.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [JAs0n](https://github.com/JAs0n319)
