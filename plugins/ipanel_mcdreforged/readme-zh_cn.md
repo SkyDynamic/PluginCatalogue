@@ -9,14 +9,14 @@
 - 插件 ID: `ipanel_mcdreforged`
 - 插件名: iPanel-MCDReforged
 - 版本: None
-  - 元数据版本: 2.1.7.29
+  - 元数据版本: 2.3.0.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Zaitonn](https://github.com/Zaitonn)
 - 仓库: https://github.com/iPanelDev/iPanel-MCDReforged
 - 仓库插件页: https://github.com/iPanelDev/iPanel-MCDReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 适用于MCDReforged的iPanel实例插件，搭配iPanel Host使用可为用户提供网页版控制台
+- 描述: 适用于MCDReforged的iPanel实例插件，搭配iPanel使用可为用户提供网页版控制台
 
 ### 插件依赖
 

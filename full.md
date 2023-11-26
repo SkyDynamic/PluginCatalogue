@@ -1906,14 +1906,14 @@ Pursuing full automation in server management and maintenance!
 - Plugin ID: `ipanel_mcdreforged`
 - Plugin Name: iPanel-MCDReforged
 - Version: None
-  - Metadata version: 2.1.7.29
+  - Metadata version: 2.3.0.0
   - Release version: None
 - Total downloads: 0
 - Authors: [Zaitonn](https://github.com/Zaitonn)
 - Repository: https://github.com/iPanelDev/iPanel-MCDReforged
 - Repository plugin page: https://github.com/iPanelDev/iPanel-MCDReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: An iPanel instance plugin for MCDReforged that works with iPanel Host to provide users with a web-based console.
+- Description: An iPanel instance plugin for MCDReforged that works with iPanel to provide users with a web-based console.
 
 ### Dependencies
 

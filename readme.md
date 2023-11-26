@@ -51,7 +51,7 @@ Plugin Amount: 101
 | [HibernateR](/plugins/hibernate_r/readme.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | N/A | [`Management`](/labels/management/readme.md) |
 | [hooks](/plugins/hooks/readme.md) | [OptiJava](https://github.com/OptiJava) | Allow MCDR to trigger custom scripts under specific conditions. | N/A | [`Management`](/labels/management/readme.md) |
 | [Info](/plugins/info/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Get server info | N/A | [`Information`](/labels/information/readme.md) |
-| [iPanel-MCDReforged](/plugins/ipanel_mcdreforged/readme.md) | [Zaitonn](https://github.com/Zaitonn) | An iPanel instance plugin for MCDReforged that works with iPanel Host to provide users with a web-based console. | N/A | [`Management`](/labels/management/readme.md) |
+| [iPanel-MCDReforged](/plugins/ipanel_mcdreforged/readme.md) | [Zaitonn](https://github.com/Zaitonn) | An iPanel instance plugin for MCDReforged that works with iPanel to provide users with a web-based console. | N/A | [`Management`](/labels/management/readme.md) |
 | [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | N/A | [`Information`](/labels/information/readme.md) |
 | [join MOTD next](/plugins/join_motd_next/readme.md) | [JOZA_ORANGE](https://github.com/JOZA-ORANGE) | Send more diverse information to players when they join the game | N/A | [`Information`](/labels/information/readme.md) |
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | N/A | [`Tool`](/labels/tool/readme.md) |
