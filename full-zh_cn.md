@@ -2341,7 +2341,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 插件 ID: `loginproxy`
 - 插件名: LoginProxy
 - 版本: None
-  - 元数据版本: 0.6.2
+  - 元数据版本: 0.6.3
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
