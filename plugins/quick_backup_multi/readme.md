@@ -9,7 +9,7 @@
 - Plugin ID: `quick_backup_multi`
 - Plugin Name: Quick Backup Multi
 - Version: None
-  - Metadata version: 1.9.0
+  - Metadata version: 1.10.0
   - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
