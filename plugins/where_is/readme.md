@@ -9,7 +9,7 @@
 - Plugin ID: `where_is`
 - Plugin Name: Where Is
 - Version: None
-  - Metadata version: 2.1.0+build.8
+  - Metadata version: 2.1.1+build.9
   - Release version: None
 - Total downloads: 0
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)

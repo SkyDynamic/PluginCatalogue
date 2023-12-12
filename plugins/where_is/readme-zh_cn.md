@@ -9,7 +9,7 @@
 - 插件 ID: `where_is`
 - 插件名: Where Is
 - 版本: None
-  - 元数据版本: 2.1.0+build.8
+  - 元数据版本: 2.1.1+build.9
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
