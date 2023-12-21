@@ -2242,9 +2242,9 @@ Params:
 
 # Let Me Click and Send
 
-允许在 1.19 点击发送任意信息
+帮助服主告知玩家如何允许在 1.19 后点击发送任意信息
 
-Allowed click to send anything in 1.19
+Help server owners tell players how to allow click to send anything after 1.19
 
 See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)
 
@@ -2660,7 +2660,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 插件 ID: `minecraft_command_register`
 - 插件名: Minecraft Command Register
 - 版本: None
-  - 元数据版本: 1.7.1
+  - 元数据版本: 1.7.3
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
@@ -2673,7 +2673,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.12.1 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.12.3 |
 
 ### 包依赖
 
@@ -2713,6 +2713,8 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 | 2.11.0  | 1.6.0 |
 | 2.12.0  | 1.7.0 |
 | 2.12.1  | 1.7.1 |
+| 2.12.2  | 1.7.2 |
+| 2.12.3  | 1.7.3 |
 
 ## 安装指南
 

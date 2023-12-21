@@ -2237,9 +2237,9 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 
 # Let Me Click and Send
 
-允许在 1.19 点击发送任意信息
+帮助服主告知玩家如何允许在 1.19 后点击发送任意信息
 
-Allowed click to send anything in 1.19
+Help server owners tell players how to allow click to send anything after 1.19
 
 See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)
 
@@ -2654,7 +2654,7 @@ A MCDR plugin for post/teleport items
 - Plugin ID: `minecraft_command_register`
 - Plugin Name: Minecraft Command Register
 - Version: None
-  - Metadata version: 1.7.1
+  - Metadata version: 1.7.3
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
@@ -2667,7 +2667,7 @@ A MCDR plugin for post/teleport items
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.12.1 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.12.3 |
 
 ### Requirements
 
@@ -2707,6 +2707,8 @@ A MCDR plugin for post/teleport items
 | 2.11.0  | 1.6.0 |
 | 2.12.0  | 1.7.0 |
 | 2.12.1  | 1.7.1 |
+| 2.12.2  | 1.7.2 |
+| 2.12.3  | 1.7.3 |
 
 ## 安装指南
 

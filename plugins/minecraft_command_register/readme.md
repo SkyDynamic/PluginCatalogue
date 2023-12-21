@@ -9,7 +9,7 @@
 - Plugin ID: `minecraft_command_register`
 - Plugin Name: Minecraft Command Register
 - Version: None
-  - Metadata version: 1.7.1
+  - Metadata version: 1.7.3
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
@@ -22,7 +22,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.12.1 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.12.3 |
 
 ### Requirements
 
@@ -62,6 +62,8 @@
 | 2.11.0  | 1.6.0 |
 | 2.12.0  | 1.7.0 |
 | 2.12.1  | 1.7.1 |
+| 2.12.2  | 1.7.2 |
+| 2.12.3  | 1.7.3 |
 
 ## 安装指南
 
