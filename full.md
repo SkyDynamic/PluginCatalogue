@@ -3240,7 +3240,6 @@ classDiagram
 
 | Python package | Requirement |
 | --- | --- |
-| [pyyaml](https://pypi.org/project/pyyaml) |  |
 | [jproperties](https://pypi.org/project/jproperties) |  |
 | [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 

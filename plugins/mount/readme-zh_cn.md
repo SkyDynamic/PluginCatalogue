@@ -28,7 +28,6 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [pyyaml](https://pypi.org/project/pyyaml) |  |
 | [jproperties](https://pypi.org/project/jproperties) |  |
 | [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
