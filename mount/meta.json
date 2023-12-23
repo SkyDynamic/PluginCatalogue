@@ -2,14 +2,14 @@
   "schema_version": 3,
   "id": "mount",
   "name": "Mount",
-  "version": "0.3.0-beta1",
+  "version": "0.3.0",
   "repository": "https://github.com/FAS-Server/Mount",
   "link": "https://github.com/FAS-Server/Mount",
   "authors": [
     "YehowahLiu"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.0.0"
+    "mcdreforged": ">=2.7.0"
   },
   "requirements": [
     "pyyaml",
