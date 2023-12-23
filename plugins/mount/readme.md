@@ -9,7 +9,7 @@
 - Plugin ID: `mount`
 - Plugin Name: Mount
 - Version: None
-  - Metadata version: 0.3.0-beta1
+  - Metadata version: 0.3.0
   - Release version: None
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
@@ -22,7 +22,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.7.0 |
 
 ### Requirements
 

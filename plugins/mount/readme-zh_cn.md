@@ -9,7 +9,7 @@
 - 插件 ID: `mount`
 - 插件名: Mount
 - 版本: None
-  - 元数据版本: 0.3.0-beta1
+  - 元数据版本: 0.3.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
@@ -22,7 +22,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.7.0 |
 
 ### 包依赖
 
