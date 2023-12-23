@@ -12,7 +12,6 @@
     "mcdreforged": ">=2.7.0"
   },
   "requirements": [
-    "pyyaml",
     "jproperties",
     "mcdreforged"
   ],
