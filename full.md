@@ -302,7 +302,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Plugin ID: `bot`
 - Plugin Name: Bot
 - Version: None
-  - Metadata version: 1.1.0
+  - Metadata version: 1.1.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)

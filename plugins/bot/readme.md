@@ -9,7 +9,7 @@
 - Plugin ID: `bot`
 - Plugin Name: Bot
 - Version: None
-  - Metadata version: 1.1.0
+  - Metadata version: 1.1.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
