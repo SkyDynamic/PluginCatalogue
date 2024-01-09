@@ -26,7 +26,7 @@
 | [MirrorServerReforged](/plugins/mirror_server_reforged/readme-zh_cn.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Server Sync](/plugins/mirror_server_sync/readme-zh_cn.md) | [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile) | 一个简单的MCDR插件，用于同步Minecraft地图文件 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Sync Reforged](/plugins/mirror_sync_reforged/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于同步生存服存档至镜像服的插件 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
-| [Mount](/plugins/mount/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置! | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/mount/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | *数据拉取失败* | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 基于minecraft的白名单功能。 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [OfflineWhitelist](/plugins/offline_whitelist/readme-zh_cn.md) | [skuzow](https://github.com/skuzow) | Offline whitelist helper | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [OfflineWhitelistReforged](/plugins/offline_whitelist_reforged/readme-zh_cn.md) | [Aimerny](https://github.com/Aimerny) | 离线服的白名单管理插件 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |

@@ -78,7 +78,7 @@ Plugin Amount: 101
 | [Mirror Server Sync](/plugins/mirror_server_sync/readme.md) | [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile) | A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers | N/A | [`Management`](/labels/management/readme.md) |
 | [Mirror Sync Reforged](/plugins/mirror_sync_reforged/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A plugin to sync survival server world to the mirror server | N/A | [`Management`](/labels/management/readme.md) |
 | [MoreCommandNodes](/plugins/more_command_nodes/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | More command nodes | N/A | [`API`](/labels/api/readme.md) |
-| [Mount](/plugins/mount/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | Mount different minecraft server into a mcdr server, with overwritten properties! | N/A | [`Management`](/labels/management/readme.md) |
+| [*Data fetching failed*](/plugins/mount/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | *Data fetching failed* | N/A | [`Management`](/labels/management/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | N/A | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin can control whitelist with multi servers. | N/A | [`Management`](/labels/management/readme.md) |
 | [OfflineWhitelist](/plugins/offline_whitelist/readme.md) | [skuzow](https://github.com/skuzow) | Offline whitelist helper | N/A | [`Management`](/labels/management/readme.md) |

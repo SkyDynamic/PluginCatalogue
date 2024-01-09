@@ -3225,29 +3225,21 @@ classDiagram
 ### Basic Information
 
 - Plugin ID: `mount`
-- Plugin Name: Mount
-- Version: None
-  - Metadata version: 0.3.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Mount
 - Repository plugin page: https://github.com/FAS-Server/Mount/tree/main
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: Mount different minecraft server into a mcdr server, with overwritten properties!
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.7.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [jproperties](https://pypi.org/project/jproperties) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+*Data fetching failed*
 
 ### Introduction
 
