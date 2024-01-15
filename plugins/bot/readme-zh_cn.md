@@ -9,7 +9,7 @@
 - 插件 ID: `bot`
 - 插件名: Bot
 - 版本: None
-  - 元数据版本: 1.1.1
+  - 元数据版本: 1.1.2
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
