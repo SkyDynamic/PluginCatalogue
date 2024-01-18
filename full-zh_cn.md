@@ -3299,7 +3299,7 @@ classDiagram
 - 插件 ID: `mount`
 - 插件名: Mount
 - 版本: None
-  - 元数据版本: 0.3.0
+  - 元数据版本: 0.3.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
