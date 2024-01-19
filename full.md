@@ -1831,7 +1831,7 @@ Make file transfers faster!
 - Plugin ID: `hibernate_r`
 - Plugin Name: HibernateR
 - Version: None
-  - Metadata version: 1.0.0
+  - Metadata version: 1.1.0
   - Release version: None
 - Total downloads: 0
 - Authors: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
