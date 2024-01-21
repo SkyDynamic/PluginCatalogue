@@ -1,10 +1,10 @@
 {
   "schema_version": 3,
   "id": "showshowway",
-  "name": "ShowShowWay",
-  "version": "1.1.0",
+  "name": "ShowIt",
+  "version": "1.2.0",
   "repository": "https://github.com/WhiteXero/ShowShowWay",
-  "link": "https://github.com/WhiteXero/ShowShowWay",
+  "link": "https://github.com/WhiteXero/ShowIt",
   "authors": [
     "WhiteXero"
   ],
