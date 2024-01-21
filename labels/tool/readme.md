@@ -47,7 +47,7 @@ Plugin Amount: 45
 | [Regamemode-Helper](/plugins/regamemode_helper/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Reproduce camera function of old carpetMod | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Renewability](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | N/A | [`Tool`](/labels/tool/readme.md) |
-| [ShowShowWay](/plugins/showshowway/readme.md) | [WhiteXero](https://github.com/WhiteXero) | 获取玩家的头，或者展示手上的物品 | N/A | [`Tool`](/labels/tool/readme.md) |
+| [ShowIt](/plugins/showshowway/readme.md) | [WhiteXero](https://github.com/WhiteXero) | 获取玩家的头，或者展示手上的物品 | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Simple OP](/plugins/simple_op/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op to get op, !!restart to restart the server | N/A | [`Tool`](/labels/tool/readme.md) |
 | [SimpleTranslator](/plugins/simple_translator/readme.md) | [skuzow](https://github.com/skuzow) | In-game translator | N/A | [`Tool`](/labels/tool/readme.md) |

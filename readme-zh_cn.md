@@ -99,7 +99,7 @@
 | [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme-zh_cn.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | 讓普通玩家執行已被加入白名單的原版指令 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Seed](/plugins/seed/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 在没有op权限的情况下获取种子 | N/A | [`信息`](/labels/information/readme-zh_cn.md) |
-| [ShowShowWay](/plugins/showshowway/readme-zh_cn.md) | [WhiteXero](https://github.com/WhiteXero) | 获取玩家的头，或者展示手上的物品 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [ShowIt](/plugins/showshowway/readme-zh_cn.md) | [WhiteXero](https://github.com/WhiteXero) | 获取玩家的头，或者展示手上的物品 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个简单的游戏内计算器 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple OP](/plugins/simple_op/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op 以获取op, !!restart 以重启服务器 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [simple_test](/plugins/simple_test/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器基础自检插件。 | N/A | [`信息`](/labels/information/readme-zh_cn.md) |

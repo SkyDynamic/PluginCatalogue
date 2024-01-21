@@ -7,9 +7,9 @@
 ### Basic Information
 
 - Plugin ID: `showshowway`
-- Plugin Name: ShowShowWay
+- Plugin Name: ShowIt
 - Version: None
-  - Metadata version: 1.1.0
+  - Metadata version: 1.2.0
   - Release version: None
 - Total downloads: 0
 - Authors: [WhiteXero](https://github.com/WhiteXero)

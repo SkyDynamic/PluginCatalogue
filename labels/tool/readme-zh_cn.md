@@ -47,7 +47,7 @@
 | [Regamemode-Helper](/plugins/regamemode_helper/readme-zh_cn.md) | [SkyDynamic](https://github.com/SkyDynamic) | 使用MCDR实现旧Carpet的/c/s功能 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme-zh_cn.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | 讓普通玩家執行已被加入白名單的原版指令 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [ShowShowWay](/plugins/showshowway/readme-zh_cn.md) | [WhiteXero](https://github.com/WhiteXero) | 获取玩家的头，或者展示手上的物品 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [ShowIt](/plugins/showshowway/readme-zh_cn.md) | [WhiteXero](https://github.com/WhiteXero) | 获取玩家的头，或者展示手上的物品 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个简单的游戏内计算器 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple OP](/plugins/simple_op/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op 以获取op, !!restart 以重启服务器 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [SimpleTranslator](/plugins/simple_translator/readme-zh_cn.md) | [skuzow](https://github.com/skuzow) | In-game translator | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
