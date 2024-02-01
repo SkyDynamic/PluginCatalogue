@@ -9,7 +9,7 @@
 - Plugin ID: `loginproxy`
 - Plugin Name: LoginProxy
 - Version: None
-  - Metadata version: 0.6.4
+  - Metadata version: 0.6.5
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
