@@ -7,63 +7,25 @@
 ### Basic Information
 
 - Plugin ID: `info`
-- Plugin Name: Info
-- Version: None
-  - Metadata version: 0.2.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: Get server info
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [psutil](https://pypi.org/project/psutil) |  |
-| [py-cpuinfo](https://pypi.org/project/py-cpuinfo) |  |
+*Data fetching failed*
 
 ### Introduction
 
-# Info
-
-获取服务器信息
-
-## 支持功能
-
-- 系统版本
-- Python版本
-- CPU利用率
-- 内存使用量
-- 存档大小
-
-需要显示更多内容发 Issue
-
-## 使用
-
-使用 `!!info` 获取
-
-## 配置
-
-### world_names
-
-参与存档大小计算的文件夹名
-
-默认值:
-
-```json
-[
-    "world"
-]
-```
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

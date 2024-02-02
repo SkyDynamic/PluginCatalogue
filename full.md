@@ -11,45 +11,25 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 ### Basic Information
 
 - Plugin ID: `advanced_calculator`
-- Plugin Name: AdvancedCalculator
-- Version: None
-  - Metadata version: 0.3.1
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Provides multiple convenient in-game calculations
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# AdvancedCalculator
-
-> 提供游戏内多种便捷计算
-
-## 使用
-
-您可以使用 `=<expression>` 直接计算表达式，或使用 `==<count/expression>` 将物品数转换堆叠数。
-
-| 指令 | 用途 | 示例 | 结果 |
-| - | - | - | - |
-| !!calc \<expression> | 计算表达式 | !!calc 1+1 | 1+1=2 |
-| !!calc item \<count/expression> | 物品数转换堆叠数 | !!calc item 1794 | 1794个物品为1盒2组3个 |
-| !!calc item \<box> \<stack> \<single> | 堆叠数转换物品数 | !!calc item 1 10 32 | 1盒10组32个为2400个物品 |
-| !!calc color \<red> \<green> \<blue> | 10进制RGB转16进制 | !!calc color 255 0 255 | (255, 0, 255) -> #FF00FF |
-| !!calc color \<#HEX> | 16十进制RGB转10进制 | !!calc color #00FF00 | #00FF00 -> (0, 255, 0) |
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -254,40 +234,25 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 ### Basic Information
 
 - Plugin ID: `bingo`
-- Plugin Name: Bingo
-- Version: None
-  - Metadata version: 0.0.3
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Useful tool for Bingo game
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Bingo
-
-> [Bingo](https://www.flytre.net/bingo) 游戏实用工具
-
-## 使用
-
-| 指令 | 用途 |
-| - | - |
-| !!bingo team \<num> | 随机分组 |
-| !!bingo end | 结束游戏 |
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -300,254 +265,25 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 ### Basic Information
 
 - Plugin ID: `bot`
-- Plugin Name: Bot
-- Version: None
-  - Metadata version: 1.1.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
-- Description: The best carpet bot manager!
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.6.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | ^1.4 |
-| [more_command_nodes](/plugins/more_command_nodes/readme.md) | ^1.1.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Bot
-
-[简体中文](https://github.com/AnzhiZhang/MCDReforgedPlugins/blob/master/bot/readme_cn.md)
-
-> The best carpet bot manager!
-
-## Dependencies
-
-- [MinecraftDataAPI](https://github.com/MCDReforged/MinecraftDataAPI)
-- [MoreCommandNodes](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes)
-
-## Usage
-
-`!!bot` View help
-
-`!!bot list [index] [filter]` Show bot list
-
-`!!bot spawn <name>` Spawn bot
-
-`!!bot kill <name>` Kill bot
-
-`!!bot action <name> [index]` Execute bot action(s)
-
-`!!bot tags` View available tags
-
-`!!bot tags <tag> spawn/kill` Spawn/kill bot(s) with tag
-
-`!!bot info <name>` View bot info
-
-`!!bot save <name> [position] [facing] [dimension]` Save bot
-
-`!!bot del <name>` Delete saved bot
-
-`!!bot config <name> <option> <value>` Config bot
-
-### Workflow
-
-```mermaid
-sequenceDiagram
-    participant Player/Console
-    participant Online Bots
-    participant Saved Bots
-
-    Player/Console-->>Online Bots: !!bot spawn (player)
-    Saved Bots-->>Online Bots: !!bot spawn
-    Online Bots-->>Online Bots: !!bot kill
-    Online Bots-->>Saved Bots: !!bot save
-    Player/Console-->>Saved Bots: !!bot save [location]
-    Saved Bots-->>Saved Bots: !!bot del
-```
-
-### list
-
-**index**: Page number of the list
-
-**filter**: Available options are: `--all`, `--online` or `--saved`, filter bots
-
-### spawn
-
-Spawn bot
-
-```mermaid
-flowchart TD
-    start([list])
-    is_saved{Saved?}
-    is_player{Running by Player?}
-
-    start --> is_saved
-    is_saved -->|Yes| spawn1(Spawn at Saved Location)
-    is_saved -->|No| is_player
-    is_player -->|Yes| spawn2(Spawn at player's Location)
-    is_player -->|No| error1([Not Saved Error])
-```
-
-### kill
-
-Kill bot
-
-### action
-
-Execute bot action(s)
-
-When `index` is specified, execute specific action(s) instead of all actions
-
-### tags
-
-View available tags and spawn/kill bot(s) with tag
-
-`!!bot tags` View available tags
-
-`!!bot tags <tag> spawn` Spawn bot(s) with tag
-
-`!!bot tags <tag> kill` Kill bot(s) with tag
-
-### info
-
-View bot info
-
-### save
-
-Save bot
-
-```mermaid
-flowchart TD
-    start([save])
-    with_location{Has Location?}
-    online{Online or Saved?}
-    is_player{Running by Player?}
-
-    start --> with_location
-    with_location -->|Yes| save3(Save at Input Location)
-    with_location -->|No| online
-
-    online -->|Yes| save1(Save at Bot's Location)
-    online -->|No| is_player
-    is_player -->|Yes| save2(Save at player's location)
-    is_player -->|No| error1([Bot Not Exists])
-```
-
-### del
-
-Delete saved bot
-
-### config
-
-Config bot
-
-### Full Command Tree
-
-```mermaid
-flowchart LR
-    start(!!bot)
-
-    start --> list(list)
-    list --> list_index["&lt;index&gt;"]
-    list_index --> list_index_arg["
-        --all
-        --online
-        --saved
-    "]
-
-    start --> spawn(spawn)
-    spawn --> spawn_name("&lt;name&gt;")
-
-    start --> kill(kill)
-    kill --> kill_name("&lt;name&gt;")
-
-    start --> action(action)
-    action --> action_name("&lt;name&gt;")
-    action_name --> action_name_index["&lt;index&gt;"]
-
-    start --> tags(tags)
-    tags --> tags_tag["&lt;tag&gt;"]
-    tags_tag --> tags_tag_spawn(spawn)
-    tags_tag --> tags_tag_kill(kill)
-
-    start --> info(info)
-    info --> info_name("&lt;name&gt;")
-
-    start --> save(save)
-    save --> save_name("&lt;name&gt;")
-    save_name --> save_name_position["&lt;position&gt;"]
-    save_name_position --> save_name_position_facing["&lt;facing&gt;"]
-    save_name_position_facing --> save_name_position_facing_dimension["&lt;dimension&gt;"]
-
-    start --> del(del)
-    del --> del_name("&lt;name&gt;")
-
-    start --> config(config)
-    config --> config_name("&lt;name&gt;")
-    config_name --> config_name_name("name &lt;newName&gt;")
-    config_name --> config_name_position("position &lt;position&gt;")
-    config_name --> config_name_facing("facing &lt;facing&gt;")
-    config_name --> config_name_dimension("dimension &lt;dimension&gt;")
-    config_name --> config_name_comment("comment &lt;comment&gt;")
-    config_name --> config_name_actions(actions)
-    config_name --> config_name_tags(tags)
-    config_name --> config_name_autoLogin("autoLogin &lt;autoLogin&gt;")
-    config_name --> config_name_autoRunActions("autoRunActions &lt;autoRunActions&gt;")
-    config_name --> config_name_autoUpdate("autoUpdate &lt;autoUpdate&gt;")
-
-    config_name_actions --> config_name_actions_append("append &lt;action&gt;")
-    config_name_actions --> config_name_actions_insert("insert &lt;index&gt; &lt;action&gt;")
-    config_name_actions --> config_name_actions_delete("delete &lt;index&gt")
-    config_name_actions --> config_name_actions_edit("edit &lt;index&gt; &lt;action&gt;")
-    config_name_actions --> config_name_actions_clear(clear)
-
-    config_name_tags --> config_name_tags_append["append &lt;tag&gt;"]
-    config_name_tags --> config_name_tags_insert["insert &lt;index&gt; &lt;tag&gt;"]
-    config_name_tags --> config_name_tags_delete["delete &lt;index&gt"]
-    config_name_tags --> config_name_tags_edit["edit &lt;index&gt; &lt;tag&gt;"]
-    config_name_tags --> config_name_tags_clear[clear]
-```
-
-## Config
-
-### gamemode
-
-Default: `survival`
-
-Game mode of bot
-
-### name_prefix
-
-Default: `bot_`
-
-Prefix of bot name
-
-### name_suffix
-
-Default: None
-
-Suffix of bot name
-
-### permissions
-
-Minimum permission to use corresponding command
-
-## FastAPI MCDR
-
-This plugin supports [FastAPI MCDR](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/fastapi_mcdr) plugin, please refer to the source code for detailed API, or run and view the FastAPI document via `http://127.0.0.1:8080/docs`.
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -846,49 +582,25 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 ### Basic Information
 
 - Plugin ID: `colored_chat`
-- Plugin Name: ColoredChat
-- Version: None
-  - Metadata version: 0.0.3
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Support formatting codes for vanilla
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# ColoredChat
-
-> 支持原版显示 [格式化代码](https://minecraft.fandom.com/zh/wiki/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)
-
-## 使用
-
-与正常聊天没有区别, 需要格式化时使用 `&` 符号
-
-## 配置
-
-`force_refresh`
-
-是否刷新聊天栏的所有内容, 某些无法被记录的信息可能会被覆盖
-
-默认值: `True`
-
-## API
-
-可以使用 `append_msg(msg)` 方法来插件的广播消息
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -1036,65 +748,25 @@ A plugin to check cpu temp regularly.
 ### Basic Information
 
 - Plugin ID: `database_api`
-- Plugin Name: DatabaseAPI
-- Version: None
-  - Metadata version: 0.1.1
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: Database API to access database
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
+*Data fetching failed*
 
 ### Introduction
 
-# DatabaseAPI
-
-> 数据库API
->
-> 提供了数据库操作的便捷API
-
-## 环境要求
-
-### Python包
-
-- sqlalchemy
-
-## 开发文档
-
-查看 [Valut](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/vault/vault.py) 参考使用方法
-
-提供了以下两个类:
-
-- TableBase
-- DataManager
-
-### TableBase
-
-一个数据库表的基类, 写一个你的数据库表并继承这个类来创建一张表
-
-### DataManager
-
-使用本API需要自行实例化这个类
-
-实例化: `__init__(self, file_path: str)`
-
-#### get_session
-
-获取一个数据库会话的上下文管理器, 更多信息请自行查找资料
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -1263,281 +935,25 @@ Show time in Minecraft
 ### Basic Information
 
 - Plugin ID: `dict_command_registration`
-- Plugin Name: Dict Command Registration
-- Version: None
-  - Metadata version: 1.1.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration
 - Labels: [`API`](/labels/api/readme.md)
-- Description: Register your command by a python dict
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.7.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Dict Command Registration
-
-> Register your command with a python dict.
-
-MCDReforged implements a command system like [brigadier](https://github.com/Mojang/brigadier), but it is too difficult to use and not intuitive enough. When the tree becomes large, maintainability and readability become extremely poor. Then you have to split it into multiple child nodes, but when the child nodes become large you need to keep splitting them and end up in an infinite loop.
-
-This plugin provides an API that allows you to register MCDR command trees with python dict, which is also a tree structure - a more intuitive structure, isn't it? It takes the python dict you provide, generates the MCDR Command Node, then register it. You do not have to bother with the huge code tree, just maintain your dict tree.
-
-Incidentally, it can register the [help message](https://mcdreforged.readthedocs.io/en/latest/code_references/PluginServerInterface.html#mcdreforged.plugin.server_interface.PluginServerInterface.register_help_message) for you.
-
-## Quick Start
-
-Let's register this example command in MCDR doc:
-
-```text
-Literal('!!email'). \
-then(Literal('list')). \
-then(Literal('remove'). \
-    then(Integer('email_id'))
-). \
-then(Literal('send'). \
-    then(Text('player'). \
-        then(GreedyText('message'))
-    )
-)
-```
-
-Write the command dict and call register method.
-
-```python
-from dict_command_registration import NodeType, register
-
-command = {
-    "name": "!!email",
-    "children": [
-        {
-            "name": "list"
-        },
-        {
-            "name": "remove",
-            "children": [
-                {
-                    "name": "email_id",
-                    "type": NodeType.INTEGER
-                }
-            ]
-        },
-        {
-            "name": "send",
-            "children": [
-                {
-                    "name": "player",
-                    "type": NodeType.TEXT,
-                    "children": [
-                        {
-                            "name": "email_id",
-                            "type": NodeType.GREEDY_TEXT
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}
-
-def on_load(server, prev_module):
-    register(server, command)
-```
-
-All done!
-
-If you want register help message together:
-
-```python
-register(server, command, "Email command")
-```
-
-## Concepts
-
-### Node
-
-In this plugin, `Node` means a dict which contains data of a MCDR
-command node.
-
-See also: [Node](#node-dict)
-
-## API Reference
-
-### Exceptions
-
-#### MissingRequiredAttribute
-
-Raise when missing required attribute in [Node](#node-dict).
-
-### NodeType
-
-MCDR Origin Command Nodes.
-
-| Key | Class |
-| - | - |
-| LITERAL | [Literal](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.Literal) |
-| NUMBER | [Number](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Number) |
-| INTEGER | [Integer](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Integer) |
-| FLOAT | [Float](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Float) |
-| TEXT | [Text](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Text) |
-| QUOTABLE_TEXT | [QuotableText](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.QuotableText) |
-| GREEDY_TEXT | [GreedyText](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.GreedyText) |
-| BOOLEAN | [Boolean](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Boolean) |
-| ENUMERATION | [Enumeration](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Enumeration) |
-
-### Node (class)
-
-Parse a [Node (dict)](#node-dict), and can cast to MCDR node.
-
-#### __init__(data: Dict[str, Any])
-
-Accept a dict.
-
-#### literal: Union[str, Iterable[str]]
-
-Get literal string or Iterable.
-
-#### to_mcdr_node() -> Union[Literal, ArgumentNode]
-
-To MCDR Node.
-
-### Node (dict)
-
-#### name
-
-> Name of the node.
-
-- Type: `str`
-
-This value is required.
-
-#### node
-
-> MCDR node if you want use exist node.
-
-- Type: [Literal](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.Literal) or [ArgumentNode](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.ArgumentNode)
-
-#### literal
-
-> Text of a literal node.
-
-- Type: `str` or `Iterable[str]`
-- Default: [name](#name) value
-
-You have to set this value if you want use multiple literals (Iterable).
-
-#### type
-
-> Type of this node.
-
-- Type: [NodeType](#nodetype) or [ArgumentNode](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.ArgumentNode)
-- Default: [NodeType.LITERAL](#literal)
-
-#### enumeration
-
-> Value of [Enumeration](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Enumeration) node.
-
-- Type: `Dict[str, Any]`
-- Default: `[]`
-
-#### args
-
-> Args to create Node if using customize node.
-
-- Type: `List[Any]`
-- Default: `[]`
-
-#### kwargs
-
-> Kwargs to create Node if using customize node.
-
-- Type: `Dict[str, Any]`
-- Default: `{}`
-
-#### runs
-
-> Set the callback function of this node.
-
-- Type: `Callable`
-
-See also: [AbstractNode.runs()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.runs).
-
-#### requires
-
-> Set the requirement tester callback of the node.
-
-- Type: `Union[Callable, List[Callable]]`
-
-See also: [AbstractNode.requires()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.requires).
-
-#### redirects
-
-> Redirect all further child nodes command parsing to another given node.
-
-- Type: [AbstractNode](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode)
-
-See also: [AbstractNode.redirects()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.redirects).
-
-#### suggests
-
-> Set the provider for command suggestions of this node.
-
-- Type: `Callable`
-
-See also: [AbstractNode.suggests()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.suggests).
-
-#### on_error
-
-> When a command error occurs, the given will invoke the given handler to handle with the error.
-
-- Type: `Dict[str, Any]`
-
-See also: [AbstractNode.on_error()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.on_error).
-
-Accept three keys in the dict, which are three arguments listed in the doc.
-
-#### on_child_error
-
-> Similar to `on_error()`, but it gets triggered only when the node receives a command error from one of the node’s direct or indirect child.
-
-- Type: `Dict[str, Any]`
-
-See also: [AbstractNode.on_child_error()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.on_child_error).
-
-Accept three keys in the dict, which are three arguments listed in the doc.
-
-#### children
-
-> Children of this node.
-
-- Type: `List[Dict[str, Any]]`
-- Default: `[]`
-
-You can put node in the array to add a child node.
-
-### register
-
-Method to register command.
-
-Params:
-
-- PluginServerInterface server: the PluginServerInterface instance of your plugin, to ensure that this command is registered by your plugin.
-- dict command: Command, please find more information in the document.
-- str help_message: Provide a string value if you want register
-- int help_message_permission: The minimum permission level to see this help message. See also in MCDReforged document.
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -1704,82 +1120,25 @@ Make file transfers faster!
 ### Basic Information
 
 - Plugin ID: `gamemode`
-- Plugin Name: Gamemode
-- Version: None
-  - Metadata version: 1.1.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Change to spectator mode for observe, teleport to origin position when change back to survival mode
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Gamemode
-
-> 高级版灵魂出窍(切旁观, 切回生存传送回原位置)
-
-感谢 [方块君](https://github.com/Squaregentleman) 的 [gamemode](https://github.com/Squaregentleman/MCDR-plugins) 插件
-
-## 前置插件
-
-- [MinecraftDataAPI](https://github.com/MCDReforged/MinecraftDataAPI)
-
-## 使用
-
-`!!spec` / `!s` 旁观/生存切换
-
-`!!tp <dimension> [position]` 传送至指定地点
-
-`!!back` 返回上个地点
-
-## 配置
-
-### short_command
-
-默认值: `True`
-
-是否启用短命令
-
-### 其他数字配置是权限
-
-`spec`
-
-默认值: `1`
-
-使用 `!!spec` 的最低权限
-
-`spec_other`
-
-默认值: `2`
-
-使用 `!!spec <player` 的最低权限
-
-`tp`
-
-默认值: `1`
-
-使用 `!!tp <dimension> [position]` 的最低权限
-
-`back`
-
-默认值: `1`
-
-使用 `!!back` 的最低权限
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -1909,63 +1268,25 @@ Pursuing full automation in server management and maintenance!
 ### Basic Information
 
 - Plugin ID: `info`
-- Plugin Name: Info
-- Version: None
-  - Metadata version: 0.2.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: Get server info
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [psutil](https://pypi.org/project/psutil) |  |
-| [py-cpuinfo](https://pypi.org/project/py-cpuinfo) |  |
+*Data fetching failed*
 
 ### Introduction
 
-# Info
-
-获取服务器信息
-
-## 支持功能
-
-- 系统版本
-- Python版本
-- CPU利用率
-- 内存使用量
-- 存档大小
-
-需要显示更多内容发 Issue
-
-## 使用
-
-使用 `!!info` 获取
-
-## 配置
-
-### world_names
-
-参与存档大小计算的文件夹名
-
-默认值:
-
-```json
-[
-    "world"
-]
-```
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -2286,37 +1607,25 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 ### Basic Information
 
 - Plugin ID: `let_me_click_and_send`
-- Plugin Name: Let Me Click and Send
-- Version: None
-  - Metadata version: 1.0.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/let_me_click_and_send
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: Allowed click to send anything in 1.19
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Let Me Click and Send
-
-帮助服主告知玩家如何允许在 1.19 后点击发送任意信息
-
-Help server owners tell players how to allow click to send anything after 1.19
-
-See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -2447,35 +1756,25 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `lowercase_mcdr_command`
-- Plugin Name: Lowercase MCDR Command
-- Version: None
-  - Metadata version: 1.2.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: Lowercase `!!MCDR` command
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Lowercase MCDR Command
-
-> 小写的 MCDR 指令
-
-您现在可以使用 `!!mcdr` 等效 `!!MCDR`。
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -2726,78 +2025,25 @@ A MCDR plugin for post/teleport items
 ### Basic Information
 
 - Plugin ID: `minecraft_command_register`
-- Plugin Name: Minecraft Command Register
-- Version: None
-  - Metadata version: 1.7.3
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
 - Labels: [`API`](/labels/api/readme.md)
-- Description: Register MCDReforged commands in Minecraft
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.12.3 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Minecraft Command Register
-
-> 在 Minecraft 中注册 MCDReforged 指令
-
-例：`!!MCDR` 将被注册为 `/!!MCDR`、`!!qb` 将被注册为 `/!!qb`
-
-<https://user-images.githubusercontent.com/37402126/206166484-891245f2-d148-487d-b7be-1b79766144bd.mp4>
-
-## MCDR 版本对照表
-
-对于特定的 MCDR 版本，您应当使用对应的本插件版本
-
-| MCDR 版本 | 插件版本  |
-|---------|-------|
-| 2.6.0   | 1.2.0 |
-| 2.6.1   | 1.2.1 |
-| 2.7.0   | 1.2.2 |
-| 2.7.1   | 1.2.3 |
-| 2.7.2   | 1.2.4 |
-| 2.8.0   | None  |
-| 2.8.1   | 1.3.0 |
-| 2.8.2   | 1.3.1 |
-| 2.8.3   | 1.3.2 |
-| 2.8.4   | None  |
-| 2.9.0   | 1.4.0 |
-| 2.9.1   | 1.4.1 |
-| 2.10.0  | 1.5.0 |
-| 2.10.1  | 1.5.1 |
-| 2.11.0  | 1.6.0 |
-| 2.12.0  | 1.7.0 |
-| 2.12.1  | 1.7.1 |
-| 2.12.2  | 1.7.2 |
-| 2.12.3  | 1.7.3 |
-
-## 安装指南
-
-### Fabric
-
-安装此插件，并配合 [MCDR Command Fabric](https://modrinth.com/mod/mcdr-command-fabric) 模组使用。
-
-### Forge
-
-Comming soom...
-
-### Bukkit
-
-Comming soom...
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3149,70 +2395,25 @@ Now, I'll introduce the content of the config file:
 ### Basic Information
 
 - Plugin ID: `more_command_nodes`
-- Plugin Name: MoreCommandNodes
-- Version: None
-  - Metadata version: 1.1.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes
 - Labels: [`API`](/labels/api/readme.md)
-- Description: More command nodes
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.5 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# MoreCommandNodes
-
-> 更多指令节点
-
-如果您想要添加更多自定义节点，欢迎提交 PR！
-
-## 节点列表
-
-```mermaid
-classDiagram
-    class FloatsArgument
-    class Position
-    class Facing
-    class EnumeratedText
-
-    FloatsArgument : +__init__(String name, int number)
-    FloatsArgument <|-- Position
-    Position : +__init__(String name)
-    FloatsArgument <|-- Facing
-    Facing : +__init__(String name)
-
-    EnumeratedText : +__init__(String name, Type[Enum] enum_class)
-```
-
-### FloatsArgument
-
-连续的多个浮点数节点。
-
-### Position
-
-坐标节点，连续的三个浮点数。
-
-### Facing
-
-朝向节点，连续的两个浮点数。
-
-### EnumeratedText
-
-与 MCDR 的 Enumeration 类似，但是使用 Enum 的值而不是名称作为节点文本。
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3536,45 +2737,25 @@ Display the online players for Group server, with click event to quickly join ev
 ### Basic Information
 
 - Plugin ID: `online_player_api`
-- Plugin Name: OnlinePlayerAPI
-- Version: None
-  - Metadata version: 1.0.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: Online Player API
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# OnlinePlayerAPI
-
-> 在线玩家 API
-
-## API
-
-`check_online(player)`
-
-如果玩家在线, 返回 `True`
-
-如果玩家不在线, 返回 `False`
-
-`get_player_list()`
-
-返回一个在线玩家的 list
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3748,153 +2929,25 @@ Database-based Carpet fake player management
 ### Basic Information
 
 - Plugin ID: `qq_api`
-- Plugin Name: QQAPI
-- Version: None
-  - Metadata version: 1.3.1
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: Connect Minecraft and QQ
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
-| [uvicorn](https://pypi.org/project/uvicorn) |  |
+*Data fetching failed*
 
 ### Introduction
 
-# QQAPI
-
-> QQ bot development API.
-
-## Usage
-
-### QQ Bot Configuration
-
-It is recommended to use [go-cqhttp](https://github.com/Mrs4s/go-cqhttp).
-
-Set qq account and password in `account` field:
-
-```yaml
-account:
-  uin: 1233456
-  password: ''
-```
-
-We recommend to use WebSocket, please set `http` in config to `false` and `websocket` to `true`. Then set `ws-reverse` in `servers` field of go-cqhttp config (this example config should match the default config of QQAPI):
-
-```yaml
-servers:
-  - ws-reverse:
-      universal: ws://127.0.0.1:5700/ws/
-      reconnect-interval: 3000
-```
-
----
-
-If you wish to use HTTP, set `http` in config to `true` and `websocket` to `false`. Then set `http` in `servers` field of go-cqhttp config (this example config should match the default config of QQAPI):
-
-```yaml
-servers:
-  - http:
-      address: 0.0.0.0:5700
-      post:
-      - url: http://127.0.0.1:5701/
-```
-
-## 配置文件
-
-| 配置项 | 默认值 | 说明 |
-| - | - | - |
-| http.enable | `false` | 是否使用 HTTP |
-| http.post_host | `127.0.0.1` | 接收数据上报的地址 |
-| http.post_port | `5701` | 对应 go-cqhttp 的 HTTP 监听端口 |
-| http.api_host | `127.0.0.1` | 对应 go-cqhttp 的地址 |
-| http.api_port | `5700` | 对应 go-cqhttp `url` 配置的端口 |
-| websocket.enable | `true` | 是否使用 WebSocket |
-| websocket.host | `127.0.0.1` | 对应 go-cqhttp 的地址 |
-| websocket.port | `5700` | 对应 go-cqhttp 的 WebSocket 监听端口 |
-
-### 关于多服使用
-
-`QQBridge` 是一个可以将机器人上报消息分发给多个服务器进行处理的应用。
-
-安装依赖后直接运行 `QQBridge.py` 即可。
-
-#### 指令
-
-| 指令 | 功能 |
-| - | - |
-| stop | 关闭QQBridge |
-| help | 获取帮助 |
-| reload config | 重载配置文件 |
-| debug thread | 查看线程列表 |
-
-#### 配置
-
-| 配置项 | 默认值 | 说明 |
-| - | - | - |
-| webscocket | `false` | 是否使用 WebSocket（为 true 则使用 HTTP） |
-| host | `127.0.0.1` | 接收数据上报的地址 |
-| port | `5700` | 对应 go-cqhttp 的 HTTP 监听端口 |
-| server_list | 详见下文 | 需要转发的服务器列表 |
-| debug_mode | `false` | 调试模式 |
-
-`server_list`
-
-需要转发的服务器列表, 参照以下格式填写
-
-```yaml
-example:
-  host: 127.0.0.1
-  port: 5701
-```
-
-> 你还需要修改 QQAPI 配置文件的 `post_host`, `post_port` 使其与 `server_list` 的内容对应
->
-> 建议从 `5701` 向上增加，如第一个服为 `5701` 第二个服为 `5702`
-
-## 开发
-
-示例模范插件：[QQChat](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat)
-
-### 事件
-
-当从QQ接收到消息, 会触发以下各类事件
-
-每个事件监听器需要使用 `register_event_listener` API 注册, 事件ID为 `qq_api.事件名`
-
-- `server`：[PluginServerInterface](https://mcdreforged.readthedocs.io/zh_CN/latest/code_references/PluginServerInterface.html)
-- `bot`：[CQHttp](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp)
-- `event`：[Event](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.Event)，其中 `on_message` 的参数为 `MessageEvent`，增加了 `content` 属性，为处理后的消息。
-
-| 事件 | 参考 |
-| - | - |
-| on_message(server, bot, event) | [on_message](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp.on_message) |
-| on_notice(server, bot, event) | [on_notice](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp.on_notice) |
-| on_request(server, bot, event) | [on_request](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp.on_request) |
-| on_meta_event(server, bot, event) | [on_meta_event](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp.on_meta_event) |
-
-### API
-
-#### get_event_loop()
-
-用于获取 `asyncio` 的 `event_loop`。
-
-#### get_bot()
-
-用于获取 `CQHttp` 的实例。
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3907,143 +2960,25 @@ example:
 ### Basic Information
 
 - Plugin ID: `qq_chat`
-- Plugin Name: QQChat
-- Version: None
-  - Metadata version: 2.1.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat
 - Labels: [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md)
-- Description: Useful Functions with QQ
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [qq_api](/plugins/qq_api/readme.md) | ^1.2.0 |
-| [online_player_api](/plugins/online_player_api/readme.md) | ^1.0.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
+*Data fetching failed*
 
 ### Introduction
 
-<!-- markdownlint-disable-file MD033 -->
-# QQChat
-
-> 用于连接 `Minecraft` 和 `QQ` 的插件
-
-## 功能说明
-
-### 名词定义
-
-| 名词 | 含义 | 备注 |
-| - | - | - |
-| **群成员** | QQ群聊中的玩家 | |
-| **玩家** | MC服务器中的玩家 | |
-| **管理** | 管理员（请勿与 MC 或 MCDR 权限混淆） | `admins` |
-| **主群** | 服务器的主要交流群 | `main_group` 一般指服务器最大的群，包括所有人，最多一个，如配置多个群将取第一个 |
-| **管理群** | 服务器管理群 | `manage_groups` 此群成员无论是否配置为管理，在此群中都具有管理的权限 |
-| **同步群** | 服务器聊天同步群 | `message_sync_groups` 同步所有玩家的发言，在此群中发送非命令的消息也会同步到服务器 |
-
-### 场景说明
-
-1. 管理可以在任何场景下（包括群聊和私聊）都具有所有指令的权限。
-
-2. 管理群中，所有人均获得管理权限，即使有的人没有在 `admins` 中。
-
-3. MCDR指令的执行没有返回信息，不太适用于需要交互的场景（除非你知道MCDR会输出什么），请自行判断与使用，以下给出一些使用场景：
-
-   - 场景1：无管理在线的时候紧急回档
-   - 场景2：离线服务器为新玩家添加白名单（采用MCDR离线白名单插件时）
-
-   > 注意：由于MCDR指令默认是通过控制台执行，**已配置的 admin 及服务器管理群中的所有成员将在 MCDR 层面拥有和 owner 等同的权限**
-
-## 配置说明
-
-| 配置项 | 含义 | 默认值 | 注意事项 |
-| - | - | - | - |
-| `main_group` | 主群 | `[123456]` | 最多填一个，多填取首个 |
-| `manage_groups` | 管理群 | `[1234563, 1234564]` | 非必填 |
-| `message_sync_groups` | 同步群 | `[1234567, 1234568]` | 非必填 |
-| `server_name` | 服务器名 | `'survival'` | 发送到qq时会加上server_name的前缀 |
-| `admins` | 管理列表 | `[1234565, 1234566]` | 理论上非必填（ |
-| `sync_group_only_admin:` | 同步群是否只包含管理 | `true` | 如果关闭，成员权限同主群<br />如果打开。成员权限同管理群 |
-| `whitelist_add_with_bound` | 群成员绑定游戏 id 时自动添加白名单 | `false` | 离线服使用大概率有问题 |
-| `whitelist_remove_with_leave` | 玩家退群自动移除白名单 | `true` | 须防止冒名绑定游戏 id |
-| `command` | 开启 `/command` 指令 | `true` | |
-| `list` | 开启 `/list` 指令 | `true` | |
-| `mc` | 开启 `/mc` 指令 | `true` | |
-| `qq` | 开启 `/qq` 指令 | `true` | |
-| `mcdr` | 开启 `/mcdr` 指令 | `false` | 仅建议紧急运维时使用，**没有返回信息** |
-| `command_prefix` | 触发机器人指令的前缀 | `['/']` | 配置单字符如 `'/'` 或 `'#'` 时，指令格式为 `/list` 等<br />配置多字符如 `'mc'` 或 `'bot'` 时，指令格式为 `mc list`，需在前缀与指令之间添加空格 |
-| `player_list_regex` | 使用 `/list` 指令时将玩家分组的正则表达式 | 略 | 请避免冲突，`其它` 为保留名 |
-
-## 命令帮助
-
-**注：以前缀为 `'/'` 为例，实际指令请参考配置文件**
-
-> 普通玩家命令帮助如下
-
-`/server` 查看当前连接到群组服中哪个子服
-
-`/server <server_name>` 连接到群组服中的对应子服
-
-`/list` 获取在线玩家列表
-
-`/bound <ID>` 绑定你的游戏ID
-
-`/mc <msg>` 向游戏内发送消息
-
-`!!qq <msg>` 游戏内向主群发送消息
-
-> 管理员命令帮助如下
-
-`/bound` 查看绑定相关帮助
-
-`/whitelist` 查看白名单相关帮助
-
-`/command <command>` 执行任意指令
-
-`/mc <msg>` 向游戏内发送消息
-
-`/mcdr <mcdr command>` 执行mcdr指令（可不添加 `!!` 前缀，无回显，谨慎使用）
-
-> bound 指令帮助
-
-`/bound list` 查看绑定列表
-
-`/bound check <qq number>` 查询绑定 ID
-
-`/bound unbound <qq number>` 解除绑定
-
-`/bound <qq number> <ID>` 绑定新 ID
-
-> whitelist 指令帮助
-
-`/whitelist add <target>` 添加白名单成员
-
-`/whitelist list` 列出白名单成员
-
-`/whitelist off` 关闭白名单
-
-`/whitelist on` 开启白名单
-
-`/whitelist reload` 重载白名单
-
-`/whitelist remove <target>` 删除白名单成员
-
-注: `<target>` 可以是玩家名/目标选择器/UUID
-
-## 迁移说明
-
-您自己想办法吧
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -4622,63 +3557,25 @@ testing basic server problem.
 ### Basic Information
 
 - Plugin ID: `start_stop_helper_r`
-- Plugin Name: StartStopHelperR
-- Version: None
-  - Metadata version: 0.1.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/start_stop_helper_r
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: Start and stop server helper
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# StartStopHelperR
-
-> 开关服助手
-
-## 使用
-
-| 指令 | 用途 |
-| - | - |
-| !!server | 显示帮助信息 |
-| !!server start | 启动服务器 |
-| !!server stop | 关闭服务器 |
-| !!server stop_exit | 关闭服务器并退出 MCDR |
-| !!server restart | 重启服务器 |
-| !!server exit | 退出 MCDR |
-
-## 配置
-
-### permissions
-
-各指令所需的最低权限等级
-
-默认值:
-
-```json
-{
-    "help": 3,
-    "start": 3,
-    "stop": 3,
-    "stop_exit": 4,
-    "restart": 3,
-    "exit": 4
-}
-```
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -4925,48 +3822,25 @@ Worried about infrequent backups leading to serious progress losses due to the w
 ### Basic Information
 
 - Plugin ID: `uuid_api`
-- Plugin Name: UUIDAPI
-- Version: None
-  - Metadata version: 0.1.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - Labels: [`API`](/labels/api/readme.md)
-- Description: UUID API
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [requests](https://pypi.org/project/requests) |  |
+*Data fetching failed*
 
 ### Introduction
 
-# UUIDAPI
-
-> 玩家UUIDAPI
-
-## 依赖的Python模块
-
-- requests
-
-## 使用方法
-
-使用 `get_uuid(name: str)` 获取玩家UUID, 未查到返回 `None`
-
-你不需要考虑服务器正盗版问题, 会自己判断
-
-如果使用了 `BungeeCord` 并开启了正版验证, 或实际的UUID与 `server.properties` 中的 `online-mode` 并不匹配
-
-将插件的 `manual_mode` 手动模式设置为一个布尔值即可覆盖 `server.properties` 的在线模式
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

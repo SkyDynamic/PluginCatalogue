@@ -10,19 +10,19 @@
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
-| [AdvancedCalculator](/plugins/advanced_calculator/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供游戏内多种便捷计算 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/advanced_calculator/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *数据拉取失败* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [allow_suicide](/plugins/allow_suicide/readme-zh_cn.md) | [JAs0n](https://github.com/JAs0n319) | 允许玩家在没有op权限时自杀 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Auto Command](/plugins/auto_command/readme-zh_cn.md) | [bzyyyyyyyy](https://github.com/bzyyyyyyyy) | 自动发送指令的插件 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | N/A | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *数据拉取失败* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *数据拉取失败* | N/A | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | N/A | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 帮助你管理地毯端假人 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Cato Plugin](/plugins/cato/readme-zh_cn.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是） | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 支持原版显示格式化代码 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/colored_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *数据拉取失败* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDR Command Exporter](/plugins/command_exporter/readme-zh_cn.md) | [DancingSnow](https://github.com/DancingSnow0517) | A plugin is used to export the MCDR command tree | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Crash Restart](/plugins/crash_restart/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在服务端崩溃后自动重启服务器的插件 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Daytime](/plugins/daytime/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 显示游戏中的时间 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -32,7 +32,7 @@
 | [EULAgree](/plugins/eulagree/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 我总是同意EULA，不要问我 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | N/A | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [FastBotSpawn](/plugins/fbs_plugin/readme-zh_cn.md) | [WalkerTian](https://github.com/Walkersifolia) | A plugin with multiple functions | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Gamemode](/plugins/gamemode/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 旁观者模式以旁观，返回生存时传送回原坐标 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/gamemode/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *数据拉取失败* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Jrrp](/plugins/jrrp/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Jrrps Plg](/plugins/jrrps/readme-zh_cn.md) | [SkyDynamic](https://github.com/SkyDynamic) | 测试今天的运势 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme-zh_cn.md) | [XavierWah](https://github.com/XavierWah) | 这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |

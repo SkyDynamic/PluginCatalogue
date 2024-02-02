@@ -7,63 +7,25 @@
 ### Basic Information
 
 - Plugin ID: `start_stop_helper_r`
-- Plugin Name: StartStopHelperR
-- Version: None
-  - Metadata version: 0.1.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/start_stop_helper_r
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: Start and stop server helper
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# StartStopHelperR
-
-> 开关服助手
-
-## 使用
-
-| 指令 | 用途 |
-| - | - |
-| !!server | 显示帮助信息 |
-| !!server start | 启动服务器 |
-| !!server stop | 关闭服务器 |
-| !!server stop_exit | 关闭服务器并退出 MCDR |
-| !!server restart | 重启服务器 |
-| !!server exit | 退出 MCDR |
-
-## 配置
-
-### permissions
-
-各指令所需的最低权限等级
-
-默认值:
-
-```json
-{
-    "help": 3,
-    "start": 3,
-    "stop": 3,
-    "stop_exit": 4,
-    "restart": 3,
-    "exit": 4
-}
-```
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

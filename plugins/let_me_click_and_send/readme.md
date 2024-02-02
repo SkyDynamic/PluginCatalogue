@@ -7,37 +7,25 @@
 ### Basic Information
 
 - Plugin ID: `let_me_click_and_send`
-- Plugin Name: Let Me Click and Send
-- Version: None
-  - Metadata version: 1.0.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/let_me_click_and_send
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: Allowed click to send anything in 1.19
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Let Me Click and Send
-
-帮助服主告知玩家如何允许在 1.19 后点击发送任意信息
-
-Help server owners tell players how to allow click to send anything after 1.19
-
-See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

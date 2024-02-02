@@ -10,19 +10,19 @@ Plugin Amount: 45
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
-| [AdvancedCalculator](/plugins/advanced_calculator/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Provides multiple convenient in-game calculations | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/advanced_calculator/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [allow_suicide](/plugins/allow_suicide/readme.md) | [JAs0n](https://github.com/JAs0n319) | allow player suicide with no op | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Auto Command](/plugins/auto_command/readme.md) | [bzyyyyyyyy](https://github.com/bzyyyyyyyy) | A plugin that send send commands automaticly | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | N/A | [`Tool`](/labels/tool/readme.md) |
-| [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | N/A | [`Tool`](/labels/tool/readme.md) |
-| [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | N/A | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
+| [*Data fetching failed*](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | N/A | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | A carpet bot manage plugin, able to spawn bot and make it execute actions | N/A | [`Tool`](/labels/tool/readme.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | Help you manage your carpet fake player | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Cato Plugin](/plugins/cato/readme.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | N/A | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Broadcast chats between Minecraft servers and more | N/A | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme.md) | [Ricky](https://github.com/R1ckyH) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients). | N/A | [`Tool`](/labels/tool/readme.md) |
-| [ColoredChat](/plugins/colored_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Support formatting codes for vanilla | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/colored_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MCDR Command Exporter](/plugins/command_exporter/readme.md) | [DancingSnow](https://github.com/DancingSnow0517) | A plugin is used to export the MCDR command tree | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | N/A | [`Tool`](/labels/tool/readme.md) |
@@ -32,7 +32,7 @@ Plugin Amount: 45
 | [EULAgree](/plugins/eulagree/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | I always agree with EULA, don't ask me | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | N/A | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [FastBotSpawn](/plugins/fbs_plugin/readme.md) | [WalkerTian](https://github.com/Walkersifolia) | A plugin with multiple functions | N/A | [`Tool`](/labels/tool/readme.md) |
-| [Gamemode](/plugins/gamemode/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Change to spectator mode for observe, teleport to origin position when change back to survival mode | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/gamemode/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | N/A | [`Tool`](/labels/tool/readme.md) |

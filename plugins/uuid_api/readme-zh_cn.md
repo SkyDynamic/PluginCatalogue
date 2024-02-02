@@ -7,48 +7,25 @@
 ### 基本信息
 
 - 插件 ID: `uuid_api`
-- 插件名: UUIDAPI
-- 版本: None
-  - 元数据版本: 0.1.2
-  - 发布版本: None
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
-- 描述: UUID API
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [requests](https://pypi.org/project/requests) |  |
+*数据拉取失败*
 
 ### 介绍
 
-# UUIDAPI
-
-> 玩家UUIDAPI
-
-## 依赖的Python模块
-
-- requests
-
-## 使用方法
-
-使用 `get_uuid(name: str)` 获取玩家UUID, 未查到返回 `None`
-
-你不需要考虑服务器正盗版问题, 会自己判断
-
-如果使用了 `BungeeCord` 并开启了正版验证, 或实际的UUID与 `server.properties` 中的 `online-mode` 并不匹配
-
-将插件的 `manual_mode` 手动模式设置为一个布尔值即可覆盖 `server.properties` 的在线模式
-
+*数据拉取失败*
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。

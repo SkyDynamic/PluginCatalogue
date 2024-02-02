@@ -7,35 +7,25 @@
 ### Basic Information
 
 - Plugin ID: `lowercase_mcdr_command`
-- Plugin Name: Lowercase MCDR Command
-- Version: None
-  - Metadata version: 1.2.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: Lowercase `!!MCDR` command
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
-# Lowercase MCDR Command
-
-> 小写的 MCDR 指令
-
-您现在可以使用 `!!mcdr` 等效 `!!MCDR`。
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
