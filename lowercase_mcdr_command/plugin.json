@@ -11,7 +11,7 @@
     "management"
   ],
   "introduction": {
-    "en_us": "# Lowercase MCDR Command\n\n> 小写的 MCDR 指令\n\n您现在可以使用 `!!mcdr` 等效 `!!MCDR`。\n",
-    "zh_cn": "# Lowercase MCDR Command\n\n> 小写的 MCDR 指令\n\n您现在可以使用 `!!mcdr` 等效 `!!MCDR`。\n"
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*数据拉取失败*"
   }
 }

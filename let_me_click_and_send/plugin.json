@@ -11,7 +11,7 @@
     "information"
   ],
   "introduction": {
-    "en_us": "# Let Me Click and Send\n\n帮助服主告知玩家如何允许在 1.19 后点击发送任意信息\n\nHelp server owners tell players how to allow click to send anything after 1.19\n\nSee also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)\n",
-    "zh_cn": "# Let Me Click and Send\n\n帮助服主告知玩家如何允许在 1.19 后点击发送任意信息\n\nHelp server owners tell players how to allow click to send anything after 1.19\n\nSee also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)\n"
+    "en_us": "*Data fetching failed*",
+    "zh_cn": "*数据拉取失败*"
   }
 }
