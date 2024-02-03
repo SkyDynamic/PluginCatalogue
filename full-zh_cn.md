@@ -1724,7 +1724,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 插件 ID: `loginproxy`
 - 插件名: LoginProxy
 - 版本: None
-  - 元数据版本: 0.6.5
+  - 元数据版本: 0.6.6
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -3589,7 +3589,7 @@ The first version, not anything to say
 - 插件 ID: `smart_servertime`
 - 插件名: SmartServerTime
 - 版本: None
-  - 元数据版本: 1.3.1
+  - 元数据版本: 1.3.3
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -3604,8 +3604,7 @@ The first version, not anything to say
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 | [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.3.2 |
-| [delayexe](/plugins/delayexe/readme-zh_cn.md) | \>=1.3.0 |
-| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.4.0 |
+| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.6.6 |
 
 ### 包依赖
 
