@@ -9,7 +9,7 @@
 - 插件 ID: `smart_servertime`
 - 插件名: SmartServerTime
 - 版本: None
-  - 元数据版本: 1.3.0
+  - 元数据版本: 1.3.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -23,7 +23,7 @@
 | 插件 ID | 依赖需求 |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.3.0 |
+| [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.3.2 |
 | [delayexe](/plugins/delayexe/readme-zh_cn.md) | \>=1.3.0 |
 | [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.4.0 |
 
