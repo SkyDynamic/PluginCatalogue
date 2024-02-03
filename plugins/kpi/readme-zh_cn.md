@@ -9,7 +9,7 @@
 - 插件 ID: `kpi`
 - 插件名: KPI
 - 版本: None
-  - 元数据版本: 1.4.8
+  - 元数据版本: 1.4.9
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)

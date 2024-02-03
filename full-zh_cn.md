@@ -1499,7 +1499,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 插件 ID: `kpi`
 - 插件名: KPI
 - 版本: None
-  - 元数据版本: 1.4.8
+  - 元数据版本: 1.4.9
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -3856,7 +3856,7 @@ Only matches the IP address received by the server and player name, and the play
 - 插件 ID: `tpm`
 - 插件名: TpManager
 - 版本: None
-  - 元数据版本: 0.3.4
+  - 元数据版本: 0.4.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -3870,7 +3870,7 @@ Only matches the IP address received by the server and player name, and the play
 | 插件 ID | 依赖需求 |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.3 |
+| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.6 |
 
 ### 包依赖
 

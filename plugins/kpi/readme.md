@@ -9,7 +9,7 @@
 - Plugin ID: `kpi`
 - Plugin Name: KPI
 - Version: None
-  - Metadata version: 1.4.8
+  - Metadata version: 1.4.9
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)

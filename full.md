@@ -1494,7 +1494,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Plugin ID: `kpi`
 - Plugin Name: KPI
 - Version: None
-  - Metadata version: 1.4.8
+  - Metadata version: 1.4.9
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
@@ -3785,7 +3785,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Plugin ID: `tpm`
 - Plugin Name: TpManager
 - Version: None
-  - Metadata version: 0.3.4
+  - Metadata version: 0.4.1
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
@@ -3799,7 +3799,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 | Plugin ID | Requirement |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [kpi](/plugins/kpi/readme.md) | ~1.4.3 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.6 |
 
 ### Requirements
 
