@@ -2,7 +2,7 @@
   "schema_version": 3,
   "id": "kpi",
   "name": "KPI",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "repository": "https://github.com/kmcsr/kpi_mcdr",
   "link": "https://github.com/kmcsr/kpi_mcdr",
   "authors": [
