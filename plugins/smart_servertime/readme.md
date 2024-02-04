@@ -9,7 +9,7 @@
 - Plugin ID: `smart_servertime`
 - Plugin Name: SmartServerTime
 - Version: None
-  - Metadata version: 1.3.3
+  - Metadata version: 1.3.7
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
@@ -24,7 +24,7 @@
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 | [kpi](/plugins/kpi/readme.md) | \>=1.3.2 |
-| [loginproxy](/plugins/loginproxy/readme.md) | \>=0.6.6 |
+| [loginproxy](/plugins/loginproxy/readme.md) | \>=0.6.9 |
 
 ### Requirements
 
