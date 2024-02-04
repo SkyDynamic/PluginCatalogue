@@ -3518,7 +3518,7 @@ testing basic server problem.
 - Plugin ID: `smart_servertime`
 - Plugin Name: SmartServerTime
 - Version: None
-  - Metadata version: 1.3.7
+  - Metadata version: 1.3.8
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
