@@ -9,14 +9,14 @@
 - Plugin ID: `hibernate_r`
 - Plugin Name: HibernateR
 - Version: None
-  - Metadata version: 1.1.0
+  - Metadata version: 1.2.0
   - Release version: None
 - Total downloads: 0
 - Authors: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
 - Repository: https://github.com/HIM049/MCDR_HibernateR
 - Repository plugin page: https://github.com/HIM049/MCDR_HibernateR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器
+- Description: A MCDReforged plugin. When there are no player in the server, the plugin can make it shutdown. And if someone want to visit the server, the plugin can make the server start again.
 
 ### Dependencies
 
