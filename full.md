@@ -1230,7 +1230,7 @@ Make file transfers faster!
 - Plugin ID: `hooks`
 - Plugin Name: hooks
 - Version: None
-  - Metadata version: 2.1.1
+  - Metadata version: 2.1.2
   - Release version: None
 - Total downloads: 0
 - Authors: [OptiJava](https://github.com/OptiJava)
@@ -1867,7 +1867,7 @@ Shows tasks of project in progress
 - Plugin ID: `mcd_task`
 - Plugin Name: Task
 - Version: None
-  - Metadata version: 2.3.6+build.68
+  - Metadata version: 2.3.6-dev+build.68
   - Release version: None
 - Total downloads: 0
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)

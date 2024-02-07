@@ -9,7 +9,7 @@
 - 插件 ID: `hooks`
 - 插件名: hooks
 - 版本: None
-  - 元数据版本: 2.1.1
+  - 元数据版本: 2.1.2
   - 发布版本: None
 - 总下载量: 0
 - 作者: [OptiJava](https://github.com/OptiJava)

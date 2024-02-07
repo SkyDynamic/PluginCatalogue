@@ -9,7 +9,7 @@
 - 插件 ID: `mcd_task`
 - 插件名: Task
 - 版本: None
-  - 元数据版本: 2.3.6+build.68
+  - 元数据版本: 2.3.6-dev+build.68
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)

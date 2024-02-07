@@ -9,7 +9,7 @@
 - Plugin ID: `hooks`
 - Plugin Name: hooks
 - Version: None
-  - Metadata version: 2.1.1
+  - Metadata version: 2.1.2
   - Release version: None
 - Total downloads: 0
 - Authors: [OptiJava](https://github.com/OptiJava)
