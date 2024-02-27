@@ -9,7 +9,7 @@
 - Plugin ID: `tpm`
 - Plugin Name: TpManager
 - Version: None
-  - Metadata version: 0.4.1
+  - Metadata version: 0.4.5
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
