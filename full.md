@@ -1825,29 +1825,21 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `mcd_seen`
-- Plugin Name: Seen
-- Version: None
-  - Metadata version: 1.2.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Seen
 - Repository plugin page: https://github.com/TISUnion/Seen/tree/MCDR
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Show laziness rank easily
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b12 |
-| [parse](https://pypi.org/project/parse) |  |
+*Data fetching failed*
 
 ### Introduction
 
