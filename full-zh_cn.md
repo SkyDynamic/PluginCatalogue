@@ -3847,7 +3847,7 @@ Only matches the IP address received by the server and player name, and the play
 - 插件 ID: `tpm`
 - 插件名: TpManager
 - 版本: None
-  - 元数据版本: 0.4.5
+  - 元数据版本: 0.4.6
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
