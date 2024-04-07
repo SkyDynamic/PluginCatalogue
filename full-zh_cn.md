@@ -3954,7 +3954,7 @@ Only matches the IP address received by the server and player name, and the play
 - 插件 ID: `where_is`
 - 插件名: Where Is
 - 版本: None
-  - 元数据版本: 2.1.1+build.9
+  - 元数据版本: 2.2.0+build.12
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
@@ -3968,7 +3968,7 @@ Only matches the IP address received by the server and player name, and the play
 | 插件 ID | 依赖需求 |
 | --- | --- |
 | [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.12.0 |
 
 ### 包依赖
 

@@ -3883,7 +3883,7 @@ Send welcome message
 - Plugin ID: `where_is`
 - Plugin Name: Where Is
 - Version: None
-  - Metadata version: 2.1.1+build.9
+  - Metadata version: 2.2.0+build.12
   - Release version: None
 - Total downloads: 0
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
@@ -3897,7 +3897,7 @@ Send welcome message
 | Plugin ID | Requirement |
 | --- | --- |
 | [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.12.0 |
 
 ### Requirements
 
