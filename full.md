@@ -2762,7 +2762,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Plugin ID: `pcrc`
 - Plugin Name: PCRC
 - Version: None
-  - Metadata version: 1.4.0
+  - Metadata version: 1.4.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)

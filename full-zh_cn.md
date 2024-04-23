@@ -2834,7 +2834,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 插件 ID: `pcrc`
 - 插件名: PCRC
 - 版本: None
-  - 元数据版本: 1.4.0
+  - 元数据版本: 1.4.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
