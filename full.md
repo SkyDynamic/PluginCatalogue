@@ -3883,7 +3883,7 @@ Send welcome message
 - Plugin ID: `where_is`
 - Plugin Name: Where Is
 - Version: None
-  - Metadata version: 2.2.0+build.12
+  - Metadata version: 2.2.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
