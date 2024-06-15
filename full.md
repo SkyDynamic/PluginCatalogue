@@ -503,7 +503,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Plugin ID: `chatbridge`
 - Plugin Name: ChatBridge v2 for MCDR
 - Version: None
-  - Metadata version: 2.5.3
+  - Metadata version: 2.6.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
