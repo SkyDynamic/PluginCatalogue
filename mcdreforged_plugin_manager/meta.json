@@ -2,7 +2,7 @@
   "schema_version": 3,
   "id": "mcdreforged_plugin_manager",
   "name": "MCDReforged Plugin Manager",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "repository": "https://github.com/Ivan-1F/MCDReforgedPluginManager",
   "link": "https://github.com/Ivan-1F/MCDReforgedPluginManager",
   "authors": [
