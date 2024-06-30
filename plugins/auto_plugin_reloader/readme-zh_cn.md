@@ -9,7 +9,7 @@
 - 插件 ID: `auto_plugin_reloader`
 - 插件名: Auto Plugin Reloader
 - 版本: None
-  - 元数据版本: 1.1.3
+  - 元数据版本: 2.0.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
@@ -22,12 +22,13 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.13.0 |
 
 ### 包依赖
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 

@@ -158,7 +158,7 @@ Edit/send command stack & automatically send commands
 - Plugin ID: `auto_plugin_reloader`
 - Plugin Name: Auto Plugin Reloader
 - Version: None
-  - Metadata version: 1.1.3
+  - Metadata version: 2.0.0
   - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
@@ -171,12 +171,13 @@ Edit/send command stack & automatically send commands
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.13.0 |
 
 ### Requirements
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
