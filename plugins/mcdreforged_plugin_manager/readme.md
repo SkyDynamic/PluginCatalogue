@@ -9,7 +9,7 @@
 - Plugin ID: `mcdreforged_plugin_manager`
 - Plugin Name: MCDReforged Plugin Manager
 - Version: None
-  - Metadata version: 2.1.1
+  - Metadata version: 2.2.0
   - Release version: None
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)

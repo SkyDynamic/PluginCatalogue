@@ -9,7 +9,7 @@
 - 插件 ID: `mcdreforged_plugin_manager`
 - 插件名: MCDReforged Plugin Manager
 - 版本: None
-  - 元数据版本: 2.1.1
+  - 元数据版本: 2.2.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
