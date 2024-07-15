@@ -2213,14 +2213,14 @@ config.json
 - Plugin ID: `mirror_server_reforged`
 - Plugin Name: MirrorServerReforged
 - Version: None
-  - Metadata version: 1.0.7
+  - Metadata version: 1.0.8-alpha
   - Release version: None
 - Total downloads: 0
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
 - Repository plugin page: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.
+- Description: A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.6.0+.
 
 ### Dependencies
 

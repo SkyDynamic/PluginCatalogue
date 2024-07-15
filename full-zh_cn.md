@@ -2218,14 +2218,14 @@ config.json
 - 插件 ID: `mirror_server_reforged`
 - 插件名: MirrorServerReforged
 - 版本: None
-  - 元数据版本: 1.0.7
+  - 元数据版本: 1.0.8-alpha
   - 发布版本: None
 - 总下载量: 0
 - 作者: [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/MirrorServerReforged
 - 仓库插件页: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件
+- 描述: [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.6.0+的镜像服插件
 
 ### 插件依赖
 
