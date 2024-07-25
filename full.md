@@ -2844,7 +2844,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Plugin ID: `player_last_play`
 - Plugin Name: PlayerLastPlay
 - Version: None
-  - Metadata version: 1.1.0
+  - Metadata version: 1.1.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Aimerny](https://github.com/Aimerny)
