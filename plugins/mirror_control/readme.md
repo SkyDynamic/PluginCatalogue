@@ -9,7 +9,7 @@
 - Plugin ID: `mirror_control`
 - Plugin Name: Mirror Control
 - Version: None
-  - Metadata version: 1.0.3
+  - Metadata version: 1.0.4
   - Release version: None
 - Total downloads: 0
 - Authors: [Chara_SS](https://github.com/charassss/)
@@ -22,12 +22,13 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.13.0 |
 
 ### Requirements
 
 | Python package | Requirement |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.6.0 |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.13.0 |
 
 ### Introduction
 

@@ -9,7 +9,7 @@
 - 插件 ID: `mirror_control`
 - 插件名: Mirror Control
 - 版本: None
-  - 元数据版本: 1.0.3
+  - 元数据版本: 1.0.4
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Chara_SS](https://github.com/charassss/)
@@ -22,12 +22,13 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.13.0 |
 
 ### 包依赖
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.6.0 |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.13.0 |
 
 ### 介绍
 
