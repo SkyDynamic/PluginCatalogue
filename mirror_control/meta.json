@@ -2,15 +2,17 @@
   "schema_version": 3,
   "id": "mirror_control",
   "name": "Mirror Control",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": "https://github.com/charassss/Mirror-Control",
   "link": "https://github.com/charassss/Mirror-Control",
   "authors": [
     "Chara_SS"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "mcdreforged": ">=2.13.0"
+  },
   "requirements": [
-    "mcdreforged~=2.6.0"
+    "mcdreforged>=2.13.0"
   ],
   "description": {
     "en_us": "A plugin to control mirror server",
