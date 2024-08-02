@@ -2661,7 +2661,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 插件 ID: `offline_whitelist_reforged`
 - 插件名: OfflineWhitelistReforged
 - 版本: None
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.1.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Aimerny](https://github.com/Aimerny)
@@ -2700,16 +2700,25 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 
 ## 权限要求
 
-使用MCDR的权限系统
-
+使用MCDR的权限系统,权限要求由配置文件配置,默认如下
+```json5
+{
+    "perms": {
+        "on": 4, // owner
+        "off": 4, // owner
+        "list": 2, // helper
+        "add": 3, // admin
+        "remove": 3 //admin
+    }
+}
+```
 `help`: 无权限要求
 
 `list`: helper及以上
 
-`add`,`remove`,`on`: admin及以上
+`add`,`remove`: admin及以上
 
-`off`: 仅owner(控制台权限等同于owner)
-
+`off, on`: 仅owner(控制台权限等同于owner)
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
