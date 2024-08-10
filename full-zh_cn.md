@@ -1725,7 +1725,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 插件 ID: `loginproxy`
 - 插件名: LoginProxy
 - 版本: None
-  - 元数据版本: 0.6.7
+  - 元数据版本: 0.6.11
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
