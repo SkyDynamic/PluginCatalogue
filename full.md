@@ -2589,7 +2589,7 @@ A whitelist plugin with multiple server
 - Plugin ID: `offline_whitelist_reforged`
 - Plugin Name: OfflineWhitelistReforged
 - Version: None
-  - Metadata version: 1.1.0
+  - Metadata version: 1.1.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Aimerny](https://github.com/Aimerny)
