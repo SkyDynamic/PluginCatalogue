@@ -3791,7 +3791,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Plugin ID: `tpm`
 - Plugin Name: TpManager
 - Version: None
-  - Metadata version: 0.4.6
+  - Metadata version: 0.5.0
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
